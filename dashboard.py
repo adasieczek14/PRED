@@ -28,13 +28,27 @@ st.set_page_config(
 # GOOGLE ANALYTICS 4
 # ==========================================
 components.html("""
-<!-- Google tag (gtag.js) -->
-<script async src="https://www.googletagmanager.com/gtag/js?id=G-M6GPSMNMK2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-M6GPSMNMK2');
+  // Wstrzyknięcie GA4 do głównej strony (window.parent), nie do iframe
+  (function() {
+    var GA_ID = 'G-M6GPSMNMK2';
+    var parent = window.parent;
+
+    // Dodaj gtag.js do <head> strony głównej
+    var script1 = parent.document.createElement('script');
+    script1.async = true;
+    script1.src = 'https://www.googletagmanager.com/gtag/js?id=' + GA_ID;
+    parent.document.head.appendChild(script1);
+
+    // Inicjalizacja dataLayer i gtag
+    var script2 = parent.document.createElement('script');
+    script2.innerHTML =
+      'window.dataLayer = window.dataLayer || [];' +
+      'function gtag(){dataLayer.push(arguments);}' +
+      'gtag("js", new Date());' +
+      'gtag("config", "' + GA_ID + '");';
+    parent.document.head.appendChild(script2);
+  })();
 </script>
 """, height=0)
 
