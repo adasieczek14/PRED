@@ -11,6 +11,7 @@ import glob
 import os
 import plotly.express as px
 import plotly.graph_objects as go
+import streamlit.components.v1 as components
 from datetime import datetime, timedelta
 
 # ==========================================
@@ -22,6 +23,20 @@ st.set_page_config(
     layout="wide",
     initial_sidebar_state="expanded",
 )
+
+# ==========================================
+# GOOGLE ANALYTICS 4
+# ==========================================
+components.html("""
+<!-- Google tag (gtag.js) -->
+<script async src="https://www.googletagmanager.com/gtag/js?id=G-M6GPSMNMK2"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+  gtag('config', 'G-M6GPSMNMK2');
+</script>
+""", height=0)
 
 # ==========================================
 # GŁÓWNA LOGIKA DANYCH
