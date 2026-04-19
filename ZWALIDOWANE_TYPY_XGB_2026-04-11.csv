@@ -1,0 +1,38 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Kurs_Otwarcia;Delta_Kursu;Alert_Rynku;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+16:00;HSC Hannover vs Meppen;Germany 4;1.08 (2);1.1;92.6;6.3;2;;;;2;0:5;WYGRANA;8.0
+20:00;Al Akhdoud vs Al Nassr FC;Saudi Arabia 1;1.12 (2);3.9;92.0;4.1;2;;;;2;0:2;WYGRANA;12.000000000000014
+10:30;Pusamania Borneo vs PSBS Biak Numfor;Indonesia 1;1.14 (1);87.5;2.1;10.4;1;1.19;-0.13;GRUBA GRA (Spadek);1;5:1;WYGRANA;13.999999999999986
+13:30;Coventry City vs Sheffield Wednesday;England 2;1.12 (1);87.0;6.3;6.7;1;2.25;0.15;OSTRZEZENIE (Rosnie);X;0:0;PRZEGRANA;-100.0
+18:30;Rochdale vs Wealdstone;England 5;1.3 (1);83.6;5.3;11.2;1;;;;1;2:1;WYGRANA;30.0
+19:00;SV St. Anna vs Oedt;Austria 3;1.22 (2);6.3;82.9;10.8;2;1.24;0.02;Stabilnie;X;1:1;PRZEGRANA;-100.0
+16:00;Needham Market vs Barwell FC;England 7;1.25 (1);78.7;6.4;14.9;1;1.3;0.12;OSTRZEZENIE (Rosnie);1;2:1;WYGRANA;25.0
+16:00;St.Johnstone vs Airdrieonians;Scotland 2;1.25 (1);77.9;7.5;14.6;1;1.33;-0.08;Stabilnie;1;4:0;WYGRANA;25.0
+16:00;Worthing vs Dagenham & Redbridge;England 6;1.33 (1);77.5;7.7;14.8;1;;;;1;7:2;WYGRANA;33.0
+18:30;FC Barcelona vs Espanyol;Spain 1;1.28 (1);74.2;12.8;13.1;1;1.2;0.1;Stabilnie;1;4:1;WYGRANA;28.0
+21:05;Rennes vs Angers;France 1;1.36 (1);72.1;10.3;17.7;1;1.4;-0.02;Stabilnie;1;2:1;WYGRANA;36.0
+16:00;Southport vs Leamington;England 6;1.44 (1);69.3;9.9;20.8;1;1.3;0.12;OSTRZEZENIE (Rosnie);2;1:2;PRZEGRANA;-100.0
+14:00;RW Essen vs Ingolstadt;Germany 3;1.61 (1);68.7;7.6;23.6;1;1.75;-0.07;Stabilnie;1;4:1;WYGRANA;61.0
+13:00;Ararat vs Alashkert FC;Armenia 1;1.5 (2);11.9;68.5;19.6;2;;;;Brak/Odwolany;-;Odwolany;0.0
+16:00;Scunthorpe United vs Brackley Town;England 5;1.45 (1);67.0;10.0;23.1;1;1.5;-0.08;Stabilnie;1;1:0;WYGRANA;45.0
+19:00;Kayserispor vs Fenerbahce;Turkey 1;1.44 (2);20.4;66.3;13.2;2;1.53;-0.08;Stabilnie;2;0:4;WYGRANA;44.0
+16:00;Chesterfield vs Tranmere Rovers;England 4;1.5 (1);64.1;15.2;20.7;1;;;;X;1:1;PRZEGRANA;-100.0
+16:00;Salford City vs Gillingham;England 4;1.61 (1);63.8;18.1;18.1;1;;;;X;0:0;PRZEGRANA;-100.0
+18:00;Al Najma vs Al Suqoor;Saudi Arabia 1;1.55 (2);15.5;63.3;21.2;2;;;;1;2:1;PRZEGRANA;-100.0
+20:00;Saint-Etienne vs Dunkerque;France 2;1.61 (1);62.1;14.7;23.2;1;;;;1;2:1;WYGRANA;61.0
+16:00;Dumbarton vs Stirling Albion;Scotland 4;1.7 (1);59.3;18.0;22.7;1;;;;1;2:1;WYGRANA;70.0
+16:15;Burgos CF vs Sporting Gijon;Spain 2;2.15 (1);56.9;19.6;23.4;1;;;;1;1:0;WYGRANA;115.0
+16:00;Aldershot Town vs Gateshead FC;England 5;3.4 (2);55.9;21.6;22.6;1;;;;2;0:1;PRZEGRANA;-100.0
+16:00;Burton Albion vs AFC Wimbledon;England 3;1.8 (1);54.3;17.6;28.1;1;;;;1;1:0;WYGRANA;80.0
+16:00;Bury Town vs Stamford AFC;England 7;1.8 (1);53.7;19.3;26.9;1;;;;X;0:0;PRZEGRANA;-100.0
+16:00;Canvey vs Dartford;England 7;1.5 (2);18.0;53.2;28.8;2;;;;2;0:4;WYGRANA;50.0
+16:00;Chorley vs Curzon;England 6;1.7 (1);52.5;20.7;26.8;1;;;;2;0:1;PRZEGRANA;-100.0
+16:00;Southampton vs Derby County;England 2;1.75 (1);51.0;15.5;33.5;1;;;;1;2:1;WYGRANA;75.0
+15:00;Jablonec vs Banik Ostrawa;Czech Republic 1;2.0 (1);50.7;25.5;23.8;1;;;;1;4:1;WYGRANA;100.0
+14:00;Alemannia Aachen vs VfB Stuttgart II;Germany 3;1.85 (1);50.1;20.1;29.8;1;;;;1;3:1;WYGRANA;85.0
+17:45;MTK Budapeszt vs Zalaegerszeg;Hungary 1;2.45 (2);24.2;44.8;31.0;2;;;;1;3:0;PRZEGRANA;-100.0
+18:30;Cartagena vs Antequera;Spain 3;1.85 (1);44.7;28.9;26.4;1;;;;1;1:0;WYGRANA;85.0
+14:00;1. FC Phoenix Luebeck vs Hannover 96 II;Germany 4;2.62 (2);38.1;44.0;17.9;2;;;;2;0:2;WYGRANA;162.0
+16:00;Aberdeen vs Hibernian;Scotland 1;2.1 (2);31.0;43.9;25.1;2;;;;1;2:0;PRZEGRANA;-100.0
+jutro 01:00;Tapatio vs Irapuato;Mexico 2;2.3 (1);40.6;20.8;38.6;1;;;;Brak/Odwolany;-;Odwolany;0.0
+16:00;Alanyaspor vs Trabzonspor;Turkey 1;2.3 (2);30.3;38.6;31.1;2;;;;X;1:1;PRZEGRANA;-100.0
+16:15;SD Tarazona vs Alcorcon;Spain 3;2.45 (2);32.4;38.1;29.6;2;;;;1;2:0;PRZEGRANA;-100.0

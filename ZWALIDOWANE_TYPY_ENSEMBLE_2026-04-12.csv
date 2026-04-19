@@ -1,0 +1,6 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+22:30;Montego Bay United FC vs Spanish Town Police FC;Jamaica 1;1.1 (1);86.5;7.8;5.7;1;✅ OBA ZGODNE (1);84.0;4.0;12.0;88.2;6.8;5.0;Brak/Odwolany;-;Odwolany;0.0
+jutro 00:00;Newtown United vs Conaree United;St. Kitts and Nevis 1;1.42 (1);68.6;14.6;16.7;1;✅ OBA ZGODNE (1);72.0;12.0;16.0;66.4;19.9;13.7;Brak/Odwolany;-;Odwolany;0.0
+23:15;Rubio Nu vs Olimpia;Paraguay 1;1.66 (2);13.8;64.5;21.8;2;✅ OBA ZGODNE (2);4.0;16.0;80.0;20.3;25.6;54.1;Brak/Odwolany;-;Odwolany;0.0
+22:30;Chapelton vs Cavalier SC;Jamaica 1;2.8 (1);39.6;35.2;25.2;1;✅ OBA ZGODNE (1);44.0;20.0;36.0;36.6;28.7;34.7;Brak/Odwolany;-;Odwolany;0.0
+23:30;Corinthians vs Palmeiras;Brazil 1;2.62 (2);33.4;32.5;34.0;X;⚠️ RÓŻNICA (KNN:X XGB:1);28.0;44.0;28.0;37.0;27.4;35.5;Brak/Odwolany;-;Odwolany;0.0

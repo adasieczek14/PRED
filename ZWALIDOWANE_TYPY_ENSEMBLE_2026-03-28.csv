@@ -1,0 +1,44 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+16:00;Linlithgow Rose vs East Stirlingshire;Scotland 5;1.22 (1);87.5;2.6;9.9;1;✅ OBA ZGODNE (1);90.0;10.0;0.0;85.8;9.8;4.4;1;4:3;WYGRANA;22.0
+16:00;Dartford vs Hashtag United;England 7;1.27 (1);83.8;7.6;8.5;1;✅ OBA ZGODNE (1);90.0;5.0;5.0;79.7;10.9;9.4;1;7:0;WYGRANA;27.0
+15:00;USM El Harrach vs JSM Tiaret;Algeria 2;1.33 (1);82.2;5.9;11.9;1;✅ OBA ZGODNE (1);85.0;10.0;5.0;80.3;13.2;6.5;1;1:0;WYGRANA;33.0
+15:00;CRB Adrar vs JS El Biar;Algeria 2;1.36 (2);6.9;80.1;13.0;2;✅ OBA ZGODNE (2);5.0;15.0;80.0;8.1;11.7;80.1;2;0:5;WYGRANA;36.0
+14:00;Rutsiro vs Al Hilal Omdurman;Rwanda 1;1.36 (2);6.5;79.4;14.1;2;✅ OBA ZGODNE (2);5.0;20.0;75.0;7.5;10.2;82.4;2;1:2;WYGRANA;36.0
+16:00;South Shields vs Alfreton Town;England 6;1.25 (1);75.7;5.2;19.0;1;✅ OBA ZGODNE (1);80.0;15.0;5.0;72.9;21.7;5.4;1;3:0;WYGRANA;25.0
+16:00;Dulwich Hamlet vs Potters Bar Town;England 7;1.45 (1);74.8;10.7;14.4;1;✅ OBA ZGODNE (1);80.0;10.0;10.0;71.4;17.4;11.2;1;4:1;WYGRANA;45.0
+16:00;Walton & Hersham vs Dorchester Town;England 7;1.33 (1);74.7;6.9;18.4;1;✅ OBA ZGODNE (1);75.0;20.0;5.0;74.5;17.3;8.2;1;3:1;WYGRANA;33.0
+jutro 00:10;Tolima vs CD Jaguares;Colombia 1;1.38 (1);71.7;11.3;17.0;1;✅ OBA ZGODNE (1);75.0;15.0;10.0;69.5;18.3;12.2;1;3:1;WYGRANA;38.0
+16:00;Spalding United vs Bromsgrove Sporting;England 7;1.25 (1);71.5;8.0;20.4;1;✅ OBA ZGODNE (1);75.0;20.0;5.0;69.2;20.7;10.0;2;0:2;PRZEGRANA;-100.0
+jutro 00:30;Cerro Porteno vs Sportivo San Lorenzo;Paraguay 1;1.27 (1);71.1;9.1;19.8;1;✅ OBA ZGODNE (1);70.0;20.0;10.0;71.9;19.6;8.5;1;2:0;WYGRANA;27.0
+16:00;Barwell FC vs Kettering Town FC;England 7;1.72 (2);9.1;68.4;22.5;2;✅ OBA ZGODNE (2);10.0;25.0;65.0;8.5;20.9;70.7;2;2:5;WYGRANA;72.0
+16:00;Buffles vs Cavaliers;Benin 1;1.4 (1);64.7;12.2;23.1;1;✅ OBA ZGODNE (1);65.0;25.0;10.0;64.5;21.8;13.7;X;0:0;PRZEGRANA;-100.0
+16:00;Braintree Town vs Carlisle United;England 5;1.53 (2);15.8;63.6;20.6;2;✅ OBA ZGODNE (2);15.0;30.0;55.0;16.3;14.4;69.4;2;1:2;WYGRANA;53.0
+16:00;Truro City vs Boreham Wood;England 5;1.61 (2);16.5;62.3;21.2;2;✅ OBA ZGODNE (2);15.0;25.0;60.0;17.5;18.7;63.8;X;0:0;PRZEGRANA;-100.0
+15:00;Nykoebing FC vs Vanloese;Denmark 4;1.44 (1);61.2;10.7;28.1;1;✅ OBA ZGODNE (1);60.0;35.0;5.0;62.0;23.5;14.5;1;2:1;WYGRANA;44.0
+15:00;East Fife vs Stenhousemuir;Scotland 3;1.7 (2);9.5;61.1;29.4;2;✅ OBA ZGODNE (2);10.0;30.0;60.0;9.1;29.0;61.9;X;2:2;PRZEGRANA;-100.0
+16:00;Tranent Juniors vs Bo'ness United;Scotland 5;1.61 (1);60.0;17.5;22.4;1;✅ OBA ZGODNE (1);55.0;25.0;20.0;63.3;20.7;15.9;Brak/Odwolany;-;Odwolany;0.0
+16:00;Maidstone vs AFC Totton;England 6;1.57 (1);59.8;18.3;21.9;1;✅ OBA ZGODNE (1);65.0;20.0;15.0;56.3;23.2;20.5;1;3:1;WYGRANA;57.0
+16:00;Stourbridge vs St. Ives Town FC;England 7;1.8 (1);56.8;15.9;27.3;1;✅ OBA ZGODNE (1);50.0;35.0;15.0;61.3;22.1;16.5;1;4:3;WYGRANA;80.0
+18:30;Malaga CF vs Leganes;Spain 2;2.0 (1);56.7;19.0;24.4;1;✅ OBA ZGODNE (1);70.0;15.0;15.0;47.8;30.6;21.6;X;0:0;PRZEGRANA;-100.0
+16:00;Maidenhead United vs Weston Super Mare;England 6;1.75 (1);56.5;12.9;30.6;1;✅ OBA ZGODNE (1);60.0;35.0;5.0;54.1;27.7;18.2;2;1:2;PRZEGRANA;-100.0
+14:00;Union Mauer vs Parndorf;Austria 3;1.72 (2);26.1;55.6;18.3;2;✅ OBA ZGODNE (2);30.0;15.0;55.0;23.5;20.5;56.0;X;0:0;PRZEGRANA;-100.0
+15:00;Dumbarton vs Forfar Athletic;Scotland 4;2.25 (1);53.1;23.7;23.1;1;✅ OBA ZGODNE (1);60.0;20.0;20.0;48.5;25.2;26.2;X;2:2;PRZEGRANA;-100.0
+16:00;Bristol Rovers vs Accrington Stanley;England 4;1.8 (1);53.0;26.1;20.9;1;✅ OBA ZGODNE (1);45.0;20.0;35.0;58.3;21.5;20.2;1;2:0;WYGRANA;80.0
+13:00;Ishoej BK vs VSK Aarhus;Denmark 3;2.25 (2);31.5;50.7;17.9;2;⚠️ RÓŻNICA (KNN:1 XGB:2);40.0;25.0;35.0;25.8;13.1;61.1;X;2:2;PRZEGRANA;-100.0
+16:00;Brentwood Town vs Chatham Town;England 7;2.0 (2);29.7;50.1;20.3;2;✅ OBA ZGODNE (2);40.0;10.0;50.0;22.8;27.1;50.2;X;0:0;PRZEGRANA;-100.0
+16:00;Curzon vs Chester FC;England 6;1.8 (2);19.8;49.6;30.6;2;✅ OBA ZGODNE (2);15.0;35.0;50.0;23.0;27.7;49.3;2;0:1;WYGRANA;80.0
+16:15;Granada vs Huesca;Spain 2;1.8 (1);49.5;16.5;33.9;1;✅ OBA ZGODNE (1);50.0;40.0;10.0;49.2;29.9;20.9;1;4:2;WYGRANA;80.0
+16:00;Uxbridge vs Wimborne Town;England 7;2.05 (1);49.5;26.9;23.5;1;✅ OBA ZGODNE (1);55.0;15.0;30.0;45.9;29.2;24.9;X;3:3;PRZEGRANA;-100.0
+16:00;Atherstone Town vs Hungerford Town;England 7;1.8 (2);24.7;48.2;27.2;2;✅ OBA ZGODNE (2);15.0;25.0;60.0;31.1;28.6;40.4;1;2:0;PRZEGRANA;-100.0
+16:00;Crawley Town vs Gillingham;England 4;2.25 (1);44.4;30.9;24.7;1;✅ OBA ZGODNE (1);45.0;25.0;30.0;44.0;24.5;31.5;1;2:0;WYGRANA;125.0
+16:00;Royston Town vs Redditch United;England 7;1.85 (2);27.4;43.2;29.4;2;✅ OBA ZGODNE (2);30.0;30.0;40.0;25.7;29.0;45.3;2;1:2;WYGRANA;85.0
+16:00;Barrow vs Bromley;England 4;2.15 (2);18.1;43.2;38.8;2;⚠️ RÓŻNICA (KNN:X XGB:2);15.0;50.0;35.0;20.1;31.3;48.6;1;2:1;PRZEGRANA;-100.0
+16:00;Hereford vs Buxton;England 6;2.3 (2);29.9;43.0;27.0;2;✅ OBA ZGODNE (2);30.0;25.0;45.0;29.9;28.4;41.7;2;0:2;WYGRANA;129.99999999999997
+21:00;FC Eindhoven vs FC Emmen;Netherlands 2;2.1 (1);42.7;27.7;29.6;1;✅ OBA ZGODNE (1);45.0;25.0;30.0;41.2;32.6;26.2;1;1:0;WYGRANA;110.0
+16:00;Real Bedford vs Halesowen;England 7;1.83 (1);40.2;17.3;42.6;X;⚠️ RÓŻNICA (KNN:X XGB:1);40.0;50.0;10.0;40.3;37.6;22.1;1;2:1;PRZEGRANA;-100.0
+16:00;Exeter City vs Leyton Orient;England 3;2.75 (2);26.1;41.7;32.1;2;⚠️ RÓŻNICA (KNN:X XGB:2);20.0;40.0;40.0;30.2;26.9;42.8;X;0:0;PRZEGRANA;-100.0
+15:00;Jarun vs Sesvete;Croatia 2;2.62 (2);41.2;34.4;24.3;1;✅ OBA ZGODNE (1);45.0;25.0;30.0;38.7;23.9;37.4;2;0:2;PRZEGRANA;-100.0
+15:00;Zilina B vs Inter Bratislava;Slovakia 2;2.5 (1);33.0;40.0;27.0;2;⚠️ RÓŻNICA (KNN:2 XGB:1);15.0;25.0;60.0;45.0;28.4;26.6;2;1:2;WYGRANA;0.0
+16:00;Basingstoke vs Taunton Town;England 7;2.05 (1);39.9;27.7;32.5;1;✅ OBA ZGODNE (1);35.0;30.0;35.0;43.1;34.1;22.8;X;3:3;PRZEGRANA;-100.0
+18:30;Unionistas de Salamanca vs Arenteiro;Spain 3;1.9 (1);38.9;26.1;35.1;1;✅ OBA ZGODNE (1);40.0;35.0;25.0;38.2;35.1;26.8;1;3:1;WYGRANA;90.0
+16:00;Dubrava Zagreb vs Bjelo Brdo;Croatia 2;2.55 (1);38.1;38.0;24.0;1;⚠️ RÓŻNICA (KNN:1 XGB:2);50.0;20.0;30.0;30.1;26.6;43.3;Brak/Odwolany;-;Odwolany;0.0

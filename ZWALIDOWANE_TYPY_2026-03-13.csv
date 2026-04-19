@@ -1,0 +1,52 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Unnamed: 7;Typ_Modelu;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+14:00;Kitara FC vs Buhimba United Saints;Uganda 1;1.25 (1);90.0;5.0;5.0;PRAWDA;1;1;4:0;WYGRANA;25.0
+19:00;Lyngby vs Middelfart G og BK;Denmark 2;1.33 (1);85.0;5.0;10.0;PRAWDA;1;1;4:1;WYGRANA;33.0
+19:30;Sportfreunde Siegen vs Wuppertal;Germany 4;1.38 (1);80.0;10.0;10.0;PRAWDA;1;1;2:0;WYGRANA;38.0
+18:00;Fatih Karagümrük vs Fenerbahce;Turkey 1;1.4 (2);10.0;75.0;15.0;FALSZ;2;1;2:0;PRZEGRANA;-100.0
+19:30;Velbert vs Fortuna Koeln;Germany 4;1.25 (2);5.0;75.0;20.0;PRAWDA;2;2;0:2;WYGRANA;25.0
+20:00;Gyori ETO vs MTK Budapeszt;Hungary 1;1.44 (1);75.0;20.0;5.0;FALSZ;1;X;0:0;PRZEGRANA;-100.0
+21:15;Al Zawraa vs Naft Misan;Iraq 1;1.5 (1);70.0;15.0;15.0;remis;1;X;1:1;PRZEGRANA;-100.0
+19:00;Carl Zeiss Jena vs ZFC Meuselwitz;Germany 4;1.5 (1);70.0;10.0;20.0;PRAWDA;1;2;1:2;PRZEGRANA;-100.0
+19:00;Bayern Munich II vs FC Memmingen;Germany 4;1.72 (1);70.0;25.0;5.0;remis;1;X;2:2;PRZEGRANA;-100.0
+18:30;Oldenburg vs Blau-Weiss Lohne;Germany 4;1.36 (1);70.0;10.0;20.0;REMIS;1;X;1:1;PRZEGRANA;-100.0
+14:00;BUL FC vs Mbarara City;Uganda 1;1.44 (1);65.0;20.0;15.0;;1;X;0:0;PRZEGRANA;-100.0
+20:45;Torino vs SSD Parma;European Championship U-21 1;3.7 (2);65.0;10.0;25.0;;1;1;4:1;WYGRANA;0.0
+20:00;Warta Poznań vs GKS Jastrzębie;Poland 3;1.2 (1);65.0;20.0;15.0;;1;1;3:1;WYGRANA;20.0
+13:15;Ha Noi TT vs Song Lam Nghe An;Vietnam 1;1.33 (1);65.0;15.0;20.0;;1;1;3:0;WYGRANA;33.0
+17:45;Diosgyori VTK vs Kazincbarcikai BSC;Hungary 1;1.55 (1);65.0;20.0;15.0;;1;2;0:4;PRZEGRANA;-100.0
+19:30;Borussia Dortmund II vs Fortuna Duesseldorf II;Germany 4;1.5 (1);65.0;20.0;15.0;;1;1;4:1;WYGRANA;50.0
+20:00;FC Emmen vs ADO Den Haag;Netherlands 2;1.55 (2);15.0;65.0;20.0;;2;2;0:1;WYGRANA;55.0
+19:30;Dijon vs Aubagne;France 3;1.53 (1);60.0;20.0;20.0;;1;1;2:1;WYGRANA;53.0
+15:15;Rekord Bielsko-Biała vs Unia Skierniewice;Poland 3;2.1 (2);55.0;30.0;15.0;;1;2;0:2;PRZEGRANA;-100.0
+19:00;FSV Zwickau vs Hertha Zehlendorf;Germany 4;1.44 (1);55.0;10.0;35.0;;1;1;1:0;WYGRANA;44.0
+20:45;Gent vs Zulte-Waregem;Belgium 1;2.0 (1);55.0;30.0;15.0;;1;1;2:0;WYGRANA;100.0
+20:00;PEC Zwolle vs FC Groningen;Eredivisie;2.9 (1);55.0;35.0;10.0;;1;X;1:1;PRZEGRANA;-100.0
+20:00;Vitesse vs Almere City FC;Netherlands 2;2.5 (1);30.0;55.0;15.0;;2;2;1:3;WYGRANA;0.0
+19:00;BFC Dynamo vs BSG Chemie Leipzig;Germany 4;1.95 (1);55.0;15.0;30.0;;1;1;2:0;WYGRANA;95.0
+19:00;Diala vs Al Quwa Al Jawiya;Iraq 1;1.9 (2);20.0;55.0;25.0;;2;2;0:1;WYGRANA;90.0
+20:00;Jong PSV vs FC Eindhoven;Netherlands 2;2.2 (1);55.0;25.0;20.0;;1;2;1:2;PRZEGRANA;-100.0
+18:00;WSPG Wels vs Kapfenberger SV;Austria 2;1.9 (1);55.0;35.0;10.0;;1;1;3:1;WYGRANA;90.0
+19:30;Le Puy vs Caen;France 3;2.1 (1);55.0;20.0;25.0;;1;1;1:0;WYGRANA;110.0
+15:30;Araz vs Karvan;Azerbaijan 1;1.61 (1);50.0;15.0;35.0;;1;1;2:1;WYGRANA;61.0
+20:00;Nancy vs Le Mans;France 2;2.55 (2);20.0;50.0;30.0;;2;2;2:4;WYGRANA;154.99999999999997
+20:00;Al Feiha vs Al-Ettifaq;Saudi Arabia 1;2.1 (1);50.0;5.0;45.0;;1;1;1:0;WYGRANA;110.0
+19:00;Al Naft vs Al Najaf;Iraq 1;1.61 (1);50.0;10.0;40.0;;1;X;1:1;PRZEGRANA;-100.0
+20:00;FC Oss vs Willem II;Netherlands 2;1.9 (2);25.0;45.0;30.0;;2;2;1:3;WYGRANA;90.0
+19:00;Merida vs Guadalajara;Spain 3;1.7 (1);45.0;15.0;40.0;;1;2;1:4;PRZEGRANA;-100.0
+13:00;Nakhon Ratchasima FC vs Chiangrai United;Thailand 1;2.15 (2);45.0;35.0;20.0;;1;X;1:1;PRZEGRANA;-100.0
+18:00;Rapid Wien (A) vs Amstetten;Austria 2;1.65 (2);25.0;45.0;30.0;;2;1;4:1;PRZEGRANA;-100.0
+03:00;Pitbulls vs Santa Ana;Costa Rica 2;2.1 (1);45.0;30.0;25.0;;1;1;2:1;WYGRANA;110.0
+11:00;Khanh Hoa Nha Trang vs Bình Phước;Vietnam 2;1.9 (2);30.0;45.0;25.0;;2;2;0:2;WYGRANA;90.0
+18:30;Vasco da Gama vs TS Galaxy;South Africa 1;2.05 (1);40.0;30.0;30.0;;1;X;1:1;PRZEGRANA;-100.0
+20:30;Alcione vs Union Brescia;Italy 3;3.9 (1);30.0;40.0;30.0;;2;X;0:0;PRZEGRANA;-100.0
+19:00;Les Herbiers vs Chauray;France 4;1.8 (1);40.0;20.0;40.0;;1;1;3:1;WYGRANA;80.0
+18:30;Magdeburg vs Darmstadt;Germany 2;2.62 (2);20.0;40.0;40.0;;2;X;1:1;PRZEGRANA;-100.0
+03:00;Desamparados vs AD Aserri;Costa Rica 2;2.87 (2);40.0;25.0;35.0;;1;1;6:2;WYGRANA;0.0
+01:30;Huracan vs River Plate;Argentina 1;3.2 (1);40.0;40.0;20.0;;1;2;1:2;PRZEGRANA;-100.0
+17:30;Greater Tomorrow vs Fortune;Gambia 1;2.1 (2);40.0;40.0;20.0;;1;2;1:2;PRZEGRANA;-100.0
+20:00;Montpellier vs Laval;France 2;1.8 (1);15.0;40.0;45.0;;X;1;2:0;PRZEGRANA;-100.0
+14:30;Highbury vs Cape Town City FC;South Africa 2;2.15 (2);20.0;35.0;45.0;;X;1;3:1;PRZEGRANA;-100.0
+18:00;SK Austria Klagenfurt vs Floridsdorfer AC;Austria 2;2.2 (2);35.0;25.0;40.0;;X;2;0:3;PRZEGRANA;-100.0
+19:30;Bellinzona vs Etoile Carouge;Switzerland 2;2.4 (2);30.0;35.0;35.0;;2;2;0:3;WYGRANA;140.0
+20:15;Yverdon vs Wil;Switzerland 2;3.6 (2);25.0;30.0;45.0;;X;X;0:0;WYGRANA;0.0
+18:00;NK Varaždin vs Vukovar 91;Croatia 1;1.95 (1);25.0;15.0;60.0;;X;1;2:0;PRZEGRANA;-100.0

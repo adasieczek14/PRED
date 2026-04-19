@@ -1,0 +1,35 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2
+11:00;Cebu FC vs Garelli United;Philippines 1;1.03 (1);86.7;5.2;8.1;1;✅ OBA ZGODNE (1);85.0;5.0;10.0;87.9;10.1;2.0
+17:00;Ikorodu City vs Warri Wolves FC;Nigeria 1;1.4 (1);78.5;9.6;11.9;1;✅ OBA ZGODNE (1);85.0;5.0;10.0;74.1;16.5;9.4
+17:30;Pirin Blagoevgrad vs Belasitsa Petrich;Bulgaria 2;1.36 (1);76.1;12.4;11.4;1;✅ OBA ZGODNE (1);70.0;10.0;20.0;80.2;12.4;7.4
+14:30;SV Kuchl vs Kufstein;Austria 3;1.36 (1);75.8;9.4;14.8;1;✅ OBA ZGODNE (1);75.0;20.0;5.0;76.4;11.3;12.3
+16:00;Victoria United vs Stade Renard;Cameroon 1;1.38 (1);71.0;15.6;13.4;1;✅ OBA ZGODNE (1);70.0;10.0;20.0;71.6;15.7;12.7
+17:00;Hearts of Oak vs Gamba All Blacks;Ghana 1;1.57 (1);68.5;14.0;17.6;1;✅ OBA ZGODNE (1);80.0;10.0;10.0;60.8;22.6;16.6
+13:00;Naestved vs Brabrand;Denmark 3;1.4 (1);65.5;16.5;18.0;1;✅ OBA ZGODNE (1);55.0;20.0;25.0;72.5;16.6;10.9
+17:00;Bayelsa United vs Kano Pillars;Nigeria 1;1.53 (1);64.5;15.2;20.3;1;✅ OBA ZGODNE (1);65.0;20.0;15.0;64.2;20.5;15.3
+15:00;Biel/Bienne vs Bulle;Switzerland 3;1.48 (1);62.9;12.8;24.3;1;✅ OBA ZGODNE (1);60.0;20.0;20.0;64.9;27.1;8.0
+15:00;Podbeskidzie Bielsko-Biała vs KKS 1925 Kalisz;Poland 3;1.57 (1);62.1;18.1;19.8;1;✅ OBA ZGODNE (1);65.0;15.0;20.0;60.2;23.0;16.8
+17:30;ASKO de Kara vs Entente II;Togo 1;1.65 (1);61.2;11.2;27.5;1;✅ OBA ZGODNE (1);65.0;25.0;10.0;58.7;29.2;12.0
+17:00;Niger Tornadoes vs Wikki Tourist;Nigeria 1;1.53 (1);58.3;21.1;20.6;1;✅ OBA ZGODNE (1);55.0;20.0;25.0;60.5;21.0;18.5
+15:30;Sancataldese vs Nissa;Italy 4;1.8 (2);22.1;58.0;19.9;2;✅ OBA ZGODNE (2);30.0;20.0;50.0;16.8;19.8;63.4
+18:45;Djoliba vs ASKO;Mali 1;1.55 (1);57.7;20.2;22.1;1;✅ OBA ZGODNE (1);50.0;25.0;25.0;62.8;20.2;17.0
+15:00;Royal Knokke FC vs Lyra-Lierse Berlaar;Belgium 3;1.72 (1);56.2;19.4;24.4;1;✅ OBA ZGODNE (1);60.0;20.0;20.0;53.7;27.3;19.0
+23:45;Municipal Limeno vs HÃ©rcules;El Salvador 1;1.42 (1);55.1;19.2;25.6;1;✅ OBA ZGODNE (1);50.0;25.0;25.0;58.5;26.0;15.4
+15:00;Sammaurese vs Ostia Mare;Italy 4;2.0 (2);25.4;49.7;25.0;2;✅ OBA ZGODNE (2);30.0;30.0;40.0;22.3;21.6;56.1
+22:30;Montego Bay United FC vs Cavalier SC;Jamaica 1;1.61 (1);49.5;21.8;28.7;1;✅ OBA ZGODNE (1);50.0;30.0;20.0;49.1;27.9;23.0
+14:00;Ulinzi Stars vs Sofapaka;Kenya 1;1.9 (1);49.1;23.0;27.9;1;✅ OBA ZGODNE (1);55.0;25.0;20.0;45.2;29.8;25.0
+14:00;Wolfsberger AC (A) vs Oedt;Austria 3;2.0 (2);30.8;48.4;20.8;2;✅ OBA ZGODNE (2);35.0;25.0;40.0;28.0;18.0;54.0
+19:00;Aurora vs Deportivo Achuapa;Guatemala 1;1.75 (1);47.4;20.9;31.8;1;✅ OBA ZGODNE (1);40.0;35.0;25.0;52.4;29.6;18.1
+16:15;Leonesa vs FC Andorra;Spain 2;2.8 (2);45.6;22.9;31.5;1;✅ OBA ZGODNE (1);50.0;30.0;20.0;42.6;32.5;24.9
+15:00;Club Atletico Progreso vs Liverpool FC;Uruguay 1;1.95 (2);26.3;45.5;28.1;2;✅ OBA ZGODNE (2);25.0;30.0;45.0;27.1;26.9;45.9
+18:30;DSC vs Ouakam;Senegal 1;2.87 (2);44.5;24.8;30.7;1;✅ OBA ZGODNE (1);35.0;35.0;30.0;50.8;27.9;21.3
+12:00;Osasuna B vs Guadalajara;Spain 3;2.8 (2);44.3;26.4;29.3;1;✅ OBA ZGODNE (1);40.0;35.0;25.0;47.2;25.5;27.3
+16:30;ND Bilje vs Gorica;Slovenia 2;2.55 (2);23.3;32.8;43.8;X;⚠️ RÓŻNICA (KNN:X XGB:2);25.0;55.0;20.0;22.2;36.4;41.4
+15:00;Diegem Sport vs Ninove;Belgium 3;1.9 (1);42.2;36.0;21.7;1;⚠️ RÓŻNICA (KNN:2 XGB:1);40.0;15.0;45.0;43.7;26.2;30.0
+21:00;Chacarita Juniors vs Club Atletico Estudiantes;Argentina 2;2.3 (1);41.8;37.9;20.3;1;⚠️ RÓŻNICA (KNN:2 XGB:1);40.0;10.0;50.0;43.0;27.2;29.8
+17:30;Forli vs Pianese;Italy 3;3.2 (2);41.6;28.0;30.3;1;⚠️ RÓŻNICA (KNN:X XGB:1);30.0;35.0;35.0;49.3;27.2;23.4
+jutro 00:30;Atletico PR vs Botafogo RJ;Brazil 1;2.0 (1);41.6;25.5;32.8;1;✅ OBA ZGODNE (1);45.0;35.0;20.0;39.4;31.4;29.2
+18:30;Teungueth vs Jaraaf;Senegal 1;2.35 (1);28.1;40.2;31.7;2;⚠️ RÓŻNICA (KNN:2 XGB:X);30.0;20.0;50.0;26.9;39.5;33.6
+14:00;Eibar vs Las Palmas;Spain 2;2.45 (1);30.8;39.4;29.8;2;⚠️ RÓŻNICA (KNN:X XGB:2);20.0;45.0;35.0;38.0;19.6;42.4
+jutro 01:20;Deportivo Pasto vs Atletico Nacional;Colombia 1;3.3 (1);27.2;34.1;38.7;X;✅ OBA ZGODNE (X);20.0;45.0;35.0;32.0;34.5;33.5
+17:30;Casarano vs Giugliano;Italy 3;2.1 (1);36.8;29.4;33.8;1;⚠️ RÓŻNICA (KNN:1 XGB:X);40.0;30.0;30.0;34.7;36.3;29.0

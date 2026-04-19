@@ -1,0 +1,17 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+19:00;Lokomotive Leipzig vs Hertha Zehlendorf;Germany 4;1.25 (1);84.9;3.7;11.4;1;✅ OBA ZGODNE (1);90.0;10.0;0.0;81.5;12.4;6.1;2;0:2;PRZEGRANA;-100.0
+19:00;VSG Altglienicke vs FC Eilenburg;Germany 4;1.4 (1);75.8;6.0;18.3;1;✅ OBA ZGODNE (1);75.0;20.0;5.0;76.3;17.2;6.6;1;3:1;WYGRANA;40.0
+23:00;Deportivo Riestra vs San Lorenzo;Argentina 1;4.1 (2);55.0;12.6;32.4;1;✅ OBA ZGODNE (1);70.0;20.0;10.0;45.0;40.7;14.3;X;1:1;PRZEGRANA;-100.0
+20:45;Southend United vs Woking;England 5;1.61 (1);53.7;13.7;32.6;1;✅ OBA ZGODNE (1);50.0;40.0;10.0;56.1;27.7;16.2;X;1:1;PRZEGRANA;-100.0
+20:45;Farnborough vs Chelmsford;England 6;1.9 (2);21.2;53.1;25.7;2;✅ OBA ZGODNE (2);15.0;25.0;60.0;25.4;26.1;48.5;1;4:2;PRZEGRANA;-100.0
+18:00;Schoeningen vs Kickers Emden;Germany 4;2.0 (2);25.0;52.1;22.8;2;✅ OBA ZGODNE (2);20.0;20.0;60.0;28.4;24.7;46.9;2;1:2;WYGRANA;100.0
+20:45;Scunthorpe United vs Rochdale;England 5;2.0 (2);18.5;50.5;31.0;2;✅ OBA ZGODNE (2);15.0;35.0;50.0;20.8;28.4;50.8;X;2:2;PRZEGRANA;-100.0
+21:00;Brechin City vs Formartine Utd;Scotland 5;4.5 (2);49.4;24.2;26.4;1;✅ OBA ZGODNE (1);70.0;15.0;15.0;35.6;34.0;30.4;X;0:0;PRZEGRANA;-100.0
+19:00;Greifswalder SV vs Magdeburg II;Germany 4;2.05 (1);49.0;17.6;33.4;1;✅ OBA ZGODNE (1);50.0;35.0;15.0;48.3;32.4;19.4;2;1:3;PRZEGRANA;-100.0
+20:45;Wealdstone vs Yeovil Town;England 5;1.85 (1);48.9;16.5;34.6;1;✅ OBA ZGODNE (1);45.0;40.0;15.0;51.5;31.0;17.5;2;0:2;PRZEGRANA;-100.0
+19:00;BFC Dynamo vs FSV Luckenwalde;Germany 4;2.3 (1);48.1;26.0;25.9;1;✅ OBA ZGODNE (1);55.0;25.0;20.0;43.5;26.5;30.0;2;0:1;PRZEGRANA;-100.0
+20:45;Tamworth vs Forest Green Rovers;England 5;3.1 (1);44.8;39.7;15.5;1;✅ OBA ZGODNE (1);45.0;10.0;45.0;44.7;19.2;36.1;1;1:0;WYGRANA;210.0
+19:00;Bonner SC vs Bochum II;Germany 4;2.1 (1);43.2;22.8;34.1;1;⚠️ RÓŻNICA (KNN:1 XGB:X);50.0;25.0;25.0;38.6;40.2;21.3;Brak/Odwolany;-;Odwolany;0.0
+20:45;Truro City vs Solihull Moors;England 5;2.45 (2);40.4;42.1;17.5;2;⚠️ RÓŻNICA (KNN:2 XGB:1);40.0;15.0;45.0;40.7;19.1;40.2;X;1:1;PRZEGRANA;-100.0
+22:00;Deportiva Carmelita vs Desamparados;Costa Rica 2;3.2 (1);31.5;38.3;30.1;2;⚠️ RÓŻNICA (KNN:2 XGB:1);25.0;30.0;45.0;35.9;30.2;33.9;X;1:1;PRZEGRANA;-100.0
+20:45;Morecambe vs Hartlepool United;England 5;2.35 (2);29.1;36.5;34.4;2;⚠️ RÓŻNICA (KNN:X XGB:2);25.0;45.0;30.0;31.8;27.3;40.9;2;2:3;WYGRANA;135.0

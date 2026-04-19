@@ -1,0 +1,43 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+15:00;Pogradeci vs Kastrioti;Albania 2;1.05 (1);95.0;0.0;5.0;1;1;5:1;WYGRANA;5.0
+16:00;AS Khroub vs IB Khémis El Khechna;Algeria 2;1.25 (1);95.0;0.0;5.0;1;X;1:1;PRZEGRANA;-100.0
+17:00;Dynamo Kijów vs Karpaty Lwów;Ukraine 1;1.38 (1);85.0;10.0;5.0;1;2;0:1;PRZEGRANA;-100.0
+15:00;Dinamo Zagrzeb vs Osijek;Croatia 1;1.16 (1);85.0;10.0;5.0;1;1;7:0;WYGRANA;15.999999999999986
+13:30;Arda Kardzhali vs Montana;Bulgaria 1;1.42 (1);80.0;15.0;5.0;1;1;2:1;WYGRANA;42.0
+15:00;Laci vs Burreli;Albania 2;1.2 (1);75.0;0.0;25.0;1;1;3:1;WYGRANA;20.0
+09:30;Rydalmere vs Inter Lions FC;Australia 3;1.48 (1);75.0;10.0;15.0;1;X;1:1;PRZEGRANA;-100.0
+21:30;FC Porto vs Famalicao;Portugal 1;1.4 (1);75.0;15.0;10.0;1;X;2:2;PRZEGRANA;-100.0
+16:00;Botew Płowdiw vs Spartak Varna;Bulgaria 1;1.38 (1);70.0;20.0;10.0;1;1;5:0;WYGRANA;38.0
+14:00;Osnabrueck vs FC Schweinfurt;Germany 3;1.3 (1);70.0;20.0;10.0;1;1;4:0;WYGRANA;30.0
+16:00;Rangers vs Dundee United;Scotland 1;1.25 (1);70.0;15.0;15.0;1;1;4:2;WYGRANA;25.0
+20:00;Al Hilal vs Al-Taawon;Saudi Arabia 1;1.2 (1);70.0;10.0;20.0;1;X;2:2;PRZEGRANA;-100.0
+07:30;Northern Tigers vs Central Coast Mariners Youth;Australia 3;1.5 (1);70.0;0.0;30.0;1;2;1:2;PRZEGRANA;-100.0
+15:00;Erzurum BB vs IÄŸdÄ±r FK;Turkey 2;1.53 (1);70.0;5.0;25.0;1;1;2:1;WYGRANA;53.0
+14:30;Cosenza vs Foggia;Italy 3;1.53 (1);65.0;15.0;20.0;1;1;1:0;WYGRANA;53.0
+16:00;Belasitsa Petrich vs Chernomorets 1919 Burgas;Bulgaria 2;1.83 (2);10.0;60.0;30.0;2;1;1:0;PRZEGRANA;-100.0
+15:30;Bayer Leverkusen vs VfL Wolfsburg;Germany 1;1.4 (1);60.0;5.0;35.0;1;1;6:3;WYGRANA;40.0
+14:00;Hansa Rostock vs Viktoria Koeln 1904;Germany 3;1.6 (1);60.0;20.0;20.0;1;2;2:3;PRZEGRANA;-100.0
+20:00;Nancy vs Saint-Etienne;France 2;1.85 (2);20.0;60.0;20.0;2;X;1:1;PRZEGRANA;-100.0
+16:00;NC Magra vs CA Batna;Algeria 2;1.85 (2);20.0;60.0;20.0;2;1;2:1;PRZEGRANA;-100.0
+16:00;Stenhousemuir vs Hamilton Academical;Scotland 3;1.61 (1);55.0;10.0;35.0;1;1;3:0;WYGRANA;61.0
+21:00;Excelsior vs NEC Nijmegen;Eredivisie;1.95 (2);10.0;55.0;35.0;2;2;0:2;WYGRANA;95.0
+14:30;Monopoli vs Trapani;Italy 3;1.8 (1);55.0;25.0;20.0;1;X;1:1;PRZEGRANA;-100.0
+15:30;Freiburg vs Bayern Monachium;Germany 1;1.4 (2);20.0;55.0;25.0;2;2;2:3;WYGRANA;40.0
+18:00;Hellas Werona vs Fiorentina;European Championship U-21 1;1.9 (2);15.0;55.0;30.0;2;2;0:1;WYGRANA;90.0
+jutro 01:00;Queretaro FC vs Toluca;Mexico 1;1.55 (2);25.0;55.0;20.0;2;Brak/Odwolany;-;Odwolany;0.0
+14:30;Sambenedettese vs Arezzo;Italy 3;1.65 (2);30.0;55.0;15.0;2;X;0:0;PRZEGRANA;-100.0
+10:30;PSM Makassar vs Persis Solo;Indonesia 1;4.0 (2);55.0;15.0;30.0;1;X;1:1;PRZEGRANA;-100.0
+16:00;Montrose vs East Fife;Scotland 3;2.0 (1);50.0;20.0;30.0;1;1;1:0;WYGRANA;100.0
+16:00;ZFC Meuselwitz vs Hallescher FC;Germany 4;1.75 (2);15.0;50.0;35.0;2;1;3:2;PRZEGRANA;-100.0
+19:00;Viseu vs Felgueiras 1932;Portugal 2;1.83 (1);50.0;40.0;10.0;1;2;0:1;PRZEGRANA;-100.0
+18:30;Leonesa vs Valladolid;Spain 2;2.5 (2);30.0;50.0;20.0;2;1;1:0;PRZEGRANA;-100.0
+16:15;Marbella FC vs Villarreal B;Spain 3;3.4 (2);45.0;25.0;30.0;1;2;0:1;PRZEGRANA;-100.0
+16:00;Lokomotiv G. Oryahovitsa vs Sevlievo;Bulgaria 2;3.1 (2);45.0;35.0;20.0;1;1;2:1;WYGRANA;0.0
+15:00;Kukesi vs Apolonia Fier;Albania 2;2.0 (1);40.0;30.0;30.0;1;1;2:0;WYGRANA;100.0
+16:00;Ayr United vs Partick Thistle;Scotland 2;2.2 (2);30.0;40.0;30.0;2;X;1:1;PRZEGRANA;-100.0
+16:00;RC Arbaa vs USM El Harrach;Algeria 2;1.9 (2);25.0;40.0;35.0;2;1;2:0;PRZEGRANA;-100.0
+17:00;Strasbourg vs Nice;France 1;1.8 (1);35.0;35.0;30.0;1;1;3:1;WYGRANA;80.0
+14:30;Zalaegerszeg vs Varda SE;Hungary 1;1.95 (1);35.0;35.0;30.0;1;1;2:0;WYGRANA;95.0
+18:30;Real Betis vs Espanyol;Spain 1;1.72 (1);35.0;30.0;35.0;1;X;0:0;PRZEGRANA;-100.0
+20:15;Jagiellonia Białystok vs Lech Poznań;Poland 1;2.55 (2);35.0;30.0;35.0;1;X;0:0;PRZEGRANA;-100.0
+15:00;Racing vs Juventud de las Piedras;Uruguay 1;1.8 (1);25.0;25.0;50.0;X;1;2:1;PRZEGRANA;-100.0

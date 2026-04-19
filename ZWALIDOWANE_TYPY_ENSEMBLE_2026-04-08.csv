@@ -1,0 +1,29 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+20:00;Al Hilal vs Al Kholood;Saudi Arabia 1;1.16 (1);93.7;1.7;4.5;1;✅ OBA ZGODNE (1);95.0;5.0;0.0;92.9;4.2;2.9;1;6:0;WYGRANA;15.999999999999986
+17:00;Montana vs Liteks Łowecz;Bulgaria 1;1.3 (2);18.0;71.7;10.3;2;✅ OBA ZGODNE (2);20.0;5.0;75.0;16.6;13.9;69.5;2;0:1;WYGRANA;30.0
+19:00;Goztepe vs Galatasaray Stambuł;Turkey 1;1.61 (2);12.1;70.4;17.5;2;✅ OBA ZGODNE (2);15.0;10.0;75.0;10.1;22.5;67.4;2;1:3;WYGRANA;61.0
+20:45;Marine vs Hereford;England 6;1.7 (1);65.9;15.9;18.2;1;✅ OBA ZGODNE (1);75.0;10.0;15.0;59.9;23.6;16.5;2;0:1;PRZEGRANA;-100.0
+20:45;Holywell Town vs Newtown;Wales 2;1.48 (1);64.6;10.5;25.0;1;✅ OBA ZGODNE (1);60.0;30.0;10.0;67.6;21.6;10.8;1;6:0;WYGRANA;48.0
+13:00;FK Slavija Sarajewo vs Sutjeska;Bosnia-Herzegovina 2;1.33 (1);64.3;5.5;30.2;1;✅ OBA ZGODNE (1);75.0;15.0;10.0;57.1;40.4;2.5;1;3:0;WYGRANA;33.0
+16:00;Termoli Calcio vs Sammaurese;Italy 4;1.6 (1);64.2;9.6;26.2;1;✅ OBA ZGODNE (1);70.0;25.0;5.0;60.4;27.0;12.6;Brak/Odwolany;-;Odwolany;0.0
+19:00;Wehen vs TSV Havelse;Germany 3;1.53 (1);64.1;15.0;20.9;1;✅ OBA ZGODNE (1);65.0;20.0;15.0;63.5;21.5;15.0;2;1:4;PRZEGRANA;-100.0
+19:00;Carl Zeiss Jena vs FSV Zwickau;Germany 4;1.83 (1);60.8;22.6;16.6;1;✅ OBA ZGODNE (1);70.0;10.0;20.0;54.6;21.0;24.4;1;5:1;WYGRANA;83.0
+16:00;Radnik Hadzici vs Buducnost;Bosnia-Herzegovina 2;3.7 (2);58.5;12.4;29.2;1;✅ OBA ZGODNE (1);65.0;30.0;5.0;54.1;28.6;17.3;Brak/Odwolany;-;Odwolany;0.0
+02:30;Barranquilla FC vs Real Santander;Colombia 2;1.9 (1);55.2;18.0;26.9;1;✅ OBA ZGODNE (1);65.0;25.0;10.0;48.6;28.1;23.4;1;2:0;WYGRANA;90.0
+19:30;TS Galaxy vs Polokwane City;South Africa 1;2.9 (2);54.2;25.5;20.3;1;✅ OBA ZGODNE (1);65.0;15.0;20.0;47.0;23.8;29.2;2;1:2;PRZEGRANA;-100.0
+16:00;Velež Nevesinje vs Drina Zvornik;Bosnia-Herzegovina 2;1.9 (1);53.3;24.7;22.0;1;✅ OBA ZGODNE (1);55.0;25.0;20.0;52.2;20.0;27.9;2;1:2;PRZEGRANA;-100.0
+19:00;Umraniyespor vs Sakaryaspor;Turkey 2;2.0 (1);52.7;19.2;28.1;1;✅ OBA ZGODNE (1);55.0;30.0;15.0;51.1;26.9;22.0;1;2:0;WYGRANA;100.0
+19:00;Sportfreunde Siegen vs Borussia Dortmund II;Germany 4;2.2 (2);21.4;51.4;27.2;2;✅ OBA ZGODNE (2);5.0;25.0;70.0;32.4;28.6;39.0;2;0:1;WYGRANA;120.00000000000003
+19:00;Les Herbiers vs Stade Poitevin;France 4;1.65 (1);49.9;18.3;31.7;1;✅ OBA ZGODNE (1);55.0;25.0;20.0;46.5;36.2;17.2;1;2:1;WYGRANA;65.0
+19:30;Botew Płowdiw vs Łokomotiw Płowdiw;Bulgaria 1;1.9 (1);49.5;23.5;27.0;1;✅ OBA ZGODNE (1);50.0;25.0;25.0;49.2;28.4;22.5;X;1:1;PRZEGRANA;-100.0
+15:00;Kabwe Warriors vs Mufulira Wanderers;Zambia 1;2.05 (1);43.2;29.7;27.2;1;✅ OBA ZGODNE (1);40.0;30.0;30.0;45.3;25.3;29.5;Brak/Odwolany;-;Odwolany;0.0
+20:00;Al Ittihad vs Al Suqoor;Saudi Arabia 1;1.61 (1);42.9;22.3;34.8;1;⚠️ RÓŻNICA (KNN:X XGB:1);30.0;45.0;25.0;51.5;28.0;20.5;2;3:4;PRZEGRANA;-100.0
+02:00;Queretaro FC vs FC Juarez;Mexico 1;2.37 (2);26.1;42.1;31.8;2;✅ OBA ZGODNE (2);15.0;35.0;50.0;33.5;29.6;36.9;Brak/Odwolany;-;Odwolany;0.0
+19:00;Saarbruecken vs Alemannia Aachen;Germany 3;2.87 (2);41.9;27.5;30.5;1;✅ OBA ZGODNE (1);45.0;40.0;15.0;39.9;24.2;35.9;X;1:1;PRZEGRANA;-100.0
+19:00;SC Verl vs Hansa Rostock;Germany 3;2.9 (2);40.0;32.1;27.9;1;⚠️ RÓŻNICA (KNN:1 XGB:2);45.0;35.0;20.0;36.7;23.1;40.2;2;1:2;PRZEGRANA;-100.0
+19:00;Arenas Getxo vs Pontevedra;Spain 3;2.5 (2);28.5;39.2;32.3;2;✅ OBA ZGODNE (2);25.0;35.0;40.0;30.9;30.5;38.6;1;1:0;PRZEGRANA;-100.0
+17:00;BFC Preussen vs Chemnitzer FC;Germany 4;2.15 (1);38.3;34.4;27.4;1;⚠️ RÓŻNICA (KNN:2 XGB:1);30.0;30.0;40.0;43.8;25.6;30.6;1;2:1;WYGRANA;115.0
+19:00;Ingolstadt vs Viktoria Koeln 1904;Germany 3;2.75 (2);37.4;31.7;30.9;1;⚠️ RÓŻNICA (KNN:2 XGB:1);35.0;25.0;40.0;39.0;34.8;26.2;2;1:2;PRZEGRANA;-100.0
+16:00;FK Sloga Simin Han vs NK Bratstvo;Bosnia-Herzegovina 2;2.25 (2);30.7;37.0;32.3;2;⚠️ RÓŻNICA (KNN:X XGB:2);30.0;35.0;35.0;31.2;30.5;38.4;1;1:0;PRZEGRANA;-100.0
+18:00;Aviron Bayonnais vs La Roche;France 4;2.7 (2);36.7;29.3;33.9;1;⚠️ RÓŻNICA (KNN:X XGB:1);35.0;40.0;25.0;37.9;29.9;32.2;1;2:0;WYGRANA;0.0
+19:00;VfB Stuttgart II vs Ulm;Germany 3;3.1 (2);31.4;35.3;33.2;2;⚠️ RÓŻNICA (KNN:2 XGB:X);30.0;30.0;40.0;32.4;35.4;32.2;X;1:1;PRZEGRANA;-100.0

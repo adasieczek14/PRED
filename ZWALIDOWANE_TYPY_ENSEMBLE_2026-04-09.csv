@@ -1,0 +1,26 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+19:00;Crvena Zvezda Belgrad vs FK Spartak Subotica;Serbia 1;1.05 (1);95.0;4.4;0.6;1;✅ OBA ZGODNE (1);90.0;0.0;10.0;98.3;1.0;0.7;1;3:2;WYGRANA;5.0
+19:30;Lewski Sofia vs Arda Kardzhali;Bulgaria 1;1.36 (1);74.4;8.1;17.5;1;✅ OBA ZGODNE (1);80.0;15.0;5.0;70.7;19.1;10.2;1;1:0;WYGRANA;36.0
+16:00;Sevlievo vs Spartak Pleven;Bulgaria 2;1.65 (1);72.9;9.5;17.7;1;✅ OBA ZGODNE (1);70.0;20.0;10.0;74.8;16.1;9.1;2;0:2;PRZEGRANA;-100.0
+17:00;Łudogorec Razgrad vs Czerno More Warna;Bulgaria 1;1.33 (1);72.4;5.8;21.8;1;✅ OBA ZGODNE (1);70.0;25.0;5.0;74.0;19.7;6.3;X;0:0;PRZEGRANA;-100.0
+18:00;Damac FC vs Al Quadisiya;Saudi Arabia 1;1.42 (2);16.1;69.7;14.2;2;✅ OBA ZGODNE (2);15.0;5.0;80.0;16.8;20.4;62.8;X;1:1;PRZEGRANA;-100.0
+18:30;Fratria vs Lokomotiv G. Oryahovitsa;Bulgaria 2;1.27 (1);67.9;8.8;23.3;1;✅ OBA ZGODNE (1);65.0;25.0;10.0;69.9;22.1;8.0;1;3:0;WYGRANA;27.0
+02:00;Matagalpa vs Diriangén;Nicaragua 1;1.48 (2);15.7;67.5;16.8;2;✅ OBA ZGODNE (2);15.0;25.0;60.0;16.1;11.4;72.5;2;2:3;WYGRANA;48.0
+15:00;Kitayosce vs Simba SC;Tanzania 1;1.57 (2);15.4;64.8;19.8;2;✅ OBA ZGODNE (2);15.0;15.0;70.0;15.7;23.0;61.3;X;0:0;PRZEGRANA;-100.0
+15:00;Mbeya City vs Azam FC;Tanzania 1;1.53 (2);11.7;64.6;23.7;2;✅ OBA ZGODNE (2);5.0;25.0;70.0;16.1;22.9;61.0;X;0:0;PRZEGRANA;-100.0
+14:30;Lokomotiw Sofia vs Beroe;Bulgaria 1;1.55 (1);61.3;16.3;22.3;1;✅ OBA ZGODNE (1);60.0;25.0;15.0;62.2;20.5;17.2;1;2:1;WYGRANA;55.0
+19:00;İstanbulspor vs Erzurum BB;Turkey 2;1.75 (2);15.0;59.8;25.2;2;✅ OBA ZGODNE (2);15.0;20.0;65.0;15.0;28.6;56.4;2;0:1;WYGRANA;75.0
+19:00;NEC vs URA FC;Uganda 1;1.75 (1);57.5;17.5;25.0;1;✅ OBA ZGODNE (1);60.0;25.0;15.0;55.9;25.0;19.1;1;1:0;WYGRANA;75.0
+03:00;Real Estelí vs Managua;Nicaragua 1;4.75 (2);55.2;17.8;27.0;1;✅ OBA ZGODNE (1);55.0;35.0;10.0;55.4;21.6;23.0;1;2:1;WYGRANA;0.0
+19:00;OFK Beograd vs FK Radnik Surdulica;Serbia 1;2.1 (1);26.8;49.4;23.8;2;✅ OBA ZGODNE (2);25.0;25.0;50.0;28.0;23.0;49.0;X;0:0;PRZEGRANA;-100.0
+23:00;Union Magdalena vs Envigado;Colombia 2;3.3 (2);35.3;49.2;15.5;2;⚠️ RÓŻNICA (KNN:1 XGB:2);50.0;25.0;25.0;25.5;9.2;65.3;1;4:2;PRZEGRANA;-100.0
+17:00;Novi Pazar vs Partizan Belgrad;Serbia 1;3.1 (1);19.6;48.8;31.5;2;✅ OBA ZGODNE (2);20.0;25.0;55.0;19.4;35.8;44.7;2;2:3;WYGRANA;0.0
+17:00;Luanda City vs CD Lunda-Sul;Angola 1;2.55 (1);29.4;47.6;23.1;2;✅ OBA ZGODNE (2);35.0;25.0;40.0;25.6;21.8;52.6;1;1:0;PRZEGRANA;-100.0
+15:00;The Saints FC vs Mbarara City;Uganda 1;2.1 (1);44.6;26.8;28.6;1;✅ OBA ZGODNE (1);35.0;35.0;30.0;51.0;24.4;24.7;1;3:1;WYGRANA;110.0
+16:00;Boluspor vs Sivasspor;Turkey 2;2.8 (2);43.9;24.5;31.7;1;✅ OBA ZGODNE (1);45.0;40.0;15.0;43.1;26.1;30.8;2;1:2;PRZEGRANA;-100.0
+19:00;Cukaricki vs FK Radnicki 1923;Serbia 1;2.15 (1);32.1;41.0;26.9;2;⚠️ RÓŻNICA (KNN:2 XGB:1);25.0;25.0;50.0;36.9;28.1;35.0;X;0:0;PRZEGRANA;-100.0
+16:00;Al Kahrabaa vs Al Minaa;Iraq 1;3.0 (2);40.1;31.9;28.0;1;✅ OBA ZGODNE (1);40.0;25.0;35.0;40.1;30.0;29.8;1;2:0;WYGRANA;0.0
+19:00;Erokspor vs Amed SK;Turkey 2;3.0 (2);36.4;24.1;39.6;X;⚠️ RÓŻNICA (KNN:X XGB:1);30.0;50.0;20.0;40.6;32.6;26.8;X;1:1;WYGRANA;0.0
+15:30;Makedonija GjP vs Arsimi;F.Y.R.O.M. 1;2.87 (2);36.8;23.7;39.5;X;⚠️ RÓŻNICA (KNN:X XGB:1);25.0;55.0;20.0;44.7;29.1;26.2;2;0:1;PRZEGRANA;-100.0
+19:00;Rizespor vs Samsunspor;Turkey 1;2.25 (1);39.3;31.5;29.1;1;✅ OBA ZGODNE (1);40.0;25.0;35.0;38.9;31.9;29.2;1;4:1;WYGRANA;125.0
+20:00;Al-Ettifaq vs Al Riyadh;Saudi Arabia 1;2.1 (1);37.6;29.0;33.3;1;⚠️ RÓŻNICA (KNN:X XGB:1);30.0;40.0;30.0;42.7;28.9;28.4;2;2:3;PRZEGRANA;-100.0

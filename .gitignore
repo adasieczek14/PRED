@@ -1,0 +1,27 @@
+# Duże pliki danych (za duże na GitHub)
+fctables_data.csv
+fctables_data_tmp.csv
+fctables_2024.html
+fctables_2026.html
+fctables_loaded.html
+fctables_req.html
+
+# Przeglądarki (zbędne na serwerze)
+chrome-win64/
+chromedriver-win64/
+
+# Cache i pliki tymczasowe
+__pycache__/
+*.pyc
+*.pyo
+temp_tables/
+
+# Screenshoty i logi
+*.png
+debug_log.txt
+tracker_*.txt
+diag_ddg*.txt
+
+# Pliki systemu Windows
+Thumbs.db
+desktop.ini

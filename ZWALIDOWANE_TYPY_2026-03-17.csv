@@ -1,0 +1,89 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+20:00;Venezia vs Calcio Padova;Italy 2;1.27 (1);85.0;5.0;10.0;1;1;3:1;WYGRANA;27.0
+18:00;Fenerbahce vs Gaziantep BB;Turkey 1;1.22 (1);85.0;5.0;10.0;1;1;4:1;WYGRANA;22.0
+19:00;Unterhaching vs Augsburg II;Germany 4;1.42 (1);85.0;5.0;10.0;1;1;1:0;WYGRANA;42.0
+jutro 00:30;Olimpia vs Luqueno;Paraguay 1;1.7 (1);85.0;5.0;10.0;1;1;1:0;WYGRANA;70.0
+20:45;Farnham Town vs Dorchester Town;England 7;1.42 (1);80.0;5.0;15.0;1;1;2:1;WYGRANA;42.0
+19:00;Bahla vs Al-Seeb;Oman 1;1.36 (2);10.0;80.0;10.0;2;2;0:2;WYGRANA;36.0
+20:00;ADO Den Haag vs Jong FC Utrecht;Netherlands 2;1.25 (1);80.0;10.0;10.0;1;1;1:0;WYGRANA;25.0
+19:00;Al Quwa Al Jawiya vs Baghdad FC;Iraq 1;1.28 (1);80.0;10.0;10.0;1;1;3:1;WYGRANA;28.0
+20:45;Salford City vs Barrow;England 4;1.5 (1);75.0;10.0;15.0;1;1;3:1;WYGRANA;50.0
+20:45;Inverness CT vs Peterhead;Scotland 3;1.3 (1);75.0;5.0;20.0;1;1;3:1;WYGRANA;30.0
+20:45;Bromsgrove Sporting vs Harborough Town;England 7;1.4 (2);20.0;70.0;10.0;2;2;1:2;WYGRANA;40.0
+20:45;Cowdenbeath vs Stirling University FC;Scotland 5;1.8 (1);70.0;20.0;10.0;1;2;1:2;PRZEGRANA;-100.0
+22:00;MC Alger vs USM Khenchela;Algeria 1;1.33 (1);70.0;5.0;25.0;1;1;2:1;WYGRANA;33.0
+20:45;King's Lynn Town vs South Shields;England 6;1.72 (2);15.0;70.0;15.0;2;1;3:0;PRZEGRANA;-100.0
+20:00;Reggiana vs Monza;Italy 2;1.66 (2);20.0;70.0;10.0;2;X;0:0;PRZEGRANA;-100.0
+19:30;Al Arabi vs Al Sadd;Qatar 1;1.53 (2);15.0;65.0;20.0;2;1;2:1;PRZEGRANA;-100.0
+20:45;Gainsborough vs Hyde United;England 7;1.72 (1);65.0;15.0;20.0;1;1;2:0;WYGRANA;72.0
+20:45;Bolton Wanderers vs Doncaster Rovers;England 3;1.6 (1);65.0;15.0;20.0;1;X;0:0;PRZEGRANA;-100.0
+20:45;Southport vs Alfreton Town;England 6;1.85 (1);65.0;10.0;25.0;1;1;2:1;WYGRANA;85.0
+20:45;Enfield Town vs Dorking Wanderers;England 6;1.75 (2);15.0;65.0;20.0;2;2;2:4;WYGRANA;75.0
+02:20;Deportes Quindio vs Real Soacha;Colombia 2;1.8 (1);65.0;20.0;15.0;1;X;0:0;PRZEGRANA;-100.0
+20:45;Blackpool vs Port Vale;England 3;4.0 (2);60.0;15.0;25.0;1;1;3:2;WYGRANA;0.0
+20:45;Maidenhead United vs Ebbsfleet United;England 6;2.15 (1);60.0;20.0;20.0;1;2;2:3;PRZEGRANA;-100.0
+20:45;Walsall vs Cambridge United;England 4;2.05 (2);20.0;60.0;20.0;2;X;0:0;PRZEGRANA;-100.0
+21:15;Al Shorta vs Al Talaba;Iraq 1;1.65 (1);60.0;0.0;40.0;1;X;3:3;PRZEGRANA;-100.0
+20:45;Luton Town vs Exeter City;England 3;1.7 (1);60.0;15.0;25.0;1;1;3:2;WYGRANA;70.0
+18:30;Al-Wahda vs Al-Ain;U.A.E. 1;1.9 (2);5.0;60.0;35.0;2;2;0:1;WYGRANA;90.0
+20:45;Stockport vs Northampton Town;England 3;1.45 (1);60.0;15.0;25.0;1;1;2:1;WYGRANA;45.0
+20:45;Hereford vs AFC Fylde;England 6;1.66 (2);30.0;60.0;10.0;2;2;1:4;WYGRANA;66.0
+20:45;Wimborne Town vs Walton & Hersham;England 7;1.75 (2);30.0;55.0;15.0;2;2;1:4;WYGRANA;75.0
+20:45;Accrington Stanley vs Notts County;England 4;1.9 (2);25.0;55.0;20.0;2;2;0:4;WYGRANA;90.0
+20:45;Alvechurch vs Stamford AFC;England 7;1.95 (1);55.0;35.0;10.0;1;1;2:0;WYGRANA;95.0
+20:45;Cardiff City vs Wycombe Wanderers;England 3;1.66 (1);55.0;30.0;15.0;1;2;0:2;PRZEGRANA;-100.0
+20:00;Catanzaro vs Modena;Italy 2;2.7 (1);20.0;55.0;25.0;2;Brak/Odwolany;-;Odwolany;0.0
+22:10;Llaneros FC vs Cucuta;Colombia 1;1.9 (1);55.0;10.0;35.0;1;X;2:2;PRZEGRANA;-100.0
+19:30;SV Drochtersen/Assel vs Blau-Weiss Lohne;Germany 4;1.5 (1);55.0;5.0;40.0;1;1;4:1;WYGRANA;50.0
+20:45;Truro City vs Scunthorpe United;England 5;1.9 (2);25.0;55.0;20.0;2;2;1:2;WYGRANA;90.0
+20:45;Watford vs Wrexham;England 2;3.1 (2);55.0;15.0;30.0;1;1;3:1;WYGRANA;0.0
+02:00;Escorpiones vs Cariari;Costa Rica 2;1.5 (1);55.0;10.0;35.0;1;1;4:1;WYGRANA;50.0
+20:00;VVV-Venlo vs Jong Ajax;Netherlands 2;4.2 (2);55.0;15.0;30.0;1;2;0:1;PRZEGRANA;-100.0
+17:00;Lokomotiw Sofia vs Septemvri Sofia;Bulgaria 1;1.61 (1);55.0;20.0;25.0;1;1;3:0;WYGRANA;61.0
+19:00;St. Gallen vs Lugano;Switzerland 1;1.95 (1);55.0;20.0;25.0;1;X;1:1;PRZEGRANA;-100.0
+20:30;Newport County vs Bromley;England 4;1.9 (2);15.0;55.0;30.0;2;2;0:1;WYGRANA;90.0
+20:45;Southend United vs Rochdale;England 5;2.55 (2);25.0;50.0;25.0;2;1;3:2;PRZEGRANA;-100.0
+19:00;Sohar vs Ibri;Oman 1;1.65 (1);50.0;15.0;35.0;1;X;0:0;PRZEGRANA;-100.0
+15:00;Mostaganem vs Paradou AC;Algeria 1;2.55 (1);30.0;50.0;20.0;2;1;3:2;PRZEGRANA;-100.0
+20:00;FC Dordrecht vs FC Oss;Netherlands 2;1.61 (1);50.0;30.0;20.0;1;X;2:2;PRZEGRANA;-100.0
+20:45;Gateshead FC vs Wealdstone;England 5;2.45 (2);25.0;50.0;25.0;2;1;1:0;PRZEGRANA;-100.0
+19:00;Palermo vs Juve Stabia;Italy 2;1.61 (1);50.0;20.0;30.0;1;X;2:2;PRZEGRANA;-100.0
+20:45;Plymouth Parkway vs Chertsey Town;England 7;2.05 (2);25.0;50.0;25.0;2;1;3:1;PRZEGRANA;-100.0
+20:45;Leamington vs Buxton;England 6;1.6 (2);25.0;50.0;25.0;2;2;0:1;WYGRANA;60.0
+22:00;MC Oran vs MC El Bayadh;Algeria 1;1.44 (1);50.0;25.0;25.0;1;1;2:0;WYGRANA;44.0
+19:00;Al Najaf vs Al Mosul;Iraq 1;2.05 (2);10.0;50.0;40.0;2;2;1:2;WYGRANA;104.99999999999997
+20:45;Spennymoor Town FC vs Curzon;England 6;1.83 (1);50.0;25.0;25.0;1;1;4:1;WYGRANA;83.0
+20:45;Woking vs Yeovil Town;England 5;1.9 (1);30.0;50.0;20.0;2;1;1:0;PRZEGRANA;-100.0
+21:15;Al Gharraf vs Al Zawraa;Iraq 1;2.55 (2);45.0;30.0;25.0;1;2;0:1;PRZEGRANA;-100.0
+20:45;Burton Albion vs Reading;England 3;3.3 (2);45.0;25.0;30.0;1;Brak/Odwolany;-;Odwolany;0.0
+02:15;Instituto vs Independiente;Argentina 1;3.1 (2);45.0;30.0;25.0;1;1;2:1;WYGRANA;0.0
+20:45;AFC Wimbledon vs Leyton Orient;England 3;2.2 (1);45.0;30.0;25.0;1;2;2:4;PRZEGRANA;-100.0
+15:00;Oued Akbou vs CS Constantine;Algeria 1;2.3 (1);35.0;45.0;20.0;2;1;1:0;PRZEGRANA;-100.0
+19:30;Al-Shamal vs Lekhwiya;Qatar 1;2.8 (1);15.0;45.0;40.0;2;2;1:3;WYGRANA;0.0
+01:30;Arnett Gardens vs Racing United;Jamaica 1;2.1 (2);45.0;20.0;35.0;1;1;4:0;WYGRANA;0.0
+20:45;Weston Super Mare vs Tonbridge Angels;England 6;3.9 (2);45.0;20.0;35.0;1;2;0:1;PRZEGRANA;-100.0
+20:45;Peterborough Sports vs Marine;England 6;2.8 (2);45.0;30.0;25.0;1;X;0:0;PRZEGRANA;-100.0
+20:45;Brackley Town vs Solihull Moors;England 5;2.62 (1);40.0;45.0;15.0;2;X;1:1;PRZEGRANA;-100.0
+20:45;Chesham United vs AFC Totton;England 6;1.72 (1);45.0;20.0;35.0;1;2;1:2;PRZEGRANA;-100.0
+20:45;Spartans FC vs Forfar Athletic;Scotland 4;2.05 (1);45.0;20.0;35.0;1;1;1:0;WYGRANA;104.99999999999997
+20:45;Atherstone Town vs Basingstoke;England 7;3.3 (1);30.0;45.0;25.0;2;2;0:4;WYGRANA;0.0
+20:45;Plymouth Argyle vs Stevenage;England 3;1.9 (1);40.0;20.0;40.0;1;1;1:0;WYGRANA;90.0
+16:00;Gazelle vs Aigle Royal;Cameroon 1;1.61 (1);40.0;30.0;30.0;1;1;2:1;WYGRANA;61.0
+20:45;Huddersfield Town vs Lincoln;England 3;2.3 (2);40.0;35.0;25.0;1;X;2:2;PRZEGRANA;-100.0
+20:45;Tranmere Rovers vs Harrogate;England 4;3.25 (2);40.0;25.0;35.0;1;2;0:3;PRZEGRANA;-100.0
+20:00;Spezia vs Empoli;Italy 2;2.45 (1);35.0;40.0;25.0;2;X;1:1;PRZEGRANA;-100.0
+20:45;Chorley vs Kidderminster Harriers;England 6;2.05 (2);10.0;40.0;50.0;X;1;2:1;PRZEGRANA;-100.0
+20:45;Prescot Cables vs Cleethorpes Town;England 7;3.1 (1);30.0;40.0;30.0;2;X;2:2;PRZEGRANA;-100.0
+20:00;Mantova vs Cesena;Italy 2;2.35 (1);30.0;40.0;30.0;2;1;3:0;PRZEGRANA;-100.0
+20:45;Grimsby Town vs Fleetwood Town;England 4;1.9 (1);40.0;25.0;35.0;1;1;1:0;WYGRANA;90.0
+20:45;Peterborough United vs Rotherham United;England 3;2.4 (1);40.0;30.0;30.0;1;1;5:0;WYGRANA;140.0
+09:00;Sydney FC vs Melbourne City FC;Australia 1;2.3 (1);40.0;35.0;25.0;1;2;0:1;PRZEGRANA;-100.0
+20:45;Crawley Town vs Barnet;England 4;3.3 (1);35.0;40.0;25.0;2;X;1:1;PRZEGRANA;-100.0
+20:45;Civil Service Strollers vs Berwick Rangers;Scotland 5;2.4 (2);20.0;35.0;45.0;X;Brak/Odwolany;-;Odwolany;0.0
+19:00;Donau vs SR Donaufeld;Austria 3;3.0 (1);35.0;20.0;45.0;X;X;1:1;WYGRANA;0.0
+20:45;Whitehawk vs Cheshunt;England 7;2.1 (1);30.0;35.0;35.0;2;2;1:3;WYGRANA;0.0
+20:45;Broxburn Athletic vs Linlithgow Rose;Scotland 5;3.1 (1);35.0;30.0;35.0;1;2;1:6;PRZEGRANA;-100.0
+21:00;Barnsley vs Wigan Athletic;England 3;2.2 (1);30.0;30.0;40.0;X;X;1:1;WYGRANA;0.0
+19:30;SV Horn vs SC Mannsdorf;Austria 3;2.0 (1);30.0;20.0;50.0;X;X;2:2;WYGRANA;0.0
+20:00;Al-Salt vs Ramtha SC;Jordan 1;2.35 (2);25.0;30.0;45.0;X;2;2:3;PRZEGRANA;-100.0
+jutro 00:00;St. Andrew Lions vs Pride of Gall Hill;Barbados 1;1.95 (2);30.0;30.0;40.0;X;X;1:1;WYGRANA;0.0

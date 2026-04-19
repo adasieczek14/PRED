@@ -1,0 +1,16 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+21:30;Mount Pleasant vs Spanish Town Police FC;Jamaica 1;1.09 (1);91.8;2.4;5.9;1;✅ OBA ZGODNE (1);90.0;10.0;0.0;93.0;3.1;4.0;1;4:0;WYGRANA;9.000000000000014
+23:00;Internacional Palmira vs Tigres FC;Colombia 2;1.61 (1);75.7;9.7;14.6;1;✅ OBA ZGODNE (1);85.0;10.0;5.0;69.5;17.6;12.9;1;2:1;WYGRANA;61.0
+21:00;Escorpiones vs CS Uruguay;Costa Rica 2;1.53 (1);70.9;9.7;19.4;1;✅ OBA ZGODNE (1);85.0;15.0;0.0;61.5;22.3;16.2;1;2:0;WYGRANA;53.0
+22:00;Union Magdalena vs Real Santander;Colombia 2;1.4 (1);68.0;10.8;21.2;1;✅ OBA ZGODNE (1);70.0;20.0;10.0;66.7;22.0;11.3;1;2:0;WYGRANA;40.0
+22:00;Cavalier SC vs Dunbeholden;Jamaica 1;1.57 (1);65.8;12.7;21.5;1;✅ OBA ZGODNE (1);70.0;15.0;15.0;63.0;25.9;11.1;2;0:2;PRZEGRANA;-100.0
+13:30;Al Quwa Al Jawiya vs Al Karkh;Iraq 1;1.57 (1);61.9;18.3;19.8;1;✅ OBA ZGODNE (1);65.0;15.0;20.0;59.9;23.0;17.2;1;1:0;WYGRANA;57.0
+16:00;Al-Karma vs Al Mosul;Iraq 1;5.5 (2);60.2;13.7;26.0;1;✅ OBA ZGODNE (1);55.0;25.0;20.0;63.7;26.7;9.5;X;1:1;PRZEGRANA;-100.0
+21:00;Cariari vs Pitbulls;Costa Rica 2;1.9 (1);52.0;19.3;28.7;1;✅ OBA ZGODNE (1);50.0;35.0;15.0;53.3;24.5;22.2;X;2:2;PRZEGRANA;-100.0
+16:00;Canon Sportif vs Gazelle;Cameroon 1;1.75 (1);45.7;27.1;27.2;1;✅ OBA ZGODNE (1);40.0;25.0;35.0;49.5;28.6;21.9;2;1:2;PRZEGRANA;-100.0
+jutro 00:00;Recoleta vs Rubio Nu;Paraguay 1;2.9 (2);40.6;25.0;34.3;1;⚠️ RÓŻNICA (KNN:1 XGB:X);50.0;30.0;20.0;34.4;37.2;28.4;1;1:0;WYGRANA;0.0
+21:30;Treasure Beach vs Arnett Gardens;Jamaica 1;2.15 (2);40.2;37.0;22.7;1;⚠️ RÓŻNICA (KNN:1 XGB:2);50.0;15.0;35.0;33.7;27.9;38.3;X;0:0;PRZEGRANA;-100.0
+21:30;Portmore United vs Waterhouse FC;Jamaica 1;3.1 (2);31.4;40.0;28.7;2;⚠️ RÓŻNICA (KNN:X XGB:2);25.0;40.0;35.0;35.6;21.1;43.3;1;2:1;PRZEGRANA;-100.0
+jutro 00:00;Independiente Yumbo vs Patriotas;Colombia 2;2.25 (1);35.2;37.2;27.6;2;⚠️ RÓŻNICA (KNN:1 XGB:2);35.0;30.0;35.0;35.4;26.0;38.6;1;2:1;PRZEGRANA;-100.0
+13:30;Zakho vs Al Shorta;Iraq 1;2.9 (1);36.8;33.5;29.6;1;⚠️ RÓŻNICA (KNN:1 XGB:2);40.0;30.0;30.0;34.7;29.4;35.9;2;0:2;PRZEGRANA;-100.0
+18:00;Unisport Bafang vs Coton Sport;Cameroon 1;2.55 (1);31.0;34.4;34.5;X;⚠️ RÓŻNICA (KNN:X XGB:2);30.0;40.0;30.0;31.7;30.9;37.3;1;1:0;PRZEGRANA;-100.0

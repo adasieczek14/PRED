@@ -1,0 +1,70 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+05 kwi;Club Africain vs Gabès;Tunisia 1;1.22 (1);88.0;4.8;7.2;1;✅ OBA ZGODNE (1);90.0;5.0;5.0;86.6;8.7;4.7;1;2:0;WYGRANA;22.0
+05 kwi;Szachtar Donieck vs Rukh Vynnyky;Ukraine 1;1.1 (1);87.9;5.2;6.9;1;✅ OBA ZGODNE (1);80.0;10.0;10.0;93.2;4.9;2.0;1;3:0;WYGRANA;10.000000000000014
+05 kwi;Berekum Chelsea vs Aduana Stars;Ghana 1;1.1 (1);84.0;5.1;10.9;1;✅ OBA ZGODNE (1);85.0;10.0;5.0;83.4;11.5;5.1;1;1:0;WYGRANA;10.000000000000014
+05 kwi;Al-Ain vs Ajman;U.A.E. 1;1.27 (1);82.7;5.7;11.6;1;✅ OBA ZGODNE (1);85.0;10.0;5.0;81.2;12.6;6.2;1;2:0;WYGRANA;27.0
+05 kwi;CS Sfaxien vs Kairouan;Tunisia 1;1.2 (1);82.3;5.3;12.4;1;✅ OBA ZGODNE (1);90.0;10.0;0.0;77.2;14.0;8.8;1;3:0;WYGRANA;20.0
+05 kwi;Deportivo Saprissa vs Municipal Perez Zeledon;Costa Rica 1;1.3 (1);80.8;4.2;15.0;1;✅ OBA ZGODNE (1);80.0;20.0;0.0;81.4;11.6;7.0;1;4:0;WYGRANA;30.0
+05 kwi;Young Lions vs Balestier Khalsa FC;Singapore 1;1.44 (2);11.1;80.1;8.8;2;✅ OBA ZGODNE (2);10.0;5.0;85.0;11.9;11.3;76.9;2;0:2;WYGRANA;44.0
+05 kwi;Al-Seeb vs Al-Smail;Oman 1;1.25 (1);80.0;7.4;12.6;1;✅ OBA ZGODNE (1);85.0;10.0;5.0;76.6;14.4;9.0;1;2:1;WYGRANA;25.0
+05 kwi;Macva Sabac vs Stepojevac Vaga;Serbia 2;1.22 (1);79.9;7.9;12.2;1;✅ OBA ZGODNE (1);90.0;5.0;5.0;73.2;17.0;9.9;1;2:0;WYGRANA;22.0
+05 kwi;Nasarawa United vs Kun Khalifat;Nigeria 1;1.44 (1);79.9;8.0;12.1;1;✅ OBA ZGODNE (1);75.0;15.0;10.0;83.2;10.2;6.6;2;0:1;PRZEGRANA;-100.0
+06 kwi;CD Motagua vs Policia NFC;Honduras 1;1.25 (1);79.0;10.3;10.7;1;✅ OBA ZGODNE (1);80.0;5.0;15.0;78.3;14.5;7.2;1;3:1;WYGRANA;25.0
+05 kwi;CR Belouizdad vs Mostaganem;Algeria 1;1.2 (1);75.3;10.6;14.0;1;✅ OBA ZGODNE (1);70.0;15.0;15.0;78.9;13.4;7.7;1;7:0;WYGRANA;20.0
+05 kwi;Sparta Praga vs Karvina;Czech Republic 1;1.3 (1);75.1;6.4;18.4;1;✅ OBA ZGODNE (1);80.0;15.0;5.0;71.9;20.7;7.4;1;2:0;WYGRANA;30.0
+05 kwi;St. Georges Colts vs Dandy Town Hornets;Bermuda 1;1.33 (2);8.5;74.8;16.6;2;✅ OBA ZGODNE (2);5.0;20.0;75.0;10.9;14.3;74.7;2;1:2;WYGRANA;33.0
+05 kwi;St. Pauls United vs Dieppe Bay Eagles;St. Kitts and Nevis 1;1.33 (1);74.0;10.3;15.7;1;✅ OBA ZGODNE (1);65.0;20.0;15.0;80.0;12.9;7.1;1;4:1;WYGRANA;33.0
+05 kwi;APR vs Muhanga;Rwanda 1;1.36 (1);73.8;3.1;23.1;1;✅ OBA ZGODNE (1);60.0;40.0;0.0;83.0;11.9;5.1;1;1:0;WYGRANA;36.0
+05 kwi;YMSC vs Devonshire Colts;Bermuda 1;1.2 (2);12.8;72.6;14.6;2;✅ OBA ZGODNE (2);15.0;15.0;70.0;11.4;14.3;74.3;2;2:4;WYGRANA;20.0
+05 kwi;Polissya Zhytomyr vs Veres Rivne;Ukraine 1;1.3 (1);72.2;9.5;18.4;1;✅ OBA ZGODNE (1);70.0;20.0;10.0;73.6;17.3;9.2;X;1:1;PRZEGRANA;-100.0
+06 kwi;Village Superstars vs Conaree United;St. Kitts and Nevis 1;1.5 (1);71.5;7.1;21.4;1;✅ OBA ZGODNE (1);75.0;25.0;0.0;69.2;19.0;11.8;Brak/Odwolany;-;Odwolany;0.0
+05 kwi;Schalke 04 vs Karlsruher SC;Germany 2;1.5 (1);70.8;13.1;16.1;1;✅ OBA ZGODNE (1);75.0;10.0;15.0;68.0;20.2;11.9;1;1:0;WYGRANA;50.0
+06 kwi;Gremio vs Remo;Brazil 1;1.5 (1);70.5;8.3;21.2;1;✅ OBA ZGODNE (1);80.0;20.0;0.0;64.2;22.0;13.8;X;0:0;PRZEGRANA;-100.0
+05 kwi;USM Khenchela vs Paradou AC;Algeria 1;1.5 (1);68.6;10.2;21.2;1;✅ OBA ZGODNE (1);70.0;20.0;10.0;67.6;22.0;10.4;1;1:0;WYGRANA;50.0
+05 kwi;Eibar vs CA Ceuta;Spain 2;1.65 (1);68.5;16.5;15.0;1;✅ OBA ZGODNE (1);80.0;10.0;10.0;60.8;18.4;20.8;1;3:0;WYGRANA;65.0
+05 kwi;SC Heerenveen vs Heracles;Eredivisie;1.45 (1);67.8;12.9;19.3;1;✅ OBA ZGODNE (1);70.0;15.0;15.0;66.4;22.1;11.5;1;4:1;WYGRANA;45.0
+05 kwi;FK Radnik Surdulica vs Crvena Zvezda Belgrad;Serbia 1;1.27 (2);18.3;67.4;14.3;2;✅ OBA ZGODNE (2);20.0;10.0;70.0;17.2;17.1;65.7;2;1:2;WYGRANA;27.0
+05 kwi;Amed SK vs Boluspor;Turkey 2;1.33 (1);66.8;13.8;19.4;1;✅ OBA ZGODNE (1);55.0;25.0;20.0;74.7;15.6;9.7;1;6:1;WYGRANA;33.0
+05 kwi;Sabadell vs Real Betis II;Spain 3;1.33 (1);66.8;10.3;22.8;1;✅ OBA ZGODNE (1);75.0;20.0;5.0;61.3;24.7;13.9;2;1:3;PRZEGRANA;-100.0
+05 kwi;FC Banants vs Gandzasar;Armenia 1;1.53 (1);66.4;16.6;17.0;1;✅ OBA ZGODNE (1);65.0;15.0;20.0;67.4;18.3;14.3;1;4:2;WYGRANA;53.0
+05 kwi;Las Palmas vs Huesca;Spain 2;1.48 (1);66.4;11.7;21.9;1;✅ OBA ZGODNE (1);65.0;25.0;10.0;67.4;19.8;12.8;1;2:1;WYGRANA;48.0
+05 kwi;Szeged 2011 vs Vasas Budapeszt;Hungary 2;1.61 (2);14.7;66.1;19.2;2;✅ OBA ZGODNE (2);10.0;20.0;70.0;17.8;18.7;63.5;2;0:4;WYGRANA;61.0
+05 kwi;Remo Stars vs Shooting Stars;Nigeria 1;1.57 (1);65.2;9.6;25.2;1;✅ OBA ZGODNE (1);55.0;35.0;10.0;72.0;18.7;9.3;1;1:0;WYGRANA;57.0
+05 kwi;Palermo vs Avellino;Italy 2;1.5 (1);64.8;12.5;22.7;1;✅ OBA ZGODNE (1);80.0;10.0;10.0;54.6;31.2;14.2;1;2:0;WYGRANA;50.0
+05 kwi;Al-Ettifaq vs Al Quadisiya;Saudi Arabia 1;1.4 (2);18.0;63.3;18.7;2;✅ OBA ZGODNE (2);15.0;15.0;70.0;20.0;21.1;58.9;1;3:2;PRZEGRANA;-100.0
+05 kwi;FSV Zwickau vs BFC Dynamo;Germany 4;1.66 (1);62.7;13.2;24.1;1;✅ OBA ZGODNE (1);70.0;20.0;10.0;57.8;26.8;15.3;X;2:2;PRZEGRANA;-100.0
+05 kwi;Frosinone vs Calcio Padova;Italy 2;1.48 (1);61.2;17.7;21.1;1;✅ OBA ZGODNE (1);65.0;20.0;15.0;58.7;21.8;19.5;1;2:0;WYGRANA;48.0
+05 kwi;Hearts of Oak vs Young Apostles;Ghana 1;1.4 (1);59.7;11.7;28.6;1;✅ OBA ZGODNE (1);70.0;30.0;0.0;52.8;27.7;19.5;1;1:0;WYGRANA;40.0
+05 kwi;Lugo vs Osasuna B;Spain 3;1.66 (1);59.5;13.0;27.4;1;✅ OBA ZGODNE (1);65.0;30.0;5.0;55.9;25.6;18.4;2;0:1;PRZEGRANA;-100.0
+05 kwi;Al Quwa Al Jawiya vs Al Naft;Iraq 1;1.53 (1);58.9;21.8;19.3;1;✅ OBA ZGODNE (1);65.0;10.0;25.0;54.9;25.5;19.6;X;0:0;PRZEGRANA;-100.0
+05 kwi;Banik Ostrawa vs Slavia Praga;Czech Republic 1;1.55 (2);17.4;58.8;23.8;2;✅ OBA ZGODNE (2);20.0;10.0;70.0;15.7;33.0;51.3;2;0:2;WYGRANA;55.0
+05 kwi;PWD Bamenda vs Aigle Royal de Moungo;Cameroon 1;1.55 (1);56.8;11.3;31.9;1;✅ OBA ZGODNE (1);55.0;35.0;10.0;58.0;29.9;12.1;1;4:1;WYGRANA;55.0
+05 kwi;Zemun vs Priboj;Serbia 2;1.57 (1);54.7;18.5;26.8;1;✅ OBA ZGODNE (1);55.0;25.0;20.0;54.5;28.0;17.5;1;2:1;WYGRANA;57.0
+05 kwi;Al Minaa vs Naft Misan;Iraq 1;1.9 (1);53.3;17.6;29.1;1;✅ OBA ZGODNE (1);50.0;35.0;15.0;55.5;25.2;19.3;2;0:1;PRZEGRANA;-100.0
+05 kwi;KACM vs FAR Rabat;Morocco 1;1.61 (2);28.9;52.8;18.3;2;✅ OBA ZGODNE (2);35.0;15.0;50.0;24.8;20.5;54.7;X;0:0;PRZEGRANA;-100.0
+05 kwi;Platense FC vs CD Marathon;Honduras 1;1.8 (2);17.0;52.4;30.6;2;✅ OBA ZGODNE (2);15.0;40.0;45.0;18.3;24.4;57.3;1;3:1;PRZEGRANA;-100.0
+06 kwi;Jaiba Brava vs Venados FC;Mexico 2;1.61 (1);52.3;17.6;30.2;1;✅ OBA ZGODNE (1);45.0;40.0;15.0;57.1;23.6;19.4;X;1:1;PRZEGRANA;-100.0
+05 kwi;Djoliba vs Stade Malien Bamako;Mali 1;1.9 (1);51.2;32.1;16.6;1;✅ OBA ZGODNE (1);60.0;5.0;35.0;45.4;24.4;30.2;X;0:0;PRZEGRANA;-100.0
+05 kwi;SC Paderborn 07 II vs Oberhausen;Germany 4;2.05 (2);28.7;50.9;20.3;2;✅ OBA ZGODNE (2);25.0;15.0;60.0;31.2;23.9;44.9;1;3:0;PRZEGRANA;-100.0
+05 kwi;Sumqayit vs FK Neftczi;Azerbaijan 1;1.72 (2);25.1;50.3;24.6;2;✅ OBA ZGODNE (2);30.0;25.0;45.0;21.9;24.3;53.8;2;1:3;WYGRANA;72.0
+05 kwi;Eintracht Frankfurt vs FC Köln;Germany 1;2.0 (1);49.6;21.9;28.4;1;✅ OBA ZGODNE (1);50.0;30.0;20.0;49.4;27.4;23.2;X;2:2;PRZEGRANA;-100.0
+05 kwi;Inter Mediolan vs AS Roma;European Championship U-21 1;1.66 (1);49.3;17.3;33.4;1;⚠️ RÓŻNICA (KNN:X XGB:1);40.0;45.0;15.0;55.5;25.7;18.8;1;5:2;WYGRANA;66.0
+05 kwi;Real Saragossa vs Mirandes;Spain 2;1.83 (1);48.8;23.2;28.0;1;✅ OBA ZGODNE (1);55.0;25.0;20.0;44.6;30.0;25.4;2;1:2;PRZEGRANA;-100.0
+05 kwi;Bekescsaba vs Aqvital FC Csakvar;Hungary 2;3.0 (2);48.7;26.8;24.5;1;✅ OBA ZGODNE (1);60.0;15.0;25.0;41.2;30.8;28.0;X;2:2;PRZEGRANA;-100.0
+05 kwi;Madura United vs Pusamania Borneo;Indonesia 1;1.75 (2);24.1;48.1;27.7;2;✅ OBA ZGODNE (2);20.0;35.0;45.0;26.9;22.9;50.1;2;1:3;WYGRANA;75.0
+05 kwi;Hradec Kralove vs Bohemians 1905;Czech Republic 1;1.9 (1);46.4;29.4;24.2;1;✅ OBA ZGODNE (1);45.0;20.0;35.0;47.4;27.0;25.6;1;2:0;WYGRANA;90.0
+05 kwi;AS Monaco vs Olympique Marsylia;France 1;2.1 (1);44.9;33.4;21.7;1;✅ OBA ZGODNE (1);45.0;15.0;40.0;44.8;26.2;29.0;1;2:1;WYGRANA;110.0
+05 kwi;Panthere FC vs Aigle Royal;Cameroon 1;2.0 (1);44.6;22.8;32.6;1;✅ OBA ZGODNE (1);45.0;35.0;20.0;44.3;31.0;24.6;1;2:1;WYGRANA;100.0
+05 kwi;Mictlán vs CSD Comunicaciones;Guatemala 1;2.2 (1);44.5;26.3;29.2;1;✅ OBA ZGODNE (1);45.0;30.0;25.0;44.2;28.6;27.1;X;1:1;PRZEGRANA;-100.0
+05 kwi;Cremonese vs Bologna;European Championship U-21 1;2.2 (2);26.9;42.8;30.3;2;✅ OBA ZGODNE (2);30.0;30.0;40.0;24.9;30.5;44.6;2;1:2;WYGRANA;120.00000000000003
+06 kwi;Central Cordoba de Santiago vs Newells Old Boys;Argentina 1;2.45 (1);42.7;31.4;25.9;1;✅ OBA ZGODNE (1);50.0;25.0;25.0;37.9;26.5;35.6;2;1:3;PRZEGRANA;-100.0
+05 kwi;Kallon vs Bo Rangers;Sierra Leone 1;2.75 (2);42.4;29.9;27.7;1;✅ OBA ZGODNE (1);45.0;35.0;20.0;40.6;22.9;36.5;2;0:3;PRZEGRANA;-100.0
+05 kwi;Real Murcia vs Atlético Madrid II;Spain 3;3.4 (2);41.8;25.3;32.8;1;⚠️ RÓŻNICA (KNN:1 XGB:X);50.0;20.0;30.0;36.4;41.4;22.2;1;2:1;WYGRANA;0.0
+05 kwi;FC Kapaz vs FK Gabala;Azerbaijan 1;2.4 (1);27.8;31.2;41.0;X;⚠️ RÓŻNICA (KNN:X XGB:2);35.0;45.0;20.0;23.0;38.4;38.6;2;0:2;PRZEGRANA;-100.0
+05 kwi;Warri Wolves FC vs Rivers United FC;Nigeria 1;2.25 (1);40.7;21.2;38.1;1;⚠️ RÓŻNICA (KNN:X XGB:1);30.0;55.0;15.0;47.8;26.9;25.3;1;2:0;WYGRANA;125.0
+05 kwi;Gorilla vs Musanze;Rwanda 1;2.8 (2);40.1;33.4;26.4;1;✅ OBA ZGODNE (1);40.0;25.0;35.0;40.2;27.4;32.3;1;2:1;WYGRANA;0.0
+05 kwi;Jedinstvo Ub vs Dubocica;Serbia 2;2.05 (1);39.5;25.8;34.7;1;⚠️ RÓŻNICA (KNN:X XGB:1);30.0;45.0;25.0;45.9;27.8;26.3;1;4:0;WYGRANA;104.99999999999997
+05 kwi;Algeciras vs UD Ibiza;Spain 3;2.35 (1);38.9;35.1;26.0;1;⚠️ RÓŻNICA (KNN:2 XGB:1);35.0;25.0;40.0;41.5;26.7;31.8;X;0:0;PRZEGRANA;-100.0
+05 kwi;Soroksar SC vs BVSC;Hungary 2;2.45 (2);28.8;33.4;37.8;X;⚠️ RÓŻNICA (KNN:1 XGB:X);35.0;30.0;35.0;24.7;43.0;32.3;1;2:1;PRZEGRANA;-100.0
+05 kwi;Hertha Berlin II vs Magdeburg II;Germany 4;2.25 (2);36.9;36.1;27.0;1;⚠️ RÓŻNICA (KNN:2 XGB:1);35.0;25.0;40.0;38.2;28.3;33.5;1;2:1;WYGRANA;0.0
+05 kwi;Sportivo Ameliano vs Luqueno;Paraguay 1;2.2 (1);34.0;32.6;33.3;1;⚠️ RÓŻNICA (KNN:X XGB:1);25.0;45.0;30.0;40.0;25.5;34.4;X;2:2;PRZEGRANA;-100.0

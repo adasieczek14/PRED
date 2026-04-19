@@ -1,0 +1,31 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2
+16:00;KolÃ©a vs BÃ©char Djedid;Algeria 2;1.3 (1);77.5;5.4;17.1;1;✅ OBA ZGODNE (1);75.0;20.0;5.0;79.2;15.1;5.7
+jutro 01:00;Cruzeiro vs Vitoria;Brazil 1;1.55 (1);73.6;13.5;12.9;1;✅ OBA ZGODNE (1);85.0;5.0;10.0;66.0;18.1;15.9
+17:00;JS Kabylie vs Ben Aknoun;Algeria 1;6.5 (2);64.4;21.1;14.5;1;✅ OBA ZGODNE (1);70.0;15.0;15.0;60.6;14.2;25.2
+19:00;Kalsdorf vs SC Gleisdorf;Austria 3;1.42 (1);62.4;16.3;21.3;1;✅ OBA ZGODNE (1);55.0;25.0;20.0;67.3;18.9;13.8
+03:00;Tolima vs Rionegro Aguilas;Colombia 1;1.7 (1);61.1;19.7;19.2;1;✅ OBA ZGODNE (1);65.0;10.0;25.0;58.5;25.3;16.2
+18:00;Colombe vs PWD Bamenda;Cameroon 1;1.66 (1);59.9;16.4;23.6;1;✅ OBA ZGODNE (1);60.0;25.0;15.0;59.9;22.7;17.4
+16:00;Paradou AC vs CR Belouizdad;Algeria 1;1.72 (2);24.4;58.5;17.2;2;✅ OBA ZGODNE (2);30.0;15.0;55.0;20.6;18.7;60.8
+19:30;Avranches vs Angouleme;France 4;1.9 (1);58.3;22.6;19.1;1;✅ OBA ZGODNE (1);60.0;15.0;25.0;57.2;21.8;21.0
+21:30;Racing Santander vs Sporting Gijon;Spain 2;1.95 (1);57.6;25.4;17.0;1;✅ OBA ZGODNE (1);75.0;5.0;20.0;46.0;25.0;29.0
+19:00;Hertha Zehlendorf vs Carl Zeiss Jena;Germany 4;1.36 (2);23.6;57.3;19.1;2;✅ OBA ZGODNE (2);30.0;15.0;55.0;19.3;21.9;58.8
+17:00;MC Alger vs USM Alger;Algeria 1;1.7 (1);57.0;18.2;24.8;1;✅ OBA ZGODNE (1);50.0;30.0;20.0;61.7;21.3;17.0
+jutro 01:30;Santa Fe vs Llaneros FC;Colombia 1;1.57 (1);56.9;23.1;20.1;1;✅ OBA ZGODNE (1);60.0;20.0;20.0;54.8;20.1;25.2
+16:00;Kozara vs FK Romanija Pale;Bosnia-Herzegovina 2;4.33 (2);56.1;14.5;29.4;1;✅ OBA ZGODNE (1);55.0;30.0;15.0;56.8;29.0;14.2
+20:45;Linlithgow Rose vs Civil Service Strollers;Scotland 5;1.36 (1);56.0;15.0;28.9;1;✅ OBA ZGODNE (1);55.0;35.0;10.0;56.7;24.9;18.3
+20:00;Burgos CF vs CA Ceuta;Spain 2;1.8 (1);55.3;18.3;26.4;1;✅ OBA ZGODNE (1);65.0;20.0;15.0;48.8;30.7;20.5
+18:00;Sutjeska vs Velež Nevesinje;Bosnia-Herzegovina 2;1.61 (1);55.0;13.1;32.0;1;✅ OBA ZGODNE (1);50.0;40.0;10.0;58.4;26.6;15.1
+02:00;Real Cartagena vs Deportes Quindio;Colombia 2;1.57 (1);54.8;16.1;29.1;1;✅ OBA ZGODNE (1);60.0;25.0;15.0;51.3;31.8;16.9
+19:00;Eintracht Norderstedt vs 1. FC Phoenix Luebeck;Germany 4;1.83 (2);17.8;50.8;31.4;2;✅ OBA ZGODNE (2);25.0;30.0;45.0;13.0;32.4;54.6
+19:00;ZFC Meuselwitz vs BFC Preussen;Germany 4;2.2 (2);22.2;46.7;31.1;2;✅ OBA ZGODNE (2);10.0;35.0;55.0;30.3;28.5;41.2
+23:30;Rubio Nu vs Guarani;Paraguay 1;2.05 (2);15.1;45.1;39.9;2;✅ OBA ZGODNE (2);15.0;40.0;45.0;15.1;39.8;45.1
+14:00;Nairobi United vs Mara Sugar;Kenya 1;1.9 (1);44.6;35.6;19.8;1;✅ OBA ZGODNE (1);45.0;25.0;30.0;44.3;16.4;39.3
+jutro 01:00;Lanus vs Club Atletico Platense;Argentina 1;1.95 (1);44.4;30.9;24.7;1;✅ OBA ZGODNE (1);40.0;30.0;30.0;47.4;21.2;31.5
+jutro 01:30;Sportivo Trinidense vs Olimpia;Paraguay 1;1.95 (2);19.4;43.8;36.7;2;⚠️ RÓŻNICA (KNN:X XGB:2);10.0;50.0;40.0;25.7;27.9;46.4
+jutro 00:30;Internacional vs Sao Paulo;Brazil 1;3.6 (2);43.7;24.8;31.5;1;✅ OBA ZGODNE (1);45.0;30.0;25.0;42.8;32.5;24.7
+20:00;Huesca vs Leonesa;Spain 2;2.0 (1);37.5;22.1;40.4;X;⚠️ RÓŻNICA (KNN:X XGB:1);35.0;55.0;10.0;39.2;30.7;30.1
+23:10;Alianza Petrolera vs Deportivo Pasto;Colombia 1;2.8 (1);38.0;39.3;22.7;2;⚠️ RÓŻNICA (KNN:1 XGB:2);45.0;15.0;40.0;33.3;27.9;38.9
+15:00;Singida Black Stars vs Azam FC;Tanzania 1;2.2 (2);25.5;36.5;37.9;X;⚠️ RÓŻNICA (KNN:X XGB:2);25.0;45.0;30.0;25.9;33.2;40.9
+19:00;Babelsberg vs BFC Dynamo;Germany 4;2.87 (2);37.7;30.9;31.4;1;✅ OBA ZGODNE (1);40.0;30.0;30.0;36.1;32.3;31.5
+16:30;Panthere FC vs Dynamo de Douala;Cameroon 1;2.2 (1);31.4;31.6;37.0;X;⚠️ RÓŻNICA (KNN:X XGB:1);15.0;50.0;35.0;42.4;28.4;29.3
+19:00;FC Andorra vs Malaga CF;Spain 2;3.0 (2);36.7;34.5;28.7;1;⚠️ RÓŻNICA (KNN:2 XGB:1);35.0;25.0;40.0;37.9;31.2;30.9

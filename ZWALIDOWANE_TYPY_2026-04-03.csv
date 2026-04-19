@@ -1,0 +1,74 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+15:30;Llandudno FC vs Ruthin Town;Wales 2;1.12 (1);100.0;0.0;0.0;1;1;5:2;WYGRANA;12.000000000000014
+19:30;SC Team Wiener Linien vs Gloggnitz;Austria 3;1.22 (2);0.0;95.0;5.0;2;2;0:2;WYGRANA;22.0
+16:00;Quorn vs AFC Sudbury;England 7;1.3 (1);90.0;10.0;0.0;1;1;1:0;WYGRANA;30.0
+20:00;SV Horn vs Retz;Austria 3;1.22 (1);90.0;5.0;5.0;1;X;1:1;PRZEGRANA;-100.0
+20:45;PSG vs Toulouse;France 1;1.3 (1);85.0;0.0;15.0;1;1;3:1;WYGRANA;30.0
+13:00;Bangkok United vs Sukhothai FC;Thailand 1;1.25 (1);80.0;0.0;20.0;1;1;2:0;WYGRANA;25.0
+20:45;St. Patrick's Athletic vs Sligo Rovers;Ireland 1;1.33 (1);80.0;0.0;20.0;1;1;4:1;WYGRANA;33.0
+16:00;Milton Keynes Dons vs Barrow;England 4;1.4 (1);80.0;10.0;10.0;1;X;0:0;PRZEGRANA;-100.0
+16:15;Muharraq vs Sitra;Bahrain 1;1.4 (1);80.0;5.0;15.0;1;1;3:0;WYGRANA;40.0
+19:30;Donau vs SC Neusiedl am See 1919;Austria 3;1.61 (1);80.0;10.0;10.0;1;1;4:2;WYGRANA;61.0
+16:00;Southend United vs Braintree Town;England 5;1.27 (1);75.0;15.0;10.0;1;1;3:2;WYGRANA;27.0
+16:00;Bradford City vs Northampton Town;England 3;1.4 (1);75.0;20.0;5.0;1;1;1:0;WYGRANA;40.0
+16:00;Forest Green Rovers vs Brackley Town;England 5;1.33 (1);75.0;10.0;15.0;1;1;4:0;WYGRANA;33.0
+16:00;Grimsby Town vs Harrogate;England 4;1.57 (1);75.0;10.0;15.0;1;2;1:3;PRZEGRANA;-100.0
+16:00;ASM Oran vs GC Mascara;Algeria 2;1.53 (1);75.0;0.0;25.0;1;1;3:2;WYGRANA;53.0
+21:30;Sporting Lizbona vs Santa Clara;Portugal 1;1.25 (1);70.0;5.0;25.0;1;1;4:2;WYGRANA;25.0
+16:00;Lincoln vs AFC Wimbledon;England 3;1.44 (1);70.0;15.0;15.0;1;1;1:0;WYGRANA;44.0
+18:15;Al Ittihad vs Al Hazm;Saudi Arabia 1;1.27 (1);70.0;10.0;20.0;1;1;1:0;WYGRANA;27.0
+16:00;Rochdale vs Morecambe;England 5;1.28 (1);70.0;0.0;30.0;1;2;2:4;PRZEGRANA;-100.0
+16:00;Sholing vs Atherstone Town;England 7;1.22 (1);70.0;15.0;15.0;1;1;2:1;WYGRANA;22.0
+16:00;Kidderminster Harriers vs Hereford;England 6;1.4 (1);70.0;15.0;15.0;1;1;2:1;WYGRANA;40.0
+08:00;APIA Leichhardt Tigers vs Western Sydney Wanderers FC Youth;Australia 2;1.33 (1);70.0;5.0;25.0;1;1;4:1;WYGRANA;33.0
+jutro 01:00;Tlaxcala F.C. vs Dorados;Mexico 2;1.61 (1);65.0;5.0;30.0;1;Brak/Odwolany;-;Odwolany;0.0
+19:30;Villefranche Beaujolais vs Rouen;France 3;1.8 (2);15.0;65.0;20.0;2;1;2:1;PRZEGRANA;-100.0
+16:00;Alvechurch vs Barwell FC;England 7;1.57 (1);65.0;0.0;35.0;1;1;2:1;WYGRANA;57.0
+20:00;Kortrijk vs Jong Gent;Belgium 2;1.38 (1);65.0;10.0;25.0;1;1;2:0;WYGRANA;38.0
+22:15;Union vs Deportivo Riestra;Argentina 1;1.85 (1);65.0;20.0;15.0;1;1;2:0;WYGRANA;85.0
+16:00;Bedford vs Leamington;England 6;1.6 (1);65.0;15.0;20.0;1;1;3:1;WYGRANA;60.0
+16:00;Halesowen vs Stamford AFC;England 7;1.48 (1);60.0;10.0;30.0;1;1;3:1;WYGRANA;48.0
+16:00;Worthing vs Eastbourne Borough;England 6;1.4 (1);60.0;20.0;20.0;1;1;2:1;WYGRANA;40.0
+21:00;Rayo Vallecano vs Elche;Spain 1;1.72 (1);60.0;25.0;15.0;1;1;1:0;WYGRANA;72.0
+21:00;FUS Rabat vs Wydad Casablanca;Morocco 1;1.9 (2);10.0;60.0;30.0;2;1;1:0;PRZEGRANA;-100.0
+15:30;Y Rhyl 1879 vs Guilsfield FC;Wales 2;2.1 (1);60.0;30.0;10.0;1;2;1:2;PRZEGRANA;-100.0
+22:00;Alianza Atletico vs Atletico Grau;Peru 1;2.05 (1);60.0;5.0;35.0;1;X;2:2;PRZEGRANA;-100.0
+16:00;Banbury United vs Royston Town;England 7;1.5 (1);60.0;5.0;35.0;1;2;1:2;PRZEGRANA;-100.0
+21:00;Coventry City vs Derby County;England 2;1.57 (1);55.0;20.0;25.0;1;1;3:2;WYGRANA;57.0
+16:00;Woking vs Eastleigh;England 5;1.7 (1);55.0;30.0;15.0;1;X;3:3;PRZEGRANA;-100.0
+16:00;Accrington Stanley vs Crewe Alexandra;England 4;2.0 (2);20.0;55.0;25.0;2;1;2:0;PRZEGRANA;-100.0
+20:30;Lecco vs Bassano Virtus;Italy 3;2.35 (2);30.0;55.0;15.0;2;1;2:0;PRZEGRANA;-100.0
+16:00;St. Ives Town FC vs Harborough Town;England 7;1.42 (2);15.0;55.0;30.0;2;2;1:2;WYGRANA;42.0
+16:00;Norwich City vs Portsmouth;England 2;1.95 (1);55.0;30.0;15.0;1;X;1:1;PRZEGRANA;-100.0
+16:00;Merthyr Town vs Oxford City;England 6;2.75 (2);20.0;55.0;25.0;2;X;1:1;PRZEGRANA;-100.0
+16:00;Taunton Town vs Walton & Hersham;England 7;1.48 (2);20.0;55.0;25.0;2;1;3:0;PRZEGRANA;-100.0
+16:00;Queens Park Rangers vs Watford;England 2;2.6 (2);55.0;20.0;25.0;1;Brak/Odwolany;-;Odwolany;0.0
+20:45;Waterford United vs Shamrock Rovers;Ireland 1;1.45 (2);15.0;55.0;30.0;2;X;1:1;PRZEGRANA;-100.0
+14:30;Hednesford vs Prescot Cables;England 7;1.53 (1);55.0;15.0;30.0;1;1;3:0;WYGRANA;53.0
+16:00;Guadalajara vs Racing de Ferrol;Spain 3;2.75 (1);55.0;35.0;10.0;1;1;1:0;WYGRANA;175.0
+16:00;Walsall vs Gillingham;England 4;1.7 (1);50.0;30.0;20.0;1;X;2:2;PRZEGRANA;-100.0
+20:00;Vitesse vs FC Emmen;Netherlands 2;2.1 (1);50.0;10.0;40.0;1;X;3:3;PRZEGRANA;-100.0
+15:30;Colwyn Bay vs Caernarfon;Wales 1;1.95 (1);50.0;30.0;20.0;1;2;0:2;PRZEGRANA;-100.0
+19:30;Concarneau vs Le Puy;France 3;2.6 (2);50.0;20.0;30.0;1;2;0:3;PRZEGRANA;-100.0
+16:00;Whitby vs FC United of Manchester;England 7;1.9 (2);15.0;50.0;35.0;2;2;1:3;WYGRANA;90.0
+20:00;FC Den Bosch vs Jong FC Utrecht;Netherlands 2;1.9 (1);45.0;20.0;35.0;1;Brak/Odwolany;-;Odwolany;0.0
+02:30;Palmeiras vs Gremio;Brazil 1;1.5 (1);45.0;10.0;45.0;1;1;2:1;WYGRANA;50.0
+13:30;Leeds United U21 vs Manchester United Academy;England Reserve 1;1.5 (2);10.0;45.0;45.0;2;2;1:2;WYGRANA;50.0
+19:30;Quevilly vs Valenciennes;France 3;2.0 (2);30.0;45.0;25.0;2;1;3:2;PRZEGRANA;-100.0
+18:30;Budaiya vs Al-Hidd;Bahrain 1;2.1 (2);25.0;45.0;30.0;2;2;0:2;WYGRANA;110.0
+22:00;Boston River vs Montevideo Wanderers;Uruguay 1;3.0 (2);45.0;35.0;20.0;1;1;4:1;WYGRANA;0.0
+16:00;Horsham vs Dorking Wanderers;England 6;2.0 (2);30.0;45.0;25.0;2;1;3:0;PRZEGRANA;-100.0
+jutro 01:30;Caracas vs Metropolitanos FC;Venezuela 1;3.1 (2);45.0;35.0;20.0;1;Brak/Odwolany;-;Odwolany;0.0
+17:30;Al Shahaniya vs Al Arabi;Qatar 1;1.83 (2);45.0;35.0;20.0;1;2;0:2;PRZEGRANA;-100.0
+16:00;Darlington 1883 vs Scarborough Athletic;England 6;3.3 (2);40.0;25.0;35.0;1;2;1:2;PRZEGRANA;-100.0
+20:00;VVV-Venlo vs Cambuur;Netherlands 2;1.9 (2);15.0;40.0;45.0;X;1;3:0;PRZEGRANA;-100.0
+16:00;Aldershot Town vs Sutton United;England 5;3.0 (2);40.0;35.0;25.0;1;X;2:2;PRZEGRANA;-100.0
+20:00;Grenoble vs Clermont Foot;France 2;2.4 (1);40.0;35.0;25.0;1;X;2:2;PRZEGRANA;-100.0
+15:30;Gresford Athletic vs Caersws;Wales 2;2.1 (1);25.0;40.0;35.0;2;2;0:2;WYGRANA;0.0
+16:00;Blackpool vs Exeter City;England 3;2.15 (1);40.0;35.0;25.0;1;1;1:0;WYGRANA;115.0
+19:00;Eldense vs Europa FC;Spain 3;1.7 (1);40.0;10.0;50.0;X;1;3:0;PRZEGRANA;-100.0
+20:00;Gimnasia Mendoza vs Velez Sarsfield;Argentina 1;2.35 (2);25.0;35.0;40.0;X;1;3:2;PRZEGRANA;-100.0
+16:00;Minyor Pernik vs Yantra;Bulgaria 2;2.05 (2);15.0;35.0;50.0;X;2;0:1;PRZEGRANA;-100.0
+16:00;Dorchester Town vs Berkhamsted;England 7;2.25 (2);35.0;20.0;45.0;X;2;2:3;PRZEGRANA;-100.0
+19:30;Aubagne vs Chateauroux;France 3;2.6 (2);30.0;35.0;35.0;2;X;1:1;PRZEGRANA;-100.0
+16:00;Southport vs Marine;England 6;1.9 (1);30.0;35.0;35.0;2;1;2:1;PRZEGRANA;-100.0

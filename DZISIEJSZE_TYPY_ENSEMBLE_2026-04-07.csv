@@ -1,0 +1,39 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2
+19:30;Orlando Pirates vs Lamontville Golden Arrows;South Africa 1;1.16 (1);87.2;3.2;9.6;1;✅ OBA ZGODNE (1);90.0;10.0;0.0;85.4;9.3;5.3
+11:00;Melbourne City FC vs Central Coast Mariners;Australia 1;8.5 (2);84.3;5.6;10.1;1;✅ OBA ZGODNE (1);85.0;10.0;5.0;83.9;10.2;6.0
+03:30;Real Espana vs Juticalpa;Honduras 1;1.18 (1);82.2;7.2;10.6;1;✅ OBA ZGODNE (1);85.0;5.0;10.0;80.3;14.3;5.4
+19:30;FC Vaduz vs Bellinzona;Switzerland 2;1.33 (1);74.9;7.2;17.9;1;✅ OBA ZGODNE (1);75.0;20.0;5.0;74.8;16.5;8.7
+19:30;FC Stade Lausanne-Ouchy vs FC Rapperswil-Jona;Switzerland 2;1.5 (1);71.4;13.5;15.1;1;✅ OBA ZGODNE (1);80.0;5.0;15.0;65.6;21.9;12.5
+19:00;Aarau vs Etoile Carouge;Switzerland 2;1.5 (1);69.7;8.5;21.8;1;✅ OBA ZGODNE (1);75.0;25.0;0.0;66.1;19.7;14.2
+19:00;FC Schweinfurt vs RW Essen;Germany 3;1.48 (2);10.1;67.6;22.4;2;✅ OBA ZGODNE (2);15.0;25.0;60.0;6.8;20.6;72.6
+19:30;Durban City vs Mamelodi Sundowns FC;South Africa 1;1.55 (2);11.7;67.3;21.0;2;✅ OBA ZGODNE (2);10.0;25.0;65.0;12.8;18.3;68.9
+16:00;Manisa BBSK vs Pendikspor;Turkey 2;1.83 (2);16.5;61.3;22.2;2;✅ OBA ZGODNE (2);20.0;20.0;60.0;14.1;23.7;62.2
+20:45;Y Rhyl 1879 vs Gresford Athletic;Wales 2;1.8 (1);59.7;11.3;29.0;1;✅ OBA ZGODNE (1);70.0;25.0;5.0;52.8;31.7;15.5
+21:00;Bromley vs Shrewsbury Town;England 4;1.66 (1);56.8;16.3;26.8;1;✅ OBA ZGODNE (1);55.0;30.0;15.0;58.0;24.7;17.2
+18:00;NK Istra 1961 vs Hajduk Split;Croatia 1;1.66 (2);15.8;56.1;28.0;2;✅ OBA ZGODNE (2);15.0;35.0;50.0;16.4;23.4;60.2
+03:00;Guastatoya vs Deportivo Achuapa;Guatemala 1;1.55 (1);53.4;21.3;25.3;1;✅ OBA ZGODNE (1);50.0;25.0;25.0;55.6;25.5;18.8
+02:15;Instituto vs Defensa y Justicia;Argentina 1;4.1 (2);52.4;16.7;30.8;1;✅ OBA ZGODNE (1);45.0;45.0;10.0;57.4;21.4;21.1
+04:00;AD Municipal Liberia vs Deportiva San Carlos;Costa Rica 1;1.8 (1);50.9;17.0;32.1;1;✅ OBA ZGODNE (1);45.0;40.0;15.0;54.8;26.9;18.3
+20:45;Ayr United vs Dunfermline Athletic;Scotland 2;2.15 (1);50.0;22.7;27.4;1;✅ OBA ZGODNE (1);60.0;30.0;10.0;43.3;25.7;31.1
+18:00;Miedź Legnica vs Polonia Bytom;Poland 2;1.9 (1);47.6;17.4;35.0;1;✅ OBA ZGODNE (1);45.0;45.0;10.0;49.3;28.4;22.4
+23:00;Rionegro Aguilas vs Bucaramanga;Colombia 1;2.45 (1);47.6;23.4;28.9;1;✅ OBA ZGODNE (1);45.0;35.0;20.0;49.3;24.9;25.7
+03:00;Pitbulls vs CS Uruguay;Costa Rica 2;2.1 (1);46.7;30.4;22.9;1;✅ OBA ZGODNE (1);45.0;15.0;40.0;47.9;28.1;24.0
+21:00;Wrexham vs Southampton;England 2;2.62 (2);46.0;24.2;29.7;1;✅ OBA ZGODNE (1);50.0;40.0;10.0;43.4;22.9;33.7
+19:00;Arka Gdynia vs Zagłębie Lubin;Poland 1;2.25 (1);45.2;33.0;21.8;1;✅ OBA ZGODNE (1);55.0;20.0;25.0;38.6;23.0;38.4
+19:00;Vizela vs Benfica B;Portugal 2;2.0 (1);44.6;27.5;27.9;1;✅ OBA ZGODNE (1);40.0;30.0;30.0;47.7;26.5;25.9
+19:00;Jahn Regensburg vs Erzgebirge Aue;Germany 3;2.05 (1);42.7;23.1;34.2;1;✅ OBA ZGODNE (1);40.0;40.0;20.0;44.5;30.3;25.2
+19:30;Richards Bay vs Vasco da Gama;South Africa 1;2.6 (2);42.6;32.4;25.0;1;⚠️ RÓŻNICA (KNN:2 XGB:1);30.0;30.0;40.0;51.0;21.7;27.3
+19:00;Energie Cottbus vs TSV 1860 Monachium;Germany 3;1.83 (1);42.5;27.5;30.0;1;✅ OBA ZGODNE (1);40.0;30.0;30.0;44.1;30.0;25.9
+jutro 01:00;Tapatio vs Tlaxcala F.C.;Mexico 2;1.95 (1);40.8;30.7;28.5;1;⚠️ RÓŻNICA (KNN:2 XGB:1);35.0;25.0;40.0;44.7;30.8;24.5
+19:00;Hertha Zehlendorf vs BSG Chemie Leipzig;Germany 4;2.15 (2);31.5;40.8;27.7;2;✅ OBA ZGODNE (2);35.0;25.0;40.0;29.2;29.5;41.4
+19:00;Duisburg vs Osnabrueck;Germany 3;2.5 (2);25.0;40.6;34.3;2;✅ OBA ZGODNE (2);20.0;35.0;45.0;28.4;33.9;37.7
+19:30;Wil vs Neuchâtel Xamax;Switzerland 2;2.3 (1);40.2;38.0;21.8;1;⚠️ RÓŻNICA (KNN:2 XGB:1);40.0;10.0;50.0;40.3;29.7;30.0
+19:00;Waldhof Mannheim vs Hoffenheim II;Germany 3;2.05 (1);40.0;26.5;33.6;1;⚠️ RÓŻNICA (KNN:X XGB:1);30.0;35.0;35.0;46.6;32.6;20.8
+20:45;Port Vale vs Rotherham United;England 3;2.4 (1);39.2;29.5;31.3;1;✅ OBA ZGODNE (1);40.0;30.0;30.0;38.6;32.2;29.2
+16:30;Dubrava Zagreb vs Bjelo Brdo;Croatia 2;2.5 (1);34.1;38.0;28.0;2;⚠️ RÓŻNICA (KNN:1 XGB:2);40.0;30.0;30.0;30.1;26.6;43.3
+19:00;FSV Luckenwalde vs Hallescher FC;Germany 4;3.0 (1);33.7;37.8;28.5;2;⚠️ RÓŻNICA (KNN:1 XGB:2);40.0;35.0;25.0;29.5;24.2;46.4
+13:30;Bandırmaspor vs SarÄ±yer;Turkey 2;2.0 (1);37.2;26.8;36.0;1;⚠️ RÓŻNICA (KNN:X XGB:1);25.0;40.0;35.0;45.3;33.4;21.3
+19:30;Chippa United vs Siwelele;South Africa 1;2.75 (2);37.2;34.2;28.6;1;✅ OBA ZGODNE (1);35.0;30.0;35.0;38.7;27.6;33.7
+19:30;Magesi FC vs Milano United FC;South Africa 1;2.25 (1);34.6;28.5;36.9;X;⚠️ RÓŻNICA (KNN:X XGB:1);30.0;45.0;25.0;37.6;31.5;30.9
+20:45;Montrose vs Cove Rangers;Scotland 3;2.4 (1);32.2;36.8;31.1;2;⚠️ RÓŻNICA (KNN:X XGB:2);30.0;40.0;30.0;33.6;25.1;41.3
+22:00;Universitario Popayan vs Independiente Yumbo;Colombia 2;2.5 (1);35.4;33.4;31.3;1;⚠️ RÓŻNICA (KNN:1 XGB:X);45.0;20.0;35.0;29.0;38.8;32.3

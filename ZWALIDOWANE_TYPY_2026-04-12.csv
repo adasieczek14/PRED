@@ -1,0 +1,39 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+15:00;Grosseto vs Sansepolcro;Italy 4;1.12 (1);95.0;0.0;5.0;1;X;2:2;PRZEGRANA;-100.0
+19:00;Benfica Lizbona vs Nacional;Portugal 1;1.14 (1);85.0;10.0;5.0;1;1;2:0;WYGRANA;13.999999999999986
+19:00;Galatasaray Stambuł vs Kocaelispor;Turkey 1;1.2 (1);85.0;5.0;10.0;1;X;1:1;PRZEGRANA;-100.0
+03:00;Pachuca vs Santos;Mexico 1;1.42 (1);75.0;10.0;15.0;1;1;4:2;WYGRANA;42.0
+23:15;Rubio Nu vs Olimpia;Paraguay 1;1.57 (2);5.0;75.0;20.0;2;Brak/Odwolany;-;Odwolany;0.0
+12:00;Kitchee vs Rangers;Hong Kong 1;1.18 (1);75.0;0.0;25.0;1;1;2:0;WYGRANA;18.0
+13:30;Paderborn vs Magdeburg;Germany 2;1.83 (1);65.0;10.0;25.0;1;1;4:3;WYGRANA;83.0
+18:00;Olympique Sport dAbobo vs ES Agboville;Ivory Coast 1;4.5 (2);65.0;10.0;25.0;1;2;0:1;PRZEGRANA;-100.0
+09:00;Sydney United 58 vs St George City;Australia 2;1.7 (1);65.0;15.0;20.0;1;X;0:0;PRZEGRANA;-100.0
+16:00;Barakaldo vs Arenteiro;Spain 3;1.61 (1);60.0;15.0;25.0;1;X;1:1;PRZEGRANA;-100.0
+17:30;VfB Stuttgart vs Hamburger SV;Germany 1;1.38 (1);60.0;15.0;25.0;1;1;4:0;WYGRANA;38.0
+20:30;Hercules vs Atletico Sanluqueno CF;Spain 3;1.4 (1);60.0;10.0;30.0;1;Brak/Odwolany;-;Odwolany;0.0
+18:00;Bologna vs Lecce;European Championship U-21 1;1.8 (1);55.0;20.0;25.0;1;1;2:0;WYGRANA;80.0
+16:30;Erzgebirge Aue vs SC Verl;Germany 3;1.72 (2);25.0;55.0;20.0;2;X;1:1;PRZEGRANA;-100.0
+03:00;Monarcas Morelia vs Tlaxcala F.C.;Mexico 2;1.7 (1);55.0;15.0;30.0;1;X;0:0;PRZEGRANA;-100.0
+12:30;Ternana Unicusano vs Perugia;Italy 3;3.3 (2);55.0;20.0;25.0;1;X;2:2;PRZEGRANA;-100.0
+13:30;Konyaspor vs Fatih Karagümrük;Turkey 1;1.66 (1);55.0;25.0;20.0;1;1;3:0;WYGRANA;66.0
+18:30;Cadiz vs FC Andorra;Spain 2;2.2 (2);10.0;50.0;40.0;2;2;0:1;WYGRANA;120.00000000000003
+07:00;Blacktown City FC vs Wollongong Wolves;Australia 2;2.45 (2);50.0;35.0;15.0;1;2;1:3;PRZEGRANA;-100.0
+13:00;Falkirk vs Rangers;Scotland 1;1.75 (2);25.0;50.0;25.0;2;2;3:6;WYGRANA;75.0
+02:45;Estudiantes de Rio Cuarto vs Barracas Central;Argentina 1;3.4 (2);40.0;50.0;10.0;2;2;1:2;WYGRANA;240.0
+19:30;FSV Mainz 05 vs Freiburg;Germany 1;2.3 (1);45.0;20.0;35.0;1;2;0:1;PRZEGRANA;-100.0
+11:00;Sydney United U20 vs St. George City U20;Australia 3;1.66 (1);45.0;25.0;30.0;1;1;3:1;WYGRANA;66.0
+15:00;Kaizer Chiefs vs TS Galaxy;South Africa 1;1.6 (1);45.0;25.0;30.0;1;1;2:0;WYGRANA;60.0
+14:30;Casertana vs Audace Cerignola;Italy 3;2.2 (1);45.0;35.0;20.0;1;1;4:1;WYGRANA;120.00000000000003
+03:00;Antigua Guatemala vs CSD Municipal;Guatemala 1;2.5 (1);45.0;35.0;20.0;1;1;1:0;WYGRANA;150.0
+22:30;Chapelton vs Cavalier SC;Jamaica 1;3.1 (1);25.0;45.0;30.0;2;Brak/Odwolany;-;Odwolany;0.0
+10:30;OFK Malzenice vs Povazska Bystrica;Slovakia 2;2.37 (1);20.0;40.0;40.0;2;1;4:2;PRZEGRANA;-100.0
+15:30;Mlada Boleslav vs Dukla Praha;Czech Republic 1;1.66 (1);35.0;40.0;25.0;2;X;1:1;PRZEGRANA;-100.0
+15:00;Pro Sesto vs Pistoiese;Italy 4;2.25 (2);35.0;40.0;25.0;2;X;0:0;PRZEGRANA;-100.0
+12:15;FC Dordrecht vs ADO Den Haag;Netherlands 2;1.85 (2);20.0;40.0;40.0;2;1;1:0;PRZEGRANA;-100.0
+05:00;Marquense vs Mictlán;Guatemala 1;1.7 (1);40.0;10.0;50.0;X;1;3:0;PRZEGRANA;-100.0
+16:15;Huesca vs RC Deportivo;Spain 2;2.15 (2);35.0;40.0;25.0;2;X;1:1;PRZEGRANA;-100.0
+17:15;Toulouse vs Lille;France 1;2.3 (2);30.0;35.0;35.0;2;2;0:4;WYGRANA;129.99999999999997
+15:00;Messina vs Ragusa Calcio;Italy 4;3.1 (2);30.0;35.0;35.0;2;1;1:0;PRZEGRANA;-100.0
+14:45;Motor Lublin vs Raków Częstochowa;Poland 1;2.7 (1);30.0;35.0;35.0;2;X;1:1;PRZEGRANA;-100.0
+23:30;Corinthians vs Palmeiras;Brazil 1;2.45 (2);30.0;25.0;45.0;X;Brak/Odwolany;-;Odwolany;0.0
+14:30;PEC Zwolle vs Excelsior;Eredivisie;2.2 (1);30.0;30.0;40.0;X;X;2:2;WYGRANA;0.0

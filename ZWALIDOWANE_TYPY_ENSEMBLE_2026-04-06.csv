@@ -1,0 +1,55 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+02:00;Wotton vs Weymouth Wales;Barbados 1;1.03 (2);4.4;93.2;2.5;2;✅ OBA ZGODNE (2);10.0;0.0;90.0;0.6;4.2;95.3;Brak/Odwolany;-;Odwolany;0.0
+16:00;York City vs Altrincham;England 5;1.16 (1);82.3;4.9;12.8;1;✅ OBA ZGODNE (1);90.0;5.0;5.0;77.1;18.0;4.8;1;2:1;WYGRANA;15.999999999999986
+16:00;AFC Fylde vs Radcliffe Borough;England 6;1.3 (1);82.3;6.9;10.7;1;✅ OBA ZGODNE (1);80.0;10.0;10.0;83.9;11.2;4.9;1;4:3;WYGRANA;30.0
+15:00;Szirak vs Pjunik;Armenia 1;1.3 (2);5.1;81.4;13.5;2;✅ OBA ZGODNE (2);5.0;15.0;80.0;5.2;12.5;82.3;2;0:1;WYGRANA;30.0
+18:00;Bohemian FC vs Waterford United;Ireland 1;1.33 (1);78.0;7.3;14.6;1;✅ OBA ZGODNE (1);80.0;15.0;5.0;76.7;14.4;8.8;X;1:1;PRZEGRANA;-100.0
+16:00;Harborough Town vs Banbury United;England 7;1.25 (1);76.6;11.0;12.4;1;✅ OBA ZGODNE (1);75.0;10.0;15.0;77.6;14.0;8.4;1;5:1;WYGRANA;25.0
+16:00;Gloucester City vs Taunton Town;England 7;1.4 (1);75.8;7.2;17.0;1;✅ OBA ZGODNE (1);75.0;20.0;5.0;76.3;15.0;8.7;2;0:2;PRZEGRANA;-100.0
+14:30;Catania vs AZ Picerno ASD;Italy 3;1.27 (1);74.4;10.9;14.7;1;✅ OBA ZGODNE (1);65.0;20.0;15.0;80.7;11.2;8.1;2;1:2;PRZEGRANA;-100.0
+jutro 00:00;Argentinos Juniors vs Banfield;Argentina 1;1.5 (1);74.1;12.4;13.5;1;✅ OBA ZGODNE (1);85.0;5.0;10.0;66.8;19.2;14.0;1;3:2;WYGRANA;50.0
+16:00;AFC Sudbury vs Needham Market;England 7;1.3 (2);15.1;74.0;10.9;2;✅ OBA ZGODNE (2);20.0;10.0;70.0;11.9;11.5;76.6;2;1:3;WYGRANA;30.0
+16:00;Walton & Hersham vs Chertsey Town;England 7;1.4 (1);69.6;9.5;21.0;1;✅ OBA ZGODNE (1);70.0;25.0;5.0;69.3;18.3;12.5;2;1:2;PRZEGRANA;-100.0
+16:00;Barwell FC vs Spalding United;England 7;1.4 (2);12.2;68.7;19.1;2;✅ OBA ZGODNE (2);10.0;25.0;65.0;13.7;15.1;71.2;2;0:2;WYGRANA;40.0
+15:30;Llandudno FC vs Guilsfield FC;Wales 2;1.44 (1);67.8;10.4;21.8;1;✅ OBA ZGODNE (1);65.0;25.0;10.0;69.7;19.7;10.6;1;4:1;WYGRANA;44.0
+16:00;Real Bedford vs Bishop's Stortford;England 7;1.38 (1);67.2;16.3;16.4;1;✅ OBA ZGODNE (1);65.0;15.0;20.0;68.7;17.4;13.9;1;4:0;WYGRANA;38.0
+16:00;Sheffield Wednesday vs Leicester City;England 2;1.53 (2);11.9;65.7;22.4;2;✅ OBA ZGODNE (2);10.0;25.0;65.0;13.2;20.6;66.2;X;1:1;PRZEGRANA;-100.0
+17:00;Avan Academy vs Alashkert FC;Armenia 1;1.61 (1);63.9;19.0;17.1;1;✅ OBA ZGODNE (1);75.0;5.0;20.0;56.5;25.2;18.3;X;1:1;PRZEGRANA;-100.0
+16:00;Ipswich Town vs Birmingham City;England 2;1.61 (1);63.5;15.7;20.8;1;✅ OBA ZGODNE (1);60.0;20.0;20.0;65.8;21.4;12.8;1;2:1;WYGRANA;61.0
+16:00;Poole Town FC vs Wimborne Town;England 7;1.57 (1);63.2;15.1;21.7;1;✅ OBA ZGODNE (1);65.0;20.0;15.0;62.0;22.9;15.1;2;1:2;PRZEGRANA;-100.0
+16:30;St. Gallen vs FC Zuerich;Switzerland 1;1.5 (1);61.8;12.0;26.2;1;✅ OBA ZGODNE (1);60.0;30.0;10.0;63.0;23.6;13.4;1;2:1;WYGRANA;50.0
+16:00;Berkhamsted vs Hungerford Town;England 7;1.57 (1);60.7;15.4;23.9;1;✅ OBA ZGODNE (1);60.0;25.0;15.0;61.2;23.2;15.6;1;4:1;WYGRANA;57.0
+16:00;Torquay United vs Bath City;England 6;1.45 (1);59.6;12.2;28.2;1;✅ OBA ZGODNE (1);50.0;40.0;10.0;66.0;20.3;13.7;1;4:1;WYGRANA;45.0
+16:00;South Shields vs Darlington 1883;England 6;1.4 (1);59.1;9.1;31.8;1;⚠️ RÓŻNICA (KNN:X XGB:1);45.0;50.0;5.0;68.5;19.6;11.9;2;0:1;PRZEGRANA;-100.0
+12:30;Udinese vs Como;European Championship U-21 1;1.65 (2);19.5;58.8;21.7;2;✅ OBA ZGODNE (2);20.0;20.0;60.0;19.1;22.8;58.0;X;0:0;PRZEGRANA;-100.0
+13:30;Portsmouth vs Oxford United;England 2;4.1 (2);58.3;16.0;25.7;1;✅ OBA ZGODNE (1);60.0;20.0;20.0;57.2;29.5;13.4;X;2:2;PRZEGRANA;-100.0
+jutro 01:00;Sportivo Trinidense vs Rubio Nu;Paraguay 1;2.1 (1);57.7;17.9;24.4;1;✅ OBA ZGODNE (1);75.0;15.0;10.0;46.2;30.6;23.2;1;4:0;WYGRANA;110.0
+16:45;Vitesse vs Jong Ajax;Netherlands 2;1.6 (1);56.8;21.5;21.7;1;✅ OBA ZGODNE (1);60.0;25.0;15.0;54.7;19.5;25.8;1;6:1;WYGRANA;60.0
+16:00;Atherstone Town vs Plymouth Parkway;England 7;1.7 (2);22.9;55.9;21.2;2;✅ OBA ZGODNE (2);30.0;10.0;60.0;18.1;28.7;53.2;2;2:3;WYGRANA;70.0
+04:00;Club Xelaju vs Deportivo Malacateco;Guatemala 1;1.53 (1);55.6;29.9;14.5;1;✅ OBA ZGODNE (1);60.0;5.0;35.0;52.7;20.8;26.5;1;1:0;WYGRANA;53.0
+16:00;Bolton Wanderers vs Stockport;England 3;2.05 (1);53.5;18.6;27.8;1;✅ OBA ZGODNE (1);70.0;20.0;10.0;42.5;33.0;24.4;X;2:2;PRZEGRANA;-100.0
+19:30;Pogon Grodzisk Mazowiecki vs Stal Mielec;Poland 2;2.15 (1);53.5;21.3;25.2;1;✅ OBA ZGODNE (1);55.0;25.0;20.0;52.5;25.3;22.2;2;1:2;PRZEGRANA;-100.0
+16:00;Stratford Town vs Kettering Town FC;England 7;1.72 (2);22.1;51.7;26.2;2;✅ OBA ZGODNE (2);30.0;30.0;40.0;16.9;23.6;59.5;1;2:0;PRZEGRANA;-100.0
+19:00;FC Porto B vs Chaves;Portugal 2;2.6 (1);51.1;28.8;20.2;1;✅ OBA ZGODNE (1);50.0;15.0;35.0;51.8;23.6;24.7;1;3:0;WYGRANA;160.0
+16:00;Uxbridge vs Hanwell Town;England 7;1.95 (1);50.7;20.9;28.4;1;✅ OBA ZGODNE (1);55.0;30.0;15.0;47.8;27.4;24.8;1;2:0;WYGRANA;95.0
+16:45;Cambuur vs FC Dordrecht;Netherlands 2;1.72 (1);50.2;14.9;35.0;1;✅ OBA ZGODNE (1);45.0;45.0;10.0;53.6;28.3;18.1;X;1:1;PRZEGRANA;-100.0
+14:30;Casarano vs Potenza;Italy 3;1.8 (1);49.9;16.0;34.2;1;✅ OBA ZGODNE (1);50.0;35.0;15.0;49.8;33.6;16.6;1;2:1;WYGRANA;80.0
+14:30;Audace Cerignola vs Latina;Italy 3;1.9 (1);48.4;23.4;28.2;1;✅ OBA ZGODNE (1);40.0;35.0;25.0;54.0;23.7;22.3;X;1:1;PRZEGRANA;-100.0
+15:00;Lecce vs Atalanta;European Championship U-21 1;1.75 (2);26.3;47.8;25.9;2;⚠️ RÓŻNICA (KNN:1 XGB:2);35.0;30.0;35.0;20.5;23.1;56.4;2;0:3;WYGRANA;75.0
+16:00;Derby County vs Stoke City;England 2;1.9 (1);45.3;24.9;29.8;1;✅ OBA ZGODNE (1);35.0;35.0;30.0;52.2;26.3;21.5;1;2:0;WYGRANA;90.0
+21:00;Hull City vs Coventry City;England 2;1.9 (2);23.8;45.2;31.0;2;⚠️ RÓŻNICA (KNN:X XGB:2);20.0;40.0;40.0;26.4;25.0;48.6;X;0:0;PRZEGRANA;-100.0
+15:30;Caersws vs Penrhyncoch FC;Wales 2;1.8 (1);44.9;27.6;27.5;1;✅ OBA ZGODNE (1);40.0;30.0;30.0;48.1;25.9;26.0;2;1:2;PRZEGRANA;-100.0
+16:00;Curzon vs Southport;England 6;2.15 (2);24.4;44.3;31.3;2;✅ OBA ZGODNE (2);25.0;30.0;45.0;24.0;32.2;43.8;2;1:3;WYGRANA;115.0
+16:00;Solihull Moors vs Boreham Wood;England 5;1.9 (2);20.3;43.8;35.9;2;✅ OBA ZGODNE (2);15.0;40.0;45.0;23.8;33.2;43.0;1;4:1;PRZEGRANA;-100.0
+17:15;Sampdoria vs Empoli;Italy 2;2.3 (1);43.3;35.1;21.6;1;✅ OBA ZGODNE (1);50.0;15.0;35.0;38.8;26.0;35.2;1;1:0;WYGRANA;129.99999999999997
+16:45;Roda JC Kerkrade vs Willem II;Netherlands 2;2.75 (2);43.3;33.8;22.9;1;✅ OBA ZGODNE (1);50.0;10.0;40.0;38.8;31.5;29.7;2;0:1;PRZEGRANA;-100.0
+16:00;Leyton Orient vs Huddersfield Town;England 3;2.9 (1);26.9;41.1;32.0;2;✅ OBA ZGODNE (2);30.0;30.0;40.0;24.8;33.3;41.9;2;1:2;WYGRANA;0.0
+20:45;Le Mans vs Pau;France 2;1.9 (1);40.9;28.9;30.2;1;⚠️ RÓŻNICA (KNN:X XGB:1);30.0;35.0;35.0;48.1;27.0;24.9;1;4:0;WYGRANA;90.0
+16:00;Bristol City vs Sheffield United;England 2;2.4 (2);27.7;32.0;40.3;X;✅ OBA ZGODNE (X);30.0;40.0;30.0;26.2;40.5;33.3;1;1:0;PRZEGRANA;-100.0
+12:15;Helmond Sport vs RKC Waalwijk;Netherlands 2;2.0 (2);32.1;40.1;27.8;2;⚠️ RÓŻNICA (KNN:1 XGB:2);40.0;25.0;35.0;26.9;29.6;43.5;X;2:2;PRZEGRANA;-100.0
+19:00;Kocaelispor vs Istanbul Basaksehir;Turkey 1;2.5 (2);34.6;38.5;26.8;2;⚠️ RÓŻNICA (KNN:2 XGB:1);35.0;20.0;45.0;34.3;31.4;34.2;X;0:0;PRZEGRANA;-100.0
+16:00;Chippenham Town vs AFC Totton;England 6;2.25 (1);37.5;27.8;34.7;1;⚠️ RÓŻNICA (KNN:X XGB:1);35.0;40.0;25.0;39.2;31.2;29.6;1;2:0;WYGRANA;125.0
+16:00;Reading vs Lincoln;England 3;1.9 (2);29.5;37.5;33.0;2;⚠️ RÓŻNICA (KNN:X XGB:2);30.0;40.0;30.0;29.2;28.3;42.5;2;1:2;WYGRANA;90.0
+16:00;Exeter City vs Doncaster Rovers;England 3;2.4 (2);37.2;31.0;31.8;1;✅ OBA ZGODNE (1);40.0;30.0;30.0;35.3;33.0;31.7;1;3:0;WYGRANA;0.0
+19:30;Hapoel Tel Awiw vs Maccabi Hajfa;Israel 1;2.5 (1);35.1;36.9;28.0;2;⚠️ RÓŻNICA (KNN:1 XGB:2);35.0;30.0;35.0;35.1;26.7;38.2;1;2:0;PRZEGRANA;-100.0
+17:30;Virtus Verona vs Ospitaletto;Italy 3;2.05 (2);33.8;33.4;32.8;1;⚠️ RÓŻNICA (KNN:1 XGB:2);40.0;40.0;20.0;29.6;28.0;42.4;X;0:0;PRZEGRANA;-100.0

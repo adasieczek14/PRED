@@ -1,0 +1,41 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2
+15:00;Pogradeci vs Kastrioti;Albania 2;1.05 (1);96.1;0.2;3.7;1;✅ OBA ZGODNE (1);95.0;5.0;0.0;96.9;2.8;0.3
+16:00;AS Khroub vs IB Khémis El Khechna;Algeria 2;1.25 (1);85.8;2.8;11.4;1;✅ OBA ZGODNE (1);95.0;5.0;0.0;79.7;15.6;4.7
+15:00;Laci vs Burreli;Albania 2;1.2 (1);82.8;2.0;15.1;1;✅ OBA ZGODNE (1);75.0;25.0;0.0;88.0;8.5;3.4
+15:00;Dinamo Zagrzeb vs Osijek;Croatia 1;1.16 (1);82.2;7.1;10.8;1;✅ OBA ZGODNE (1);85.0;5.0;10.0;80.3;14.6;5.1
+16:00;Rangers vs Dundee United;Scotland 1;1.25 (1);79.6;9.4;11.0;1;✅ OBA ZGODNE (1);70.0;15.0;15.0;86.0;8.3;5.7
+17:00;Dynamo Kijów vs Karpaty Lwów;Ukraine 1;1.38 (1);78.8;8.8;12.4;1;✅ OBA ZGODNE (1);85.0;5.0;10.0;74.7;17.3;8.0
+20:00;Al Hilal vs Al-Taawon;Saudi Arabia 1;1.2 (1);77.4;8.4;14.2;1;✅ OBA ZGODNE (1);70.0;20.0;10.0;82.3;10.4;7.3
+14:00;Osnabrueck vs FC Schweinfurt;Germany 3;1.3 (1);76.8;12.4;10.8;1;✅ OBA ZGODNE (1);70.0;10.0;20.0;81.3;11.4;7.3
+21:30;FC Porto vs Famalicao;Portugal 1;1.4 (1);70.7;13.1;16.1;1;✅ OBA ZGODNE (1);75.0;10.0;15.0;67.9;20.2;11.9
+13:30;Arda Kardzhali vs Montana;Bulgaria 1;1.42 (1);70.2;16.2;13.7;1;✅ OBA ZGODNE (1);80.0;5.0;15.0;63.6;19.5;17.0
+14:30;Cosenza vs Foggia;Italy 3;1.53 (1);68.8;14.0;17.2;1;✅ OBA ZGODNE (1);65.0;20.0;15.0;71.3;15.3;13.4
+16:00;Botew Płowdiw vs Spartak Varna;Bulgaria 1;1.38 (1);67.1;19.5;13.5;1;✅ OBA ZGODNE (1);70.0;10.0;20.0;65.1;15.8;19.1
+15:30;Bayer Leverkusen vs VfL Wolfsburg;Germany 1;1.4 (1);64.4;9.1;26.4;1;✅ OBA ZGODNE (1);60.0;35.0;5.0;67.4;20.7;11.9
+jutro 01:00;Queretaro FC vs Toluca;Mexico 1;1.55 (2);19.1;61.5;19.4;2;✅ OBA ZGODNE (2);25.0;20.0;55.0;15.2;19.0;65.9
+15:00;Erzurum BB vs IÄŸdÄ±r FK;Turkey 2;1.53 (1);61.2;11.1;27.6;1;✅ OBA ZGODNE (1);70.0;25.0;5.0;55.4;29.4;15.2
+16:00;Belasitsa Petrich vs Chernomorets 1919 Burgas;Bulgaria 2;1.83 (2);11.4;60.1;28.5;2;✅ OBA ZGODNE (2);10.0;30.0;60.0;12.3;27.5;60.2
+14:00;Hansa Rostock vs Viktoria Koeln 1904;Germany 3;1.6 (1);59.6;17.4;23.0;1;✅ OBA ZGODNE (1);60.0;20.0;20.0;59.3;25.0;15.6
+14:30;Sambenedettese vs Arezzo;Italy 3;1.65 (2);30.9;58.3;10.7;2;✅ OBA ZGODNE (2);30.0;15.0;55.0;31.5;7.9;60.5
+16:00;ZFC Meuselwitz vs Hallescher FC;Germany 4;1.75 (2);16.0;58.0;26.0;2;✅ OBA ZGODNE (2);15.0;35.0;50.0;16.6;20.0;63.4
+15:30;Freiburg vs Bayern Monachium;Germany 1;1.4 (2);21.3;56.3;22.4;2;✅ OBA ZGODNE (2);20.0;25.0;55.0;22.1;20.7;57.2
+16:00;Stenhousemuir vs Hamilton Academical;Scotland 3;1.61 (1);56.2;14.1;29.7;1;✅ OBA ZGODNE (1);55.0;35.0;10.0;57.0;26.1;16.8
+20:00;Nancy vs Saint-Etienne;France 2;1.85 (2);21.4;56.0;22.6;2;✅ OBA ZGODNE (2);20.0;20.0;60.0;22.4;24.3;53.3
+16:00;NC Magra vs CA Batna;Algeria 2;1.85 (2);21.4;55.7;22.9;2;✅ OBA ZGODNE (2);20.0;20.0;60.0;22.4;24.8;52.9
+16:00;Montrose vs East Fife;Scotland 3;2.0 (1);50.2;20.0;29.8;1;✅ OBA ZGODNE (1);50.0;30.0;20.0;50.3;29.7;20.0
+21:00;Excelsior vs NEC Nijmegen;Eredivisie;1.95 (2);18.4;49.9;31.6;2;✅ OBA ZGODNE (2);10.0;35.0;55.0;24.0;29.4;46.5
+14:30;Monopoli vs Trapani;Italy 3;1.8 (1);49.7;25.0;25.3;1;✅ OBA ZGODNE (1);55.0;20.0;25.0;46.2;28.8;25.0
+18:00;Hellas Werona vs Fiorentina;European Championship U-21 1;1.9 (2);21.5;48.6;29.9;2;✅ OBA ZGODNE (2);15.0;30.0;55.0;25.8;29.8;44.4
+16:00;Ayr United vs Partick Thistle;Scotland 2;2.2 (2);27.1;48.3;24.5;2;✅ OBA ZGODNE (2);30.0;30.0;40.0;25.2;20.9;53.9
+18:30;Real Betis vs Espanyol;Spain 1;1.72 (1);48.0;23.8;28.2;1;✅ OBA ZGODNE (1);35.0;35.0;30.0;56.7;23.6;19.7
+10:30;PSM Makassar vs Persis Solo;Indonesia 1;4.0 (2);46.2;21.2;32.5;1;✅ OBA ZGODNE (1);55.0;30.0;15.0;40.4;34.2;25.4
+19:00;Viseu vs Felgueiras 1932;Portugal 2;1.83 (1);45.9;35.5;18.6;1;✅ OBA ZGODNE (1);50.0;10.0;40.0;43.1;24.4;32.5
+15:00;Kukesi vs Apolonia Fier;Albania 2;2.0 (1);43.0;24.9;32.1;1;✅ OBA ZGODNE (1);40.0;30.0;30.0;45.0;33.5;21.5
+15:00;Racing vs Juventud de las Piedras;Uruguay 1;1.8 (1);42.5;15.5;42.1;1;⚠️ RÓŻNICA (KNN:X XGB:1);25.0;50.0;25.0;54.1;36.8;9.1
+16:00;Lokomotiv G. Oryahovitsa vs Sevlievo;Bulgaria 2;3.1 (2);42.4;29.5;28.1;1;✅ OBA ZGODNE (1);45.0;20.0;35.0;40.6;33.5;25.9
+16:15;Marbella FC vs Villarreal B;Spain 3;3.4 (2);41.7;33.7;24.6;1;⚠️ RÓŻNICA (KNN:1 XGB:2);45.0;30.0;25.0;39.5;21.0;39.5
+14:30;Zalaegerszeg vs Varda SE;Hungary 1;1.95 (1);41.2;29.7;29.1;1;✅ OBA ZGODNE (1);35.0;30.0;35.0;45.3;28.5;26.2
+17:00;Strasbourg vs Nice;France 1;1.8 (1);41.1;30.4;28.4;1;✅ OBA ZGODNE (1);35.0;30.0;35.0;45.2;27.4;27.4
+16:00;RC Arbaa vs USM El Harrach;Algeria 2;1.9 (2);29.7;39.9;30.4;2;✅ OBA ZGODNE (2);25.0;35.0;40.0;32.9;27.4;39.8
+18:30;Leonesa vs Valladolid;Spain 2;2.5 (2);26.6;36.1;37.2;X;⚠️ RÓŻNICA (KNN:2 XGB:X);30.0;20.0;50.0;24.4;48.7;26.9
+20:15;Jagiellonia Białystok vs Lech Poznań;Poland 1;2.55 (2);36.0;30.2;33.7;1;✅ OBA ZGODNE (1);35.0;35.0;30.0;36.7;32.9;30.4

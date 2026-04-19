@@ -1,0 +1,58 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Kurs_Otwarcia;Delta_Kursu;Alert_Rynku;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+15:30;Nafta vs Krsko Posavje;Slovenia 2;1.16 (1);86.2;5.5;8.4;1;;;;1;4:1;WYGRANA;15.999999999999986
+16:00;Linlithgow Rose vs East Stirlingshire;Scotland 5;1.16 (1);85.8;4.4;9.8;1;1.08;0.04;Stabilnie;1;4:3;WYGRANA;15.999999999999986
+15:00;Airbus UK Broughton vs Guilsfield FC;Wales 2;1.16 (1);83.5;4.1;12.4;1;;;;1;3:0;WYGRANA;15.999999999999986
+14:00;Rutsiro vs Al Hilal Omdurman;Rwanda 1;1.25 (2);7.5;82.4;10.2;2;1.38;-0.12;GRUBA GRA (Spadek);2;1:2;WYGRANA;25.0
+15:00;USM El Harrach vs JSM Tiaret;Algeria 2;1.22 (1);80.3;6.5;13.2;1;1.27;0.07;Stabilnie;1;1:0;WYGRANA;22.0
+15:00;CRB Adrar vs JS El Biar;Algeria 2;1.36 (2);8.1;80.1;11.7;2;1.32;0.01;Stabilnie;2;0:5;WYGRANA;36.0
+16:00;Dartford vs Hashtag United;England 7;1.27 (1);79.7;9.4;10.9;1;1.43;-0.13;GRUBA GRA (Spadek);1;7:0;WYGRANA;27.0
+15:00;Grosseto vs US Gavorrano;Italy 4;1.33 (1);75.6;5.5;18.9;1;;;;X;1:1;PRZEGRANA;-100.0
+14:30;Osogovo vs FK Sloga 1934 Vinica;F.Y.R.O.M. 2;1.16 (1);74.7;3.9;21.4;1;1.07;-0.01;Stabilnie;1;3:0;WYGRANA;15.999999999999986
+16:00;Walton & Hersham vs Dorchester Town;England 7;1.33 (1);74.5;8.2;17.3;1;;;;1;3:1;WYGRANA;33.0
+18:00;Bordeaux vs Chauray;France 4;1.33 (1);73.6;9.0;17.3;1;1.27;0.05;Stabilnie;2;1:3;PRZEGRANA;-100.0
+16:00;South Shields vs Alfreton Town;England 6;1.25 (1);72.9;5.4;21.7;1;1.27;-0.02;Stabilnie;1;3:0;WYGRANA;25.0
+jutro 00:30;Cerro Porteno vs Sportivo San Lorenzo;Paraguay 1;1.3 (1);71.9;8.5;19.6;1;;;;Brak/Odwolany;-;Odwolany;0.0
+16:00;Dulwich Hamlet vs Potters Bar Town;England 7;1.45 (1);71.4;11.2;17.4;1;1.44;0.02;Stabilnie;1;4:1;WYGRANA;45.0
+16:00;Barwell FC vs Kettering Town FC;England 7;1.53 (2);8.5;70.7;20.9;2;1.75;-0.18;GRUBA GRA (Spadek);2;2:5;WYGRANA;53.0
+jutro 00:10;Tolima vs CD Jaguares;Colombia 1;1.38 (1);69.5;12.2;18.3;1;1.35;0.02;Stabilnie;Brak/Odwolany;-;Odwolany;0.0
+16:00;Braintree Town vs Carlisle United;England 5;1.48 (2);16.3;69.4;14.4;2;1.4;0.07;Stabilnie;2;1:2;WYGRANA;48.0
+16:00;Spalding United vs Bromsgrove Sporting;England 7;1.38 (1);69.2;10.0;20.7;1;;;;2;0:2;PRZEGRANA;-100.0
+18:30;Vogherese vs Pavia;Italy 4;1.38 (2);16.9;67.2;15.9;2;1.38;-0.02;Stabilnie;2;0:2;WYGRANA;38.0
+16:00;Buffles vs Cavaliers;Benin 1;1.4 (1);64.5;13.7;21.8;1;;;;X;0:0;PRZEGRANA;-100.0
+16:00;Truro City vs Boreham Wood;England 5;1.61 (2);17.5;63.8;18.7;2;;;;X;0:0;PRZEGRANA;-100.0
+16:00;Tranent Juniors vs Bo'ness United;Scotland 5;1.61 (1);63.3;15.9;20.7;1;;;;Brak/Odwolany;-;Odwolany;0.0
+15:00;Nykoebing FC vs Vanloese;Denmark 4;1.53 (1);62.0;14.5;23.5;1;;;;1;2:1;WYGRANA;53.0
+15:00;East Fife vs Stenhousemuir;Scotland 3;1.66 (2);9.1;61.9;29.0;2;;;;X;2:2;PRZEGRANA;-100.0
+16:00;Stourbridge vs St. Ives Town FC;England 7;1.75 (1);61.3;16.5;22.1;1;;;;1;4:3;WYGRANA;75.0
+13:00;Ishoej BK vs VSK Aarhus;Denmark 3;1.85 (2);25.8;61.1;13.1;2;;;;X;2:2;PRZEGRANA;-100.0
+15:00;FK Iskra vs Internacional Podgorica;Montenegro 2;1.57 (1);58.3;19.1;22.6;1;;;;1;4:1;WYGRANA;57.0
+16:00;Bristol Rovers vs Accrington Stanley;England 4;1.72 (1);58.3;20.2;21.5;1;;;;1;2:0;WYGRANA;72.0
+11:00;UCSA vs Metałurh Zaporoże;Ukraine 2;1.61 (1);57.6;16.4;26.1;1;;;;2;1:3;PRZEGRANA;-100.0
+18:30;Cartagena vs Atletico Sanluqueno CF;Spain 3;1.6 (1);56.4;20.3;23.3;1;;;;1;1:0;WYGRANA;60.0
+16:00;Maidstone vs AFC Totton;England 6;1.57 (1);56.3;20.5;23.2;1;;;;1;3:1;WYGRANA;57.0
+14:00;Union Mauer vs Parndorf;Austria 3;1.75 (2);23.5;56.0;20.5;2;;;;X;0:0;PRZEGRANA;-100.0
+15:00;IJsselmeervogels vs HSV Hoek;Netherlands 3;1.8 (2);23.5;54.2;22.3;2;;;;1;2:1;PRZEGRANA;-100.0
+16:00;Maidenhead United vs Weston Super Mare;England 6;1.8 (1);54.1;18.2;27.7;1;;;;2;1:2;PRZEGRANA;-100.0
+16:00;Brentwood Town vs Chatham Town;England 7;1.95 (2);22.8;50.2;27.1;2;;;;X;0:0;PRZEGRANA;-100.0
+16:00;Curzon vs Chester FC;England 6;1.8 (2);23.0;49.3;27.7;2;;;;2;0:1;WYGRANA;80.0
+16:15;Granada vs Huesca;Spain 2;1.8 (1);49.2;20.9;29.9;1;;;;1;4:2;WYGRANA;80.0
+16:00;Barrow vs Bromley;England 4;2.1 (2);20.1;48.6;31.3;2;;;;1;2:1;PRZEGRANA;-100.0
+15:00;Dumbarton vs Forfar Athletic;Scotland 4;2.2 (1);48.5;26.2;25.2;1;;;;X;2:2;PRZEGRANA;-100.0
+17:30;Freetown City vs Bo Rangers;Sierra Leone 1;2.0 (2);23.1;48.0;29.0;2;;;;2;1:3;WYGRANA;100.0
+18:30;Malaga CF vs Leganes;Spain 2;1.85 (1);47.8;21.6;30.6;1;;;;X;0:0;PRZEGRANA;-100.0
+16:00;Young Boys II vs Paradiso;Switzerland 3;1.9 (1);47.4;26.4;26.2;1;;;;X;1:1;PRZEGRANA;-100.0
+16:00;Uxbridge vs Wimborne Town;England 7;1.9 (1);45.9;24.9;29.2;1;;;;X;3:3;PRZEGRANA;-100.0
+16:00;Cray Valley Paper Mills vs St.Albans;England 7;1.57 (2);21.4;45.8;32.8;2;;;;1;2:0;PRZEGRANA;-100.0
+16:00;Royston Town vs Redditch United;England 7;1.9 (2);25.7;45.3;29.0;2;;;;2;1:2;WYGRANA;90.0
+15:00;Zilina B vs Inter Bratislava;Slovakia 2;2.1 (1);45.0;26.6;28.4;1;;;;2;1:2;PRZEGRANA;-100.0
+16:00;Crawley Town vs Gillingham;England 4;2.2 (1);44.0;31.5;24.5;1;;;;1;2:0;WYGRANA;120.00000000000003
+16:00;Dubrava Zagreb vs Bjelo Brdo;Croatia 2;2.5 (1);30.1;43.3;26.6;2;;;;Brak/Odwolany;-;Odwolany;0.0
+16:00;Basingstoke vs Taunton Town;England 7;2.1 (1);43.1;22.8;34.1;1;;;;X;3:3;PRZEGRANA;-100.0
+16:00;Exeter City vs Leyton Orient;England 3;2.75 (2);30.2;42.8;26.9;2;;;;X;0:0;PRZEGRANA;-100.0
+16:00;Hereford vs Buxton;England 6;2.15 (2);29.9;41.7;28.4;2;;;;2;0:2;WYGRANA;115.0
+21:00;FC Eindhoven vs FC Emmen;Netherlands 2;2.05 (1);41.2;26.2;32.6;1;;;;1;1:0;WYGRANA;104.99999999999997
+16:00;Atherstone Town vs Hungerford Town;England 7;2.0 (2);31.1;40.4;28.6;2;;;;1;2:0;PRZEGRANA;-100.0
+16:00;Real Bedford vs Halesowen;England 7;1.95 (1);40.3;22.1;37.6;1;;;;1;2:1;WYGRANA;95.0
+15:00;Jarun vs Sesvete;Croatia 2;2.8 (2);38.7;37.4;23.9;1;;;;2;0:2;PRZEGRANA;-100.0
+18:30;Unionistas de Salamanca vs Arenteiro;Spain 3;2.05 (1);38.2;26.8;35.1;1;;;;1;3:1;WYGRANA;104.99999999999997
+15:00;Progresso vs Pro Palazzolo;Italy 4;2.15 (2);33.9;38.2;27.9;2;;;;2;1:2;WYGRANA;115.0

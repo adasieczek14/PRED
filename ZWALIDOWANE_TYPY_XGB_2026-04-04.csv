@@ -1,0 +1,69 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Kurs_Otwarcia;Delta_Kursu;Alert_Rynku;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+04 kwi;Pogradeci vs Kastrioti;Albania 2;1.05 (1);96.9;0.3;2.8;1;;;;1;5:1;WYGRANA;5.0
+04 kwi;Young Africans vs Tanzania Prisons;Tanzania 1;1.08 (1);96.5;0.8;2.6;1;;;;1;3:0;WYGRANA;8.0
+04 kwi;US Chaouia vs CR BÃ©ni Thour;Algeria 2;1.14 (1);90.0;1.6;8.4;1;1.12;0.01;Stabilnie;1;4:0;WYGRANA;13.999999999999986
+04 kwi;FK Vardar Skopje vs Makedonija GjP;F.Y.R.O.M. 1;1.09 (1);88.6;3.1;8.2;1;;;;1;5:1;WYGRANA;9.000000000000014
+04 kwi;Laci vs Burreli;Albania 2;1.14 (1);88.0;3.4;8.5;1;;;;1;3:1;WYGRANA;13.999999999999986
+04 kwi;Rangers vs Dundee United;Scotland 1;1.22 (1);86.0;5.7;8.3;1;1.24;-0.01;Stabilnie;1;4:2;WYGRANA;22.0
+04 kwi;MSP Batna vs Chelghoum;Algeria 2;1.08 (1);83.9;4.3;11.8;1;;;;1;2:0;WYGRANA;8.0
+04 kwi;Al Hilal vs Al-Taawon;Saudi Arabia 1;1.22 (1);82.3;7.3;10.4;1;1.17;0.1;Stabilnie;X;2:2;PRZEGRANA;-100.0
+04 kwi;Osnabrueck vs FC Schweinfurt;Germany 3;1.3 (1);81.3;7.3;11.4;1;;;;1;4:0;WYGRANA;30.0
+04 kwi;Cong An Nhan Dan vs Da Nang;Vietnam 1;1.18 (1);80.6;6.6;12.8;1;1.2;-0.03;Stabilnie;1;5:1;WYGRANA;18.0
+04 kwi;Dinamo Zagrzeb vs Osijek;Croatia 1;1.2 (1);80.3;5.1;14.6;1;1.24;-0.04;Stabilnie;1;7:0;WYGRANA;20.0
+04 kwi;Jesenice vs Nafta;Slovenia 2;1.33 (2);8.0;80.2;11.8;2;1.32;-0.02;Stabilnie;2;0:2;WYGRANA;33.0
+04 kwi;AS Khroub vs IB Khémis El Khechna;Algeria 2;1.25 (1);79.7;4.7;15.6;1;1.2;0.15;OSTRZEZENIE (Rosnie);X;1:1;PRZEGRANA;-100.0
+04 kwi;Brechin City vs Nairn County;Scotland 5;1.25 (1);76.5;7.9;15.6;1;1.18;0.03;Stabilnie;1;3:0;WYGRANA;25.0
+04 kwi;Bình Phước vs PVF-CAND II;Vietnam 2;1.42 (1);75.0;9.6;15.4;1;;;;1;2:0;WYGRANA;42.0
+04 kwi;Dynamo Kijów vs Karpaty Lwów;Ukraine 1;1.42 (1);74.7;8.0;17.3;1;1.4;-0.03;Stabilnie;2;0:1;PRZEGRANA;-100.0
+04 kwi;Brno vs MFK Chrudim;Czech Republic 2;1.3 (1);73.4;8.9;17.7;1;1.28;-0.03;Stabilnie;1;2:0;WYGRANA;30.0
+04 kwi;Tlemcen vs CRB Adrar;Algeria 2;1.36 (1);72.9;9.5;17.6;1;1.23;0.03;Stabilnie;X;1:1;PRZEGRANA;-100.0
+04 kwi;Shkendija Tetowo vs Pelister;F.Y.R.O.M. 1;1.27 (1);72.8;10.0;17.2;1;1.37;-0.12;GRUBA GRA (Spadek);2;1:2;PRZEGRANA;-100.0
+04 kwi;Otrant vs Kom;Montenegro 2;1.42 (1);72.1;9.0;18.9;1;;;;2;1:2;PRZEGRANA;-100.0
+05 kwi;Cayon vs Sandy Point;St. Kitts and Nevis 1;1.25 (1);72.1;6.2;21.7;1;;;;1;3:0;WYGRANA;25.0
+04 kwi;Cosenza vs Foggia;Italy 3;1.45 (1);71.3;13.4;15.3;1;;;;1;1:0;WYGRANA;45.0
+04 kwi;FC Porto vs Famalicao;Portugal 1;1.44 (1);67.9;11.9;20.2;1;;;;X;2:2;PRZEGRANA;-100.0
+04 kwi;Bayer Leverkusen vs VfL Wolfsburg;Germany 1;1.44 (1);67.4;11.9;20.7;1;;;;1;6:3;WYGRANA;44.0
+04 kwi;Gor Mahia vs Kariobangi Sharks;Kenya 1;1.45 (1);66.4;13.0;20.5;1;1.46;0.14;OSTRZEZENIE (Rosnie);X;0:0;PRZEGRANA;-100.0
+05 kwi;Queretaro FC vs Toluca;Mexico 1;1.57 (2);15.2;65.9;19.0;2;1.58;-0.03;Stabilnie;Brak/Odwolany;-;Odwolany;0.0
+04 kwi;Botew Płowdiw vs Spartak Varna;Bulgaria 1;1.4 (1);65.1;19.1;15.8;1;1.5;-0.13;GRUBA GRA (Spadek);1;5:0;WYGRANA;40.0
+04 kwi;ASKO vs Bougouni;Mali 1;1.61 (1);64.9;17.4;17.8;1;;;;1;2:1;WYGRANA;61.0
+04 kwi;Arda Kardzhali vs Montana;Bulgaria 1;1.48 (1);63.6;17.0;19.5;1;;;;1;2:1;WYGRANA;48.0
+04 kwi;ZFC Meuselwitz vs Hallescher FC;Germany 4;1.65 (2);16.6;63.4;20.0;2;;;;1;3:2;PRZEGRANA;-100.0
+04 kwi;Ibri vs Al-Nasr Salalah;Oman 1;1.5 (2);14.3;63.4;22.4;2;;;;2;2:4;WYGRANA;50.0
+04 kwi;Lovćen vs Igalo;Montenegro 2;1.57 (1);61.5;12.6;26.0;1;;;;X;0:0;PRZEGRANA;-100.0
+04 kwi;Vitez vs Igman Konjic;Bosnia-Herzegovina 2;1.65 (1);61.2;19.8;19.0;1;;;;2;0:2;PRZEGRANA;-100.0
+04 kwi;SarÄ±yer vs Serik Belediyespor;Turkey 2;1.66 (1);61.0;14.4;24.7;1;;;;1;3:0;WYGRANA;66.0
+05 kwi;Zacatecoluca vs CD FAS;El Salvador 1;1.57 (2);17.5;60.8;21.7;2;;;;2;1:6;WYGRANA;57.0
+04 kwi;Sambenedettese vs Arezzo;Italy 3;1.66 (2);31.5;60.5;7.9;2;;;;X;0:0;PRZEGRANA;-100.0
+04 kwi;Belasitsa Petrich vs Chernomorets 1919 Burgas;Bulgaria 2;1.83 (2);12.3;60.2;27.5;2;;;;1;1:0;PRZEGRANA;-100.0
+04 kwi;Mornar vs Jezero;Montenegro 1;1.66 (1);59.4;12.4;28.2;1;;;;1;2:0;WYGRANA;66.0
+04 kwi;Hansa Rostock vs Viktoria Koeln 1904;Germany 3;1.65 (1);59.3;15.6;25.0;1;;;;2;2:3;PRZEGRANA;-100.0
+04 kwi;Al Najaf vs Al Shorta;Iraq 1;1.4 (2);13.6;57.9;28.5;2;;;;2;1:3;WYGRANA;40.0
+04 kwi;Freiburg vs Bayern Monachium;Germany 1;1.45 (2);22.1;57.2;20.7;2;;;;2;2:3;WYGRANA;45.0
+04 kwi;Stenhousemuir vs Hamilton Academical;Scotland 3;1.61 (1);57.0;16.8;26.1;1;;;;1;3:0;WYGRANA;61.0
+04 kwi;Long An vs Báº¯c Ninh;Vietnam 2;1.66 (2);20.5;56.9;22.7;2;;;;2;0:1;WYGRANA;66.0
+04 kwi;Real Betis vs Espanyol;Spain 1;1.7 (1);56.7;19.7;23.6;1;;;;X;0:0;PRZEGRANA;-100.0
+04 kwi;Erzurum BB vs IÄŸdÄ±r FK;Turkey 2;1.57 (1);55.4;15.2;29.4;1;;;;1;2:1;WYGRANA;57.0
+04 kwi;Racing vs Juventud de las Piedras;Uruguay 1;1.8 (1);54.1;9.1;36.8;1;;;;1;2:1;WYGRANA;80.0
+04 kwi;Ayr United vs Partick Thistle;Scotland 2;2.15 (2);25.2;53.9;20.9;2;;;;X;1:1;PRZEGRANA;-100.0
+04 kwi;Nancy vs Saint-Etienne;France 2;1.85 (2);22.4;53.3;24.3;2;;;;X;1:1;PRZEGRANA;-100.0
+04 kwi;NC Magra vs CA Batna;Algeria 2;1.85 (2);22.4;52.9;24.8;2;;;;1;2:1;PRZEGRANA;-100.0
+04 kwi;Montrose vs East Fife;Scotland 3;1.75 (1);50.3;20.0;29.7;1;;;;1;1:0;WYGRANA;75.0
+04 kwi;Al-Shabab Club vs Bahla;Oman 1;1.57 (1);49.3;17.7;33.0;1;;;;2;1:4;PRZEGRANA;-100.0
+04 kwi;Leonesa vs Valladolid;Spain 2;2.5 (2);24.4;26.9;48.7;X;;;;1;1:0;PRZEGRANA;-100.0
+04 kwi;Excelsior vs NEC Nijmegen;Eredivisie;1.95 (2);24.0;46.5;29.4;2;;;;2;0:2;WYGRANA;95.0
+04 kwi;Sagrada Esperança vs Wiliete;Angola 1;2.15 (2);24.5;46.3;29.1;2;;;;X;2:2;PRZEGRANA;-100.0
+04 kwi;Monopoli vs Trapani;Italy 3;1.9 (1);46.2;25.0;28.8;1;;;;X;1:1;PRZEGRANA;-100.0
+04 kwi;Songkhla vs Chanthaburi;Thailand 2;2.05 (1);45.4;27.3;27.3;1;;;;X;1:1;PRZEGRANA;-100.0
+04 kwi;Zalaegerszeg vs Varda SE;Hungary 1;1.95 (1);45.3;26.2;28.5;1;;;;1;2:0;WYGRANA;95.0
+04 kwi;Strasbourg vs Nice;France 1;1.9 (1);45.2;27.4;27.4;1;;;;1;3:1;WYGRANA;90.0
+04 kwi;Kukesi vs Apolonia Fier;Albania 2;2.0 (1);45.0;21.5;33.5;1;;;;1;2:0;WYGRANA;100.0
+04 kwi;Hellas Werona vs Fiorentina;European Championship U-21 1;2.05 (2);25.8;44.4;29.8;2;;;;2;0:1;WYGRANA;104.99999999999997
+04 kwi;Viseu vs Felgueiras 1932;Portugal 2;1.9 (1);43.1;32.5;24.4;1;;;;2;0:1;PRZEGRANA;-100.0
+04 kwi;Vitesse vs AJEB;Burkina Faso 1;2.2 (1);41.5;37.7;20.8;1;;;;1;3:1;WYGRANA;120.00000000000003
+04 kwi;Lokomotiv G. Oryahovitsa vs Sevlievo;Bulgaria 2;3.1 (2);40.6;25.9;33.5;1;;;;1;2:1;WYGRANA;0.0
+04 kwi;PSM Makassar vs Persis Solo;Indonesia 1;3.25 (2);40.4;25.4;34.2;1;;;;X;1:1;PRZEGRANA;-100.0
+04 kwi;RC Arbaa vs USM El Harrach;Algeria 2;1.9 (2);32.9;39.8;27.4;2;;;;1;2:0;PRZEGRANA;-100.0
+04 kwi;Marbella FC vs Villarreal B;Spain 3;2.6 (2);39.5;39.5;21.0;1;;;;2;0:1;PRZEGRANA;-100.0
+04 kwi;Jagiellonia Białystok vs Lech Poznań;Poland 1;2.55 (2);36.7;30.4;32.9;1;;;;X;0:0;PRZEGRANA;-100.0
+04 kwi;Duhok vs Al Talaba;Iraq 1;2.87 (2);36.3;33.7;29.9;1;;;;1;1:0;WYGRANA;0.0

@@ -1,0 +1,73 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Kurs_Otwarcia;Delta_Kursu;Alert_Rynku;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+03 kwi;Pendikspor vs Hatayspor;Turkey 2;1.05 (1);96.2;1.7;2.1;1;1.06;-0.01;Stabilnie;1;4:1;WYGRANA;5.0
+03 kwi;SC Team Wiener Linien vs Gloggnitz;Austria 3;1.3 (2);7.0;85.4;7.6;2;;;;2;0:2;WYGRANA;30.0
+03 kwi;Mamelodi Sundowns FC vs Chippa United;South Africa 1;1.16 (1);85.4;5.1;9.5;1;;;;1;4:1;WYGRANA;15.999999999999986
+03 kwi;Sholing vs Atherstone Town;England 7;1.16 (1);85.1;5.6;9.2;1;;;;1;2:1;WYGRANA;15.999999999999986
+03 kwi;Llandudno FC vs Ruthin Town;Wales 2;1.16 (1);84.4;5.7;9.9;1;1.06;0.05;Stabilnie;1;5:2;WYGRANA;15.999999999999986
+03 kwi;PSG vs Toulouse;France 1;1.25 (1);82.3;6.8;11.0;1;;;;1;3:1;WYGRANA;25.0
+03 kwi;Southend United vs Braintree Town;England 5;1.2 (1);79.3;5.8;14.9;1;1.19;0.01;Stabilnie;1;3:2;WYGRANA;20.0
+03 kwi;Rochdale vs Morecambe;England 5;1.27 (1);79.1;6.9;14.0;1;1.24;-0.01;Stabilnie;2;2:4;PRZEGRANA;-100.0
+03 kwi;SV Horn vs Retz;Austria 3;1.25 (1);78.7;7.7;13.7;1;1.2;-0.02;Stabilnie;X;1:1;PRZEGRANA;-100.0
+03 kwi;Grimsby Town vs Harrogate;England 4;1.5 (1);77.7;7.5;14.8;1;1.42;0.1;Stabilnie;2;1:3;PRZEGRANA;-100.0
+03 kwi;Pistoiese vs Crema;Italy 4;1.25 (1);77.4;8.0;14.6;1;1.48;-0.28;GRUBA GRA (Spadek);1;4:2;WYGRANA;25.0
+03 kwi;St. Ives Town FC vs Harborough Town;England 7;1.36 (2);6.7;77.2;16.1;2;1.4;-0.08;Stabilnie;2;1:2;WYGRANA;36.0
+03 kwi;Muharraq vs Sitra;Bahrain 1;1.33 (1);75.9;6.5;17.6;1;1.4;-0.1;Stabilnie;1;3:0;WYGRANA;33.0
+03 kwi;Kortrijk vs Jong Gent;Belgium 2;1.33 (1);75.8;7.8;16.4;1;1.65;0.17;OSTRZEZENIE (Rosnie);1;2:0;WYGRANA;33.0
+03 kwi;Sporting Lizbona vs Santa Clara;Portugal 1;1.3 (1);75.6;6.1;18.3;1;;;;1;4:2;WYGRANA;30.0
+03 kwi;Forest Green Rovers vs Brackley Town;England 5;1.38 (1);74.5;9.1;16.4;1;1.32;0.05;Stabilnie;1;4:0;WYGRANA;38.0
+03 kwi;Al Ittihad vs Al Hazm;Saudi Arabia 1;1.38 (1);74.3;9.5;16.2;1;1.27;0.08;Stabilnie;1;1:0;WYGRANA;38.0
+03 kwi;Milton Keynes Dons vs Barrow;England 4;1.42 (1);73.5;6.3;20.2;1;1.42;-0.02;Stabilnie;X;0:0;PRZEGRANA;-100.0
+03 kwi;ASM Oran vs GC Mascara;Algeria 2;1.45 (1);72.9;10.4;16.7;1;;;;1;3:2;WYGRANA;45.0
+03 kwi;St. Patrick's Athletic vs Sligo Rovers;Ireland 1;1.33 (1);72.4;10.4;17.1;1;;;;1;4:1;WYGRANA;33.0
+03 kwi;Kidderminster Harriers vs Hereford;England 6;1.38 (1);70.6;10.2;19.2;1;1.4;-0.18;GRUBA GRA (Spadek);1;2:1;WYGRANA;38.0
+03 kwi;Bradford City vs Northampton Town;England 3;1.4 (1);70.4;12.5;17.1;1;1.48;-0.08;Stabilnie;1;1:0;WYGRANA;40.0
+03 kwi;Lincoln vs AFC Wimbledon;England 3;1.42 (1);69.6;12.4;18.0;1;1.43;-0.01;Stabilnie;1;1:0;WYGRANA;42.0
+03 kwi;Quorn vs AFC Sudbury;England 7;1.3 (1);69.6;17.5;12.9;1;;;;1;1:0;WYGRANA;30.0
+03 kwi;Halesowen vs Stamford AFC;England 7;1.48 (1);69.1;12.0;18.8;1;1.48;-0.01;Stabilnie;1;3:1;WYGRANA;48.0
+03 kwi;Worthing vs Eastbourne Borough;England 6;1.33 (1);68.9;8.3;22.9;1;1.33;-0.07;Stabilnie;1;2:1;WYGRANA;33.0
+03 kwi;Waterford United vs Shamrock Rovers;Ireland 1;1.53 (2);16.9;66.3;16.8;2;1.44;0.1;Stabilnie;X;1:1;PRZEGRANA;-100.0
+03 kwi;Banbury United vs Royston Town;England 7;1.5 (1);66.3;14.3;19.4;1;;;;2;1:2;PRZEGRANA;-100.0
+03 kwi;Bedford vs Leamington;England 6;1.55 (1);65.6;13.1;21.3;1;1.52;0.03;Stabilnie;1;3:1;WYGRANA;55.0
+03 kwi;Gimnasia Mendoza vs Velez Sarsfield;Argentina 1;2.25 (2);19.9;64.9;15.1;2;;;;1;3:2;PRZEGRANA;-100.0
+03 kwi;CA Bizertin vs Slimene Sports;Tunisia 1;1.5 (1);63.6;13.3;23.0;1;;;;1;1:0;WYGRANA;50.0
+03 kwi;Alvechurch vs Barwell FC;England 7;1.57 (1);61.4;14.6;23.9;1;;;;1;2:1;WYGRANA;57.0
+03 kwi;Villefranche Beaujolais vs Rouen;France 3;1.72 (2);15.0;61.3;23.7;2;;;;1;2:1;PRZEGRANA;-100.0
+03 kwi;Horsham vs Dorking Wanderers;England 6;1.85 (2);18.2;60.9;20.9;2;;;;1;3:0;PRZEGRANA;-100.0
+03 kwi;Rayo Vallecano vs Elche;Spain 1;1.75 (1);58.6;20.9;20.5;1;;;;1;1:0;WYGRANA;75.0
+04 kwi;Tlaxcala F.C. vs Dorados;Mexico 2;1.61 (1);58.4;19.3;22.3;1;;;;Brak/Odwolany;-;Odwolany;0.0
+03 kwi;Hednesford vs Prescot Cables;England 7;1.55 (1);57.9;19.5;22.6;1;;;;1;3:0;WYGRANA;55.0
+03 kwi;Woking vs Eastleigh;England 5;1.66 (1);54.9;21.8;23.3;1;;;;X;3:3;PRZEGRANA;-100.0
+03 kwi;Donau vs SC Neusiedl am See 1919;Austria 3;1.75 (1);54.2;18.2;27.6;1;;;;1;4:2;WYGRANA;75.0
+03 kwi;FUS Rabat vs Wydad Casablanca;Morocco 1;1.9 (2);20.8;51.9;27.3;2;;;;1;1:0;PRZEGRANA;-100.0
+03 kwi;Lecco vs Bassano Virtus;Italy 3;2.15 (2);22.6;51.7;25.7;2;;;;1;2:0;PRZEGRANA;-100.0
+03 kwi;Taunton Town vs Walton & Hersham;England 7;1.61 (2);10.3;38.4;51.3;X;;;;1;3:0;PRZEGRANA;-100.0
+03 kwi;Coventry City vs Derby County;England 2;1.66 (1);50.8;17.8;31.4;1;;;;1;3:2;WYGRANA;66.0
+03 kwi;Union vs Deportivo Riestra;Argentina 1;1.85 (1);50.3;24.1;25.7;1;;;;1;2:0;WYGRANA;85.0
+03 kwi;Walsall vs Gillingham;England 4;1.7 (1);50.2;29.8;20.0;1;;;;X;2:2;PRZEGRANA;-100.0
+03 kwi;VVV-Venlo vs Cambuur;Netherlands 2;1.9 (2);27.3;49.3;23.3;2;;;;1;3:0;PRZEGRANA;-100.0
+03 kwi;Concarneau vs Le Puy;France 3;2.9 (2);48.1;27.3;24.7;1;;;;2;0:3;PRZEGRANA;-100.0
+03 kwi;Whitby vs FC United of Manchester;England 7;1.8 (2);26.0;46.8;27.2;2;;;;2;1:3;WYGRANA;80.0
+03 kwi;Accrington Stanley vs Crewe Alexandra;England 4;2.15 (2);32.7;45.9;21.4;2;;;;1;2:0;PRZEGRANA;-100.0
+03 kwi;Al Shahaniya vs Al Arabi;Qatar 1;1.83 (2);35.4;45.8;18.8;2;;;;2;0:2;WYGRANA;83.0
+03 kwi;Norwich City vs Portsmouth;England 2;2.0 (1);45.7;25.0;29.3;1;;;;X;1:1;PRZEGRANA;-100.0
+03 kwi;Southport vs Marine;England 6;1.95 (1);45.5;25.7;28.8;1;;;;1;2:1;WYGRANA;95.0
+03 kwi;Blackpool vs Exeter City;England 3;2.0 (1);45.1;31.6;23.4;1;;;;1;1:0;WYGRANA;100.0
+03 kwi;Eldense vs Europa FC;Spain 3;2.1 (1);44.9;24.5;30.6;1;;;;1;3:0;WYGRANA;110.0
+03 kwi;Budaiya vs Al-Hidd;Bahrain 1;2.15 (2);29.1;44.5;26.4;2;;;;2;0:2;WYGRANA;115.0
+03 kwi;Darlington 1883 vs Scarborough Athletic;England 6;3.1 (2);44.0;33.1;22.9;1;;;;2;1:2;PRZEGRANA;-100.0
+03 kwi;Alianza Atletico vs Atletico Grau;Peru 1;2.25 (1);43.5;26.0;30.6;1;;;;X;2:2;PRZEGRANA;-100.0
+03 kwi;Vitesse vs FC Emmen;Netherlands 2;2.0 (1);43.5;28.3;28.2;1;;;;X;3:3;PRZEGRANA;-100.0
+03 kwi;Quevilly vs Valenciennes;France 3;2.37 (2);28.9;42.9;28.3;2;;;;1;3:2;PRZEGRANA;-100.0
+03 kwi;Este vs Calvi Noale;Italy 4;2.0 (1);42.5;33.2;24.4;1;;;;2;0:2;PRZEGRANA;-100.0
+03 kwi;Gresford Athletic vs Caersws;Wales 2;2.3 (1);41.9;27.7;30.4;1;;;;2;0:2;PRZEGRANA;-100.0
+03 kwi;Guadalajara vs Racing de Ferrol;Spain 3;2.55 (1);18.2;41.7;40.1;2;;;;1;1:0;PRZEGRANA;-100.0
+03 kwi;Minyor Pernik vs Yantra;Bulgaria 2;2.45 (2);41.3;25.2;33.6;1;;;;2;0:1;PRZEGRANA;-100.0
+03 kwi;Aldershot Town vs Sutton United;England 5;3.1 (2);40.5;33.3;26.2;1;;;;X;2:2;PRZEGRANA;-100.0
+03 kwi;Merthyr Town vs Oxford City;England 6;2.62 (2);40.5;32.9;26.6;1;;;;X;1:1;PRZEGRANA;-100.0
+03 kwi;Y Rhyl 1879 vs Guilsfield FC;Wales 2;2.1 (1);40.3;26.9;32.8;1;;;;2;1:2;PRZEGRANA;-100.0
+03 kwi;Colwyn Bay vs Caernarfon;Wales 1;2.05 (1);39.2;35.1;25.7;1;;;;2;0:2;PRZEGRANA;-100.0
+03 kwi;Grenoble vs Clermont Foot;France 2;2.5 (1);30.7;38.8;30.6;2;;;;X;2:2;PRZEGRANA;-100.0
+03 kwi;Boston River vs Montevideo Wanderers;Uruguay 1;2.8 (2);38.6;30.1;31.3;1;;;;1;4:1;WYGRANA;0.0
+03 kwi;Dorchester Town vs Berkhamsted;England 7;2.3 (2);32.5;36.8;30.7;2;;;;2;2:3;WYGRANA;129.99999999999997
+03 kwi;Aubagne vs Chateauroux;France 3;2.55 (2);35.8;33.4;30.8;1;;;;X;1:1;PRZEGRANA;-100.0
+04 kwi;Caracas vs Metropolitanos FC;Venezuela 1;3.1 (2);32.8;34.1;33.2;2;;;;Brak/Odwolany;-;Odwolany;0.0

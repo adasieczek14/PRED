@@ -1,0 +1,53 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+20:45;AFC Fylde vs Marine;England 6;1.25 (1);80.0;5.0;15.0;1;Brak/Odwolany;-;Odwolany;0.0
+20:45;Gateshead FC vs York City;England 5;1.33 (2);10.0;80.0;10.0;2;1;3:1;PRZEGRANA;-100.0
+20:45;Weston Super Mare vs Worthing;England 6;2.1 (2);15.0;75.0;10.0;2;2;2:3;WYGRANA;110.0
+20:45;Atherstone Town vs Gloucester City;England 7;1.25 (2);20.0;75.0;5.0;2;2;0:6;WYGRANA;25.0
+19:00;Altach (A) vs SK Bischofshofen;Austria 3;1.5 (2);5.0;75.0;20.0;2;2;1:3;WYGRANA;50.0
+20:45;Leamington vs King's Lynn Town;England 6;1.65 (2);15.0;75.0;10.0;2;2;2:5;WYGRANA;65.0
+20:45;Elgin City vs Forfar Athletic;Scotland 4;2.15 (1);70.0;15.0;15.0;1;1;2:0;WYGRANA;115.0
+20:45;Hereford vs Spennymoor Town FC;England 6;1.9 (1);65.0;15.0;20.0;1;2;1:2;PRZEGRANA;-100.0
+20:45;Brackley Town vs Braintree Town;England 5;3.75 (2);65.0;5.0;30.0;1;X;1:1;PRZEGRANA;-100.0
+20:45;Boston United vs Altrincham;England 5;1.9 (1);65.0;15.0;20.0;1;X;2:2;PRZEGRANA;-100.0
+20:45;Bath City vs Hemel Hempstead;England 6;3.0 (1);20.0;65.0;15.0;2;2;0:3;WYGRANA;0.0
+20:45;FC United of Manchester vs Stockton Town;England 7;2.05 (1);60.0;20.0;20.0;1;Brak/Odwolany;-;Odwolany;0.0
+19:00;FSV Zwickau vs Hertha Berlin II;Germany 4;1.44 (1);60.0;20.0;20.0;1;1;2:0;WYGRANA;44.0
+20:45;Albion Rovers vs Gretna FC 2008;Scotland 5;1.95 (1);60.0;30.0;10.0;1;1;2:0;WYGRANA;95.0
+20:45;Torquay United vs Dorking Wanderers;England 6;2.1 (1);60.0;10.0;30.0;1;X;2:2;PRZEGRANA;-100.0
+20:45;Plymouth Parkway vs Farnham Town;England 7;1.6 (2);25.0;55.0;20.0;2;1;2:1;PRZEGRANA;-100.0
+23:45;Real Soacha vs Atletico FC;Colombia 2;1.57 (1);50.0;20.0;30.0;1;Brak/Odwolany;-;Odwolany;0.0
+17:00;Real de Banjul vs Bombada;Gambia 1;2.05 (1);50.0;30.0;20.0;1;X;0:0;PRZEGRANA;-100.0
+20:45;Stratford Town vs Stamford AFC;England 7;1.9 (1);25.0;50.0;25.0;2;1;4:2;PRZEGRANA;-100.0
+20:45;Cambridge United vs Grimsby Town;England 4;2.25 (1);50.0;35.0;15.0;1;Brak/Odwolany;-;Odwolany;0.0
+21:30;Deportivo Pereira vs Cucuta;Colombia 1;2.45 (1);50.0;15.0;35.0;1;X;2:2;PRZEGRANA;-100.0
+20:45;Gainsborough vs Bamber Bridge;England 7;2.87 (2);50.0;15.0;35.0;1;2;0:1;PRZEGRANA;-100.0
+20:45;Alvechurch vs St. Ives Town FC;England 7;3.5 (2);50.0;25.0;25.0;1;X;1:1;PRZEGRANA;-100.0
+20:45;Yate Town vs Poole Town FC;England 7;1.83 (2);30.0;50.0;20.0;2;X;2:2;PRZEGRANA;-100.0
+21:30;Envigado vs Bogota FC;Colombia 2;7.0 (2);50.0;25.0;25.0;1;Brak/Odwolany;-;Odwolany;0.0
+17:00;GPA vs Brikama United;Gambia 1;1.95 (1);50.0;15.0;35.0;1;X;0:0;PRZEGRANA;-100.0
+20:00;FC Emmen vs Cambuur;Netherlands 2;2.0 (2);25.0;50.0;25.0;2;2;2:4;WYGRANA;100.0
+17:00;Falcons vs Dutch Lions;Gambia 1;2.4 (1);50.0;40.0;10.0;1;X;0:0;PRZEGRANA;-100.0
+20:45;Aldershot Town vs Boreham Wood;England 5;1.95 (2);15.0;50.0;35.0;2;2;1:2;WYGRANA;95.0
+17:30;Old Edwardians vs Kamboi Eagles;Sierra Leone 1;1.66 (1);50.0;5.0;45.0;1;X;0:0;PRZEGRANA;-100.0
+15:00;SC Paderborn 07 II vs Schalke 04 II;Germany 4;2.45 (2);25.0;50.0;25.0;2;X;1:1;PRZEGRANA;-100.0
+20:45;Enfield Town vs Dover;England 6;2.35 (1);50.0;30.0;20.0;1;1;3:1;WYGRANA;135.0
+20:45;Alfreton Town vs Macclesfield;England 6;1.65 (2);25.0;50.0;25.0;2;2;0:2;WYGRANA;65.0
+20:45;Flint Mountain vs Guilsfield FC;Wales 2;1.8 (2);45.0;40.0;15.0;1;1;1:0;WYGRANA;0.0
+19:30;Pinzgau Saalfelden vs FC Kitzbuehel;Austria 3;2.3 (1);45.0;25.0;30.0;1;2;0:4;PRZEGRANA;-100.0
+20:45;Eastleigh vs Sutton United;England 5;2.3 (2);35.0;45.0;20.0;2;2;0:2;WYGRANA;129.99999999999997
+17:30;Kallon vs East End Lions;Sierra Leone 1;3.8 (2);45.0;40.0;15.0;1;2;2:3;PRZEGRANA;-100.0
+20:45;Kettering Town FC vs Banbury United;England 7;3.75 (2);45.0;30.0;25.0;1;X;0:0;PRZEGRANA;-100.0
+20:45;Darlington 1883 vs Kidderminster Harriers;England 6;2.6 (1);35.0;45.0;20.0;2;2;0:2;WYGRANA;0.0
+20:45;Hanwell Town vs Evesham United;England 7;1.95 (1);40.0;30.0;30.0;1;1;2:0;WYGRANA;95.0
+20:45;Oldham Athletic vs Notts County;England 4;2.62 (1);20.0;40.0;40.0;2;1;3:0;PRZEGRANA;-100.0
+20:45;Cleethorpes Town vs Guiseley;England 7;2.0 (1);25.0;40.0;35.0;2;1;2:1;PRZEGRANA;-100.0
+20:45;Raith Rovers vs Partick Thistle;Scotland 2;2.2 (2);30.0;40.0;30.0;2;2;0:2;WYGRANA;120.00000000000003
+20:45;Real Bedford vs Harborough Town;England 7;2.2 (2);40.0;35.0;25.0;1;X;2:2;PRZEGRANA;-100.0
+20:45;Chesham United vs Hornchurch;England 6;2.62 (1);25.0;40.0;35.0;2;2;1:2;WYGRANA;0.0
+20:45;Doncaster Rovers vs Port Vale;England 3;1.72 (1);40.0;25.0;35.0;1;1;1:0;WYGRANA;72.0
+17:00;Hawks vs BST Galaxy;Gambia 1;3.1 (2);40.0;35.0;25.0;1;1;2:0;WYGRANA;0.0
+17:30;Bo Rangers vs Bhantal;Sierra Leone 1;2.15 (1);35.0;40.0;25.0;2;1;1:0;PRZEGRANA;-100.0
+20:45;Sholing vs Walton & Hersham;England 7;2.5 (1);30.0;40.0;30.0;2;2;1:3;WYGRANA;0.0
+jutro 00:00;Atletico Junior vs Bucaramanga;Colombia 1;3.7 (2);35.0;30.0;35.0;1;Brak/Odwolany;-;Odwolany;0.0
+20:45;Halifax Town vs Carlisle United;England 5;2.6 (1);30.0;35.0;35.0;2;2;0:1;WYGRANA;0.0
+20:45;Stranraer vs Clyde;Scotland 4;2.45 (2);30.0;25.0;45.0;X;1;3:1;PRZEGRANA;-100.0

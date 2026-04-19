@@ -1,0 +1,69 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+20:00;Al Quadisiya vs Al Shabab;Saudi Arabia 1;1.55 (1);80.0;10.0;10.0;1;X;2:2;PRZEGRANA;-100.0
+21:00;Southampton vs Blackburn Rovers;England 2;1.57 (1);80.0;0.0;20.0;1;1;3:0;WYGRANA;57.0
+19:30;Krems / Rehberg vs SC Neusiedl am See 1919;Austria 3;1.45 (1);80.0;20.0;0.0;1;1;1:0;WYGRANA;45.0
+20:45;Peterhead vs Inverness CT;Scotland 3;1.38 (2);10.0;75.0;15.0;2;2;0:2;WYGRANA;38.0
+16:55;Al-Shabab Club vs Saham;Oman 1;1.4 (1);75.0;15.0;10.0;1;Brak/Odwolany;-;Odwolany;0.0
+19:30;SC Team Wiener Linien vs Union Mauer;Austria 3;1.6 (2);15.0;70.0;15.0;2;2;0:2;WYGRANA;60.0
+20:45;Woking vs Solihull Moors;England 5;1.9 (1);70.0;5.0;25.0;1;X;0:0;PRZEGRANA;-100.0
+18:30;Al-Wehdat vs Shabab Al-Ordon;Jordan 1;1.28 (1);65.0;10.0;25.0;1;1;3:0;WYGRANA;28.0
+13:00;Alashkert FC vs Ararat;Armenia 1;1.48 (1);65.0;15.0;20.0;1;1;2:0;WYGRANA;48.0
+20:45;Colchester United vs Accrington Stanley;England 4;1.65 (1);65.0;10.0;25.0;1;1;2:1;WYGRANA;65.0
+20:45;AFC Totton vs Bath City;England 6;1.8 (1);65.0;30.0;5.0;1;1;2:1;WYGRANA;80.0
+20:45;Alfreton Town vs Buxton;England 6;1.65 (2);0.0;65.0;35.0;2;X;2:2;PRZEGRANA;-100.0
+20:45;Bolton Wanderers vs Stevenage;England 3;1.85 (1);65.0;0.0;35.0;1;1;5:1;WYGRANA;85.0
+18:00;VfB Eichstatt vs TSV Schwaben Augsburg;Germany 4;1.65 (1);60.0;20.0;20.0;1;2;0:1;PRZEGRANA;-100.0
+21:00;Portsmouth vs Ipswich Town;England 2;1.95 (2);30.0;60.0;10.0;2;1;2:0;PRZEGRANA;-100.0
+19:30;Maccabi Petach Tikwa vs Maccabi Herzliya;Israel 2;5.0 (2);60.0;20.0;20.0;1;X;1:1;PRZEGRANA;-100.0
+20:45;Kettering Town FC vs Redditch United;England 7;1.5 (1);60.0;20.0;20.0;1;X;1:1;PRZEGRANA;-100.0
+15:15;Tusker FC vs Gor Mahia;Kenya 1;1.85 (2);15.0;60.0;25.0;2;1;1:0;PRZEGRANA;-100.0
+20:45;Weston Super Mare vs Horsham;England 6;1.6 (1);60.0;20.0;20.0;1;1;1:0;WYGRANA;60.0
+20:45;Real Bedford vs Leiston;England 7;1.57 (1);60.0;20.0;20.0;1;2;0:1;PRZEGRANA;-100.0
+18:00;Kinondoni MC vs Tanzania Prisons;Tanzania 1;2.05 (1);60.0;20.0;20.0;1;X;1:1;PRZEGRANA;-100.0
+20:45;Radcliffe Borough vs Kidderminster Harriers;England 6;1.55 (2);20.0;55.0;25.0;2;2;1:3;WYGRANA;55.0
+16:00;Al Naft vs Erbil;Iraq 1;2.1 (2);30.0;55.0;15.0;2;2;0:2;WYGRANA;110.0
+19:30;Maccabi Kabilio Jaffa vs Hapoel Rishon LeZion;Israel 2;2.05 (2);20.0;55.0;25.0;2;X;1:1;PRZEGRANA;-100.0
+15:00;Hertha Berlin II vs Hertha Zehlendorf;Germany 4;4.0 (2);55.0;20.0;25.0;1;1;3:1;WYGRANA;0.0
+20:45;Atherstone Town vs Wimborne Town;England 7;1.95 (2);20.0;55.0;25.0;2;2;0:6;WYGRANA;95.0
+19:30;Hapoel Ironi Akko vs Hapoel Kfar Shalem;Israel 2;2.25 (2);50.0;30.0;20.0;1;X;1:1;PRZEGRANA;-100.0
+20:45;Wigan Athletic vs Rotherham United;England 3;1.8 (1);50.0;30.0;20.0;1;1;3:0;WYGRANA;80.0
+20:45;Cheltenham Town vs Gillingham;England 4;2.87 (2);50.0;10.0;40.0;1;1;2:1;WYGRANA;0.0
+19:30;Bnei Yehuda Tel Awiw vs Kiryat Yam SC;Israel 2;2.2 (1);50.0;15.0;35.0;1;2;1:3;PRZEGRANA;-100.0
+19:30;Hapoel Raanana vs Ironi Modiin;Israel 2;2.6 (1);30.0;50.0;20.0;2;1;1:0;PRZEGRANA;-100.0
+19:30;SC Kfar Kasem vs Hapoel Ramat Gan;Israel 2;2.62 (2);50.0;15.0;35.0;1;2;1:3;PRZEGRANA;-100.0
+jutro 01:00;Laferrere vs CD UAI Urquiza;Argentina 3;3.4 (2);50.0;20.0;30.0;1;X;0:0;PRZEGRANA;-100.0
+20:30;CA Talleres Remedios de Escalada vs Villa Dalmine;Argentina 3;3.4 (2);50.0;10.0;40.0;1;2;0:2;PRZEGRANA;-100.0
+20:45;Airdrieonians vs Dunfermline Athletic;Scotland 2;2.55 (2);20.0;50.0;30.0;2;X;2:2;PRZEGRANA;-100.0
+18:45;Ferencvaros vs Puskas FC Academy;Hungary 1;1.4 (1);45.0;25.0;30.0;1;1;2:1;WYGRANA;40.0
+20:45;Aldershot Town vs Southend United;England 5;3.7 (1);25.0;45.0;30.0;2;2;0:2;WYGRANA;0.0
+20:45;Marine vs Merthyr Town;England 6;2.1 (1);25.0;45.0;30.0;2;2;1:3;WYGRANA;0.0
+20:45;Barrow vs Oldham Athletic;England 4;2.05 (2);20.0;45.0;35.0;2;1;3:2;PRZEGRANA;-100.0
+15:30;FC Academy Pandev vs Makedonija GjP;F.Y.R.O.M. 1;1.83 (1);45.0;30.0;25.0;1;X;1:1;PRZEGRANA;-100.0
+20:45;South Shields vs Macclesfield;England 6;1.65 (1);45.0;35.0;20.0;1;1;4:1;WYGRANA;65.0
+20:45;Welling United vs Potters Bar Town;England 7;3.0 (2);45.0;30.0;25.0;1;1;1:0;WYGRANA;0.0
+18:00;Augsburg II vs Burghausen;Germany 4;2.7 (1);45.0;25.0;30.0;1;X;0:0;PRZEGRANA;-100.0
+20:45;Huddersfield Town vs Cardiff City;England 3;3.25 (1);35.0;40.0;25.0;2;X;1:1;PRZEGRANA;-100.0
+22:15;Asociacion Deportiva Tarma vs Alianza Lima;Peru 1;2.25 (2);30.0;40.0;30.0;2;2;0:1;WYGRANA;125.0
+20:45;Queen's Park vs Raith Rovers;Scotland 2;2.8 (1);40.0;15.0;45.0;X;2;0:2;PRZEGRANA;-100.0
+20:30;CA Defensores Unidos vs Sportivo Italiano;Argentina 3;2.3 (2);40.0;40.0;20.0;1;1;2:0;WYGRANA;0.0
+19:00;Catanzaro vs Modena;Italy 2;2.4 (1);40.0;30.0;30.0;1;X;2:2;PRZEGRANA;-100.0
+17:00;Real Madrid Castilla vs Ourense CF;Spain 3;1.75 (1);40.0;35.0;25.0;1;X;1:1;PRZEGRANA;-100.0
+19:00;Parndorf vs Oberwart;Austria 3;2.25 (1);40.0;25.0;35.0;1;X;0:0;PRZEGRANA;-100.0
+16:00;Sama Al Sarhan vs Al Ahli;Jordan 1;1.75 (2);40.0;40.0;20.0;1;2;2:3;PRZEGRANA;-100.0
+17:00;Botev Vratsa vs Lokomotiw Sofia;Bulgaria 1;3.0 (1);20.0;40.0;40.0;2;1;3:2;PRZEGRANA;-100.0
+20:45;Wealdstone vs Boston United;England 5;3.0 (2);40.0;25.0;35.0;1;X;1:1;PRZEGRANA;-100.0
+20:45;Hornchurch vs Chelmsford;England 6;2.75 (2);20.0;40.0;40.0;2;X;3:3;PRZEGRANA;-100.0
+20:30;Argentino de Merlo vs Excursionistas;Argentina 3;2.62 (2);40.0;20.0;40.0;1;X;1:1;PRZEGRANA;-100.0
+19:30;Dobrudzha Dobrich vs Botew Płowdiw;Bulgaria 1;2.5 (2);25.0;40.0;35.0;2;2;0:3;WYGRANA;150.0
+20:45;Hereford vs Oxford City;England 6;2.3 (1);40.0;35.0;25.0;1;2;1:2;PRZEGRANA;-100.0
+19:30;Hapoel Afula vs Hapoel Nazareth Illit;Israel 2;2.2 (2);25.0;40.0;35.0;2;2;1:3;WYGRANA;120.00000000000003
+20:00;UCV Moquegua vs Juan Pablo II College;Peru 1;2.15 (1);40.0;30.0;30.0;1;1;3:0;WYGRANA;115.0
+14:00;Mathare United vs Police FC;Kenya 1;2.15 (2);25.0;40.0;35.0;2;X;0:0;PRZEGRANA;-100.0
+18:00;Koper vs NK Maribor;Slovenia 1;2.5 (1);40.0;20.0;40.0;1;1;3:1;WYGRANA;150.0
+20:30;Ituzaingo vs Arsenal Sarandi;Argentina 3;1.9 (2);30.0;35.0;35.0;2;X;0:0;PRZEGRANA;-100.0
+20:45;Chesterfield vs Grimsby Town;England 4;2.62 (2);35.0;30.0;35.0;1;1;2:1;WYGRANA;0.0
+20:45;Leyton Orient vs Mansfield Town;England 3;2.8 (2);35.0;30.0;35.0;1;X;0:0;PRZEGRANA;-100.0
+20:45;Port Vale vs Barnsley;England 3;2.45 (2);30.0;35.0;35.0;2;X;0:0;PRZEGRANA;-100.0
+19:30;Hapoel Hadera Eran vs Hapoel Kfar Saba;Israel 2;3.0 (1);15.0;35.0;50.0;X;2;0:3;PRZEGRANA;-100.0
+20:45;Stamford AFC vs Banbury United;England 7;2.8 (2);30.0;30.0;40.0;X;1;4:0;PRZEGRANA;-100.0
+13:00;Arsimi vs Pelister;F.Y.R.O.M. 1;2.45 (2);30.0;25.0;45.0;X;1;1:0;PRZEGRANA;-100.0
