@@ -1,0 +1,41 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Wynik_Rzeczywisty;Gole;Status;Zysk/Strata (Flat 100)
+19 kwi;Faetano vs Tre Fiori;San Marino 1;1.1 (2);5.0;95.0;0.0;2;2;0:1;WYGRANA;10.000000000000014
+19 kwi;FC Santa Coloma vs Esperança dAndorra;Andorra 1;1.09 (1);95.0;0.0;5.0;1;1;4:0;WYGRANA;9.000000000000014
+19 kwi;Pistoiese vs Coriano;Italy 4;1.12 (1);90.0;5.0;5.0;1;2;0:1;PRZEGRANA;-100.0
+19 kwi;San Marino Calcio vs Teramo;Italy 4;1.2 (2);10.0;85.0;5.0;2;2;1:3;WYGRANA;20.0
+19 kwi;Viettel vs Hoang Anh Gia Lai;Vietnam 1;1.33 (1);80.0;5.0;15.0;1;1;1:0;WYGRANA;33.0
+19 kwi;UD Ibiza vs Sevilla II;Spain 3;1.14 (1);80.0;10.0;10.0;1;2;0:1;PRZEGRANA;-100.0
+19 kwi;Coban Imperial vs Deportivo Achuapa;Guatemala 1;1.42 (1);80.0;10.0;10.0;1;1;3:1;WYGRANA;42.0
+19 kwi;Inter Club d'Escaldes vs FC Ordino;Andorra 1;1.33 (1);80.0;10.0;10.0;1;1;4:0;WYGRANA;33.0
+19 kwi;Sporting Gijon vs Cadiz;Spain 2;1.57 (1);80.0;15.0;5.0;1;1;3:0;WYGRANA;57.0
+19 kwi;Reggina vs Paterno;Italy 4;1.16 (1);75.0;10.0;15.0;1;1;2:0;WYGRANA;15.999999999999986
+19 kwi;Lentigione vs Progresso;Italy 4;1.45 (1);75.0;15.0;10.0;1;2;1:2;PRZEGRANA;-100.0
+19 kwi;Cosenza vs Trapani;Italy 3;1.48 (1);70.0;15.0;15.0;1;1;1:0;WYGRANA;48.0
+19 kwi;Schalke 04 vs Preußen Muenster;Germany 2;1.53 (1);65.0;20.0;15.0;1;1;4:1;WYGRANA;53.0
+19 kwi;Nissa vs Enna;Italy 4;1.5 (1);65.0;20.0;15.0;1;1;3:0;WYGRANA;50.0
+19 kwi;Internacional vs Mirassol;Brazil 1;1.72 (1);65.0;15.0;20.0;1;2;1:2;PRZEGRANA;-100.0
+19 kwi;FC Porto vs Tondela;Portugal 1;1.18 (1);65.0;10.0;25.0;1;1;2:0;WYGRANA;18.0
+20 kwi;Colo Colo vs Palestino;Chile 1;1.7 (1);65.0;35.0;0.0;1;Brak/Odwolany;-;Odwolany;0.0
+19 kwi;Audace Cerignola vs Team Altamura;Italy 3;1.55 (1);65.0;15.0;20.0;1;X;1:1;PRZEGRANA;-100.0
+19 kwi;Zamora vs Osasuna B;Spain 3;1.65 (1);65.0;10.0;25.0;1;1;1:0;WYGRANA;65.0
+19 kwi;XuÃ¢n Thiá»‡n PhÃº Thá» vs Long An;Vietnam 2;1.53 (1);60.0;20.0;20.0;1;1;4:0;WYGRANA;53.0
+20 kwi;Talleres vs Deportivo Riestra;Argentina 1;1.9 (1);60.0;5.0;35.0;1;Brak/Odwolany;-;Odwolany;0.0
+19 kwi;İstanbulspor vs SarÄ±yer;Turkey 2;2.37 (2);10.0;60.0;30.0;2;1;3:1;PRZEGRANA;-100.0
+19 kwi;Camberene vs Teungueth;Senegal 1;2.3 (2);30.0;60.0;10.0;2;2;0:1;WYGRANA;129.99999999999997
+19 kwi;Eldense vs Cartagena;Spain 3;1.7 (1);60.0;20.0;20.0;1;1;2:1;WYGRANA;70.0
+19 kwi;Bombada vs Greater Tomorrow;Gambia 1;1.8 (1);55.0;20.0;25.0;1;Brak/Odwolany;-;Odwolany;0.0
+19 kwi;AS Monaco vs Auxerre;France 1;1.55 (1);55.0;20.0;25.0;1;X;2:2;PRZEGRANA;-100.0
+19 kwi;Werder Bremen II vs Bremer SV;Germany 4;2.15 (1);50.0;20.0;30.0;1;2;1:2;PRZEGRANA;-100.0
+19 kwi;Mixco vs Aurora;Guatemala 1;1.44 (1);50.0;5.0;45.0;1;1;4:0;WYGRANA;44.0
+19 kwi;Pogon Grodzisk Mazowiecki vs Pogoń Siedlce;Poland 2;1.95 (1);50.0;20.0;30.0;1;2;0:2;PRZEGRANA;-100.0
+19 kwi;Sasso Marconi vs Rovato Vertova;Italy 4;2.25 (2);30.0;45.0;25.0;2;1;2:1;PRZEGRANA;-100.0
+19 kwi;Metz vs Paris FC;France 1;2.2 (2);20.0;45.0;35.0;2;2;1:3;WYGRANA;120.00000000000003
+19 kwi;IÄŸdÄ±r FK vs Pendikspor;Turkey 2;3.0 (2);45.0;35.0;20.0;1;X;1:1;PRZEGRANA;-100.0
+19 kwi;Jihlava vs Brno;Czech Republic 2;1.57 (2);30.0;45.0;25.0;2;2;1:2;WYGRANA;57.0
+19 kwi;Alianza Atletico vs Sport Boys;Peru 1;1.75 (1);45.0;30.0;25.0;1;2;0:1;PRZEGRANA;-100.0
+19 kwi;Pro Vercelli vs Ospitaletto;Italy 3;3.1 (2);25.0;45.0;30.0;2;1;1:0;PRZEGRANA;-100.0
+19 kwi;Valenzana vs Lavagnese;Italy 4;3.0 (1);45.0;45.0;10.0;1;1;2:0;WYGRANA;200.0
+19 kwi;Latina vs Casertana;Italy 3;2.7 (2);45.0;25.0;30.0;1;1;2:0;WYGRANA;0.0
+19 kwi;FC Hirnyk vs Rukh Vynnyky;Ukraine 1;1.8 (1);40.0;30.0;30.0;1;1;3:0;WYGRANA;80.0
+19 kwi;Monopoli vs Foggia;Italy 3;2.0 (1);35.0;20.0;45.0;X;1;1:0;PRZEGRANA;-100.0
+19 kwi;VfB Stuttgart II vs Erzgebirge Aue;Germany 3;1.9 (1);35.0;20.0;45.0;X;X;2:2;WYGRANA;0.0

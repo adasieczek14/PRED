@@ -1,0 +1,31 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2
+jutro 01:30;Club Atletico Penarol vs Juventud de las Piedras;Uruguay 1;1.36 (1);72.3;11.5;16.2;1;✅ OBA ZGODNE (1);76.0;12.0;12.0;69.8;19.0;11.1
+20:45;Taunton Town vs Farnham Town;England 7;1.83 (2);18.5;64.9;16.6;2;✅ OBA ZGODNE (2);16.0;8.0;76.0;20.2;22.3;57.5
+20:30;RC Deportivo vs Mirandes;Spain 2;1.5 (1);64.2;8.5;27.3;1;✅ OBA ZGODNE (1);64.0;32.0;4.0;64.3;24.1;11.6
+03:00;Antigua Guatemala vs Deportivo Malacateco;Guatemala 1;1.53 (1);64.1;17.5;18.4;1;✅ OBA ZGODNE (1);72.0;12.0;16.0;58.9;22.7;18.5
+20:00;Vasas Budapeszt vs BVSC;Hungary 2;1.33 (1);63.2;13.5;23.4;1;✅ OBA ZGODNE (1);56.0;28.0;16.0;68.0;20.3;11.8
+jutro 01:00;Deportivo La Guaira vs Portuguesa FC;Venezuela 1;1.66 (1);61.3;12.8;25.9;1;✅ OBA ZGODNE (1);68.0;28.0;4.0;56.8;24.6;18.6
+jutro 00:00;Carabobo FC vs Academia Anzoategui;Venezuela 1;1.48 (1);58.5;18.7;22.9;1;✅ OBA ZGODNE (1);56.0;24.0;20.0;60.1;22.1;17.8
+17:00;Szachtar Donieck vs Polissya Zhytomyr;Ukraine 1;1.8 (1);54.2;16.7;29.1;1;✅ OBA ZGODNE (1);56.0;32.0;12.0;52.9;27.1;19.9
+23:15;Rubio Nu vs Libertad;Paraguay 1;1.72 (2);22.5;51.9;25.5;2;✅ OBA ZGODNE (2);20.0;24.0;56.0;24.2;26.6;49.2
+20:00;FC Den Bosch vs Jong FC Utrecht;Netherlands 2;1.85 (1);51.3;18.3;30.4;1;✅ OBA ZGODNE (1);52.0;36.0;12.0;50.8;26.7;22.5
+10:30;Semen Padang vs Persijap;Indonesia 1;2.75 (2);50.7;28.8;20.5;1;✅ OBA ZGODNE (1);48.0;16.0;36.0;52.5;23.5;24.0
+18:00;Miedź Legnica vs Górnik Łęczna;Poland 2;1.6 (1);48.6;26.5;24.9;1;✅ OBA ZGODNE (1);40.0;24.0;36.0;54.3;25.5;20.2
+20:00;Barracas Central vs Belgrano;Argentina 1;3.5 (1);30.3;46.4;23.3;2;✅ OBA ZGODNE (2);28.0;24.0;48.0;31.8;22.8;45.3
+02:45;Huachipato vs Audax Italiano;Chile 1;2.2 (1);45.5;26.9;27.5;1;✅ OBA ZGODNE (1);48.0;24.0;28.0;43.9;29.8;26.2
+20:45;Lecce vs Fiorentina;European Championship U-21 1;2.15 (2);27.8;44.5;27.7;2;✅ OBA ZGODNE (2);24.0;28.0;48.0;30.4;27.5;42.2
+03:30;America de Cali vs Millonarios;Colombia 1;2.1 (1);42.7;31.0;26.3;1;✅ OBA ZGODNE (1);44.0;24.0;32.0;41.8;27.8;30.4
+19:00;Gaziantep BB vs Kayserispor;Turkey 1;2.15 (1);40.3;17.7;42.0;X;⚠️ RÓŻNICA (KNN:X XGB:1);32.0;60.0;8.0;45.8;30.1;24.1
+19:00;Lechia Gdańsk vs Piast Gliwice;Poland 1;2.1 (1);40.7;28.3;31.0;1;⚠️ RÓŻNICA (KNN:X XGB:1);32.0;36.0;32.0;46.5;27.7;25.8
+02:00;Pride of Gall Hill vs Ellerton;Barbados 1;4.75 (1);34.1;40.6;25.3;2;⚠️ RÓŻNICA (KNN:2 XGB:1);24.0;28.0;48.0;40.8;23.6;35.6
+20:45;Dunkerque vs Laval;France 2;3.6 (2);40.0;26.8;33.2;1;⚠️ RÓŻNICA (KNN:X XGB:1);36.0;40.0;24.0;42.6;28.7;28.7
+19:45;Sporting CP B vs Felgueiras 1932;Portugal 2;2.45 (2);34.0;39.5;26.5;2;✅ OBA ZGODNE (2);36.0;24.0;40.0;32.6;28.2;39.1
+jutro 00:30;San Lorenzo vs Velez Sarsfield;Argentina 1;2.5 (2);32.5;39.4;28.1;2;⚠️ RÓŻNICA (KNN:1 XGB:2);36.0;28.0;36.0;30.2;28.1;41.7
+21:15;Moreirense vs Estoril;Portugal 1;2.3 (2);30.3;39.3;30.4;2;✅ OBA ZGODNE (2);28.0;32.0;40.0;31.8;29.4;38.9
+22:15;Banfield vs Independiente Rivadavia;Argentina 1;2.7 (2);36.4;39.2;24.3;2;⚠️ RÓŻNICA (KNN:2 XGB:1);36.0;20.0;44.0;36.7;27.2;36.1
+14:00;Martapura vs Persib Bandung;Indonesia 1;3.0 (1);30.0;39.0;31.0;2;✅ OBA ZGODNE (2);28.0;32.0;40.0;31.3;30.3;38.4
+jutro 01:30;Sportivo Ameliano vs Nacional;Paraguay 1;2.55 (1);33.6;37.5;28.9;2;⚠️ RÓŻNICA (KNN:X XGB:2);28.0;36.0;36.0;37.3;24.1;38.6
+19:45;FC Porto B vs Leixoes;Portugal 2;2.5 (1);26.7;37.2;36.0;2;⚠️ RÓŻNICA (KNN:X XGB:2);16.0;44.0;40.0;33.9;30.7;35.3
+22:00;Boston River vs Cerro Largo;Uruguay 1;3.0 (2);37.1;35.2;27.7;1;⚠️ RÓŻNICA (KNN:2 XGB:1);32.0;28.0;40.0;40.5;27.4;32.0
+21:00;Crystal Palace vs West Ham United;England 1;2.37 (1);33.9;36.1;30.0;2;⚠️ RÓŻNICA (KNN:2 XGB:1);24.0;32.0;44.0;40.5;28.7;30.8
+12:00;FC Olexandria vs Veres Rivne;Ukraine 1;2.5 (2);29.2;35.4;35.4;X;⚠️ RÓŻNICA (KNN:X XGB:2);24.0;48.0;28.0;32.6;27.0;40.3
