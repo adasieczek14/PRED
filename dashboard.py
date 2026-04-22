@@ -27,7 +27,8 @@ st.set_page_config(
 # ==========================================
 # GOOGLE ANALYTICS 4
 # ==========================================
-st.html("""
+st.markdown("""
+<!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-M6GPSMNMK2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
@@ -35,7 +36,7 @@ st.html("""
   gtag('js', new Date());
   gtag('config', 'G-M6GPSMNMK2');
 </script>
-""")
+""", unsafe_allow_html=True)
 
 # ==========================================
 # GŁÓWNA LOGIKA DANYCH
