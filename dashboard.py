@@ -28,26 +28,28 @@ st.set_page_config(
 # GOOGLE ANALYTICS 4
 # ==========================================
 components.html("""
+<!DOCTYPE html>
+<html>
+<head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-M6GPSMNMK2"></script>
 <script>
-  (function() {
-    // Inject GA script tag into parent (main Streamlit) document head
-    var s = window.parent.document.createElement('script');
-    s.async = true;
-    s.src = 'https://www.googletagmanager.com/gtag/js?id=G-M6GPSMNMK2';
-    window.parent.document.head.appendChild(s);
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
 
-    // Initialize dataLayer on parent window
-    window.parent.dataLayer = window.parent.dataLayer || [];
-    function gtag(){window.parent.dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-M6GPSMNMK2');
-    window.parent.gtag = gtag;
-  })();
+  // Use document.referrer as the page_location (Streamlit app URL)
+  var pageUrl = document.referrer || 'https://x6vskmsh93n9r8qzxikhyv.streamlit.app/';
+
+  gtag('config', 'G-M6GPSMNMK2', {
+    'page_location': pageUrl,
+    'page_title': 'AI Predykcje Wyników - Panel'
+  });
 </script>
+</head>
+<body></body>
+</html>
 """, height=0)
-
 
 
 # ==========================================
