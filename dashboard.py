@@ -27,16 +27,28 @@ st.set_page_config(
 # ==========================================
 # GOOGLE ANALYTICS 4
 # ==========================================
-st.markdown("""
+components.html("""
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-M6GPSMNMK2"></script>
 <script>
-  window.dataLayer = window.dataLayer || [];
-  function gtag(){dataLayer.push(arguments);}
-  gtag('js', new Date());
-  gtag('config', 'G-M6GPSMNMK2');
+  (function() {
+    // Inject GA script tag into parent (main Streamlit) document head
+    var s = window.parent.document.createElement('script');
+    s.async = true;
+    s.src = 'https://www.googletagmanager.com/gtag/js?id=G-M6GPSMNMK2';
+    window.parent.document.head.appendChild(s);
+
+    // Initialize dataLayer on parent window
+    window.parent.dataLayer = window.parent.dataLayer || [];
+    function gtag(){window.parent.dataLayer.push(arguments);}
+    gtag('js', new Date());
+    gtag('config', 'G-M6GPSMNMK2');
+    window.parent.gtag = gtag;
+  })();
 </script>
-""", unsafe_allow_html=True)
+""", height=0)
+
+
 
 # ==========================================
 # GŁÓWNA LOGIKA DANYCH
