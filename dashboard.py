@@ -27,39 +27,33 @@ st.set_page_config(
 # ==========================================
 # GOOGLE ANALYTICS 4
 # ==========================================
-# Inject GA tag into the main Streamlit page <head> (covers root URL /)
-st.markdown("""
+components.html("""
+<!DOCTYPE html>
+<html>
+<head>
 <!-- Google tag (gtag.js) -->
 <script async src="https://www.googletagmanager.com/gtag/js?id=G-M6GPSMNMK2"></script>
 <script>
   window.dataLayer = window.dataLayer || [];
   function gtag(){dataLayer.push(arguments);}
   gtag('js', new Date());
+
+  // Pobierz adres z referrera, aby zignorować wewnętrzny iframe Streamlit (/~/+/)
+  // Wymuszamy poprawny URL głównej aplikacji
+  var pageUrl = 'https://x6vskmsh93n9r8qzxikhyv.streamlit.app/';
+  
+  if (document.referrer && document.referrer.indexOf('streamlit.app') !== -1) {
+      pageUrl = document.referrer;
+  }
+
   gtag('config', 'G-M6GPSMNMK2', {
-    'page_title': 'AI Predykcje Wyników - Panel',
-    'page_location': 'https://x6vskskmsh93n9r8qzxikhyv.streamlit.app/'
+    'page_location': pageUrl,
+    'page_title': 'AI Predykcje Wyników - Panel'
   });
 </script>
-""", unsafe_allow_html=True)
-
-# Also fire a pageview from within the iframe (covers /~/+/) using postMessage to parent
-components.html("""
-<script>
-  (function() {
-    // Fire gtag directly inside iframe context
-    window.dataLayer = window.dataLayer || [];
-    function gtag(){dataLayer.push(arguments);}
-    gtag('js', new Date());
-    gtag('config', 'G-M6GPSMNMK2', {
-      'page_title': 'AI Predykcje Wyników - Panel',
-      'page_location': 'https://x6vskskmsh93n9r8qzxikhyv.streamlit.app/'
-    });
-    // Notify parent frame to also fire GA (belt-and-suspenders)
-    try {
-      window.parent.postMessage({type: 'GA_PAGEVIEW', gtmId: 'G-M6GPSMNMK2'}, '*');
-    } catch(e) {}
-  })();
-</script>
+</head>
+<body></body>
+</html>
 """, height=0)
 
 
