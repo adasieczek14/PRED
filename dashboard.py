@@ -62,7 +62,7 @@ components.html("""
 # ==========================================
 DATA_DIR = os.path.dirname(os.path.abspath(__file__))
 
-@st.cache_data
+@st.cache_data(ttl=300)
 def load_today_predictions(date_str=None):
     if not date_str:
         date_str = datetime.now().strftime("%Y-%m-%d")
@@ -72,7 +72,7 @@ def load_today_predictions(date_str=None):
         return pd.read_csv(file_path, sep=';', encoding='utf-8-sig')
     return pd.DataFrame()
 
-@st.cache_data
+@st.cache_data(ttl=300)
 def load_today_predictions_xgb(date_str=None):
     if not date_str:
         date_str = datetime.now().strftime("%Y-%m-%d")
@@ -82,7 +82,7 @@ def load_today_predictions_xgb(date_str=None):
         return pd.read_csv(file_path, sep=';', encoding='utf-8-sig')
     return pd.DataFrame()
 
-@st.cache_data
+@st.cache_data(ttl=300)
 def load_today_predictions_ensemble(date_str=None):
     """Ładuje dzisiejsze typy Ensemble (KNN+XGB) dla podanej daty."""
     if not date_str:
@@ -93,7 +93,7 @@ def load_today_predictions_ensemble(date_str=None):
         return pd.read_csv(file_path, sep=';', encoding='utf-8-sig')
     return pd.DataFrame()
 
-@st.cache_data
+@st.cache_data(ttl=300)
 def load_today_predictions_ou(date_str=None):
     """Ładuje dzisiejsze typy Over/Under dla podanej daty."""
     if not date_str:
@@ -103,7 +103,7 @@ def load_today_predictions_ou(date_str=None):
         return pd.read_csv(file_path, sep=';', encoding='utf-8-sig')
     return pd.DataFrame()
 
-@st.cache_data
+@st.cache_data(ttl=300)
 def load_ou_base_stats():
     """Wylicza statystyki Over/Under z całej bazy fctables_data.csv (cached)."""
     csv_path = os.path.join(DATA_DIR, "fctables_data.csv")
@@ -129,7 +129,7 @@ def load_ou_base_stats():
     except Exception:
         return {}
 
-@st.cache_data
+@st.cache_data(ttl=300)
 def load_league_stats_ou_db():
     """Wyciąga statystyki O/U i BTTS dla każdej ligi z fctables_data.csv."""
     csv_path = os.path.join(DATA_DIR, "fctables_data.csv")
@@ -162,7 +162,7 @@ def load_league_stats_ou_db():
     except Exception:
         return pd.DataFrame()
 
-@st.cache_data
+@st.cache_data(ttl=300)
 def load_validation_history_ensemble():
     """Ładuje całą historię zwalidowanych typów Ensemble (ZWALIDOWANE_TYPY_ENSEMBLE_*.csv)."""
     files = sorted(glob.glob(os.path.join(DATA_DIR, "ZWALIDOWANE_TYPY_ENSEMBLE_2026-*.csv")))
@@ -184,7 +184,7 @@ def load_validation_history_ensemble():
         return pd.concat(df_list, ignore_index=True)
     return pd.DataFrame()
 
-@st.cache_data
+@st.cache_data(ttl=300)
 def load_validation_history():
     files = sorted(glob.glob(os.path.join(DATA_DIR, "ZWALIDOWANE_TYPY_*.csv")))
     files = [f for f in files if "XGB" not in os.path.basename(f) and "ENSEMBLE" not in os.path.basename(f) and "OU" not in os.path.basename(f) and "BTTS" not in os.path.basename(f)]
@@ -209,7 +209,7 @@ def load_validation_history():
         return combined
     return pd.DataFrame()
 
-@st.cache_data
+@st.cache_data(ttl=300)
 def load_validation_history_xgb():
     files = sorted(glob.glob(os.path.join(DATA_DIR, "ZWALIDOWANE_TYPY_XGB_*.csv")))
     files = [f for f in files if "HISTORYCZNIE" not in os.path.basename(f)]
@@ -233,7 +233,7 @@ def load_validation_history_xgb():
         return combined
     return pd.DataFrame()
 
-@st.cache_data
+@st.cache_data(ttl=300)
 def load_ou_validation_history():
     """Ładuje całą historię zwalidowanych typów O/U (ZWALIDOWANE_TYPY_OU_*.csv)."""
     files = sorted(glob.glob(os.path.join(DATA_DIR, "ZWALIDOWANE_TYPY_OU_*.csv")))
