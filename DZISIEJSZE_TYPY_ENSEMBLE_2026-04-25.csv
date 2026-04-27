@@ -1,0 +1,37 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2
+19:00;SC Villa vs Buhimba United Saints;Uganda 1;1.11 (1);90.7;1.9;7.4;1;✅ OBA ZGODNE (1);92.0;8.0;0.0;89.8;7.0;3.2
+16:00;Avan Academy vs Ararat;Armenia 1;1.14 (1);84.9;7.1;8.0;1;✅ OBA ZGODNE (1);84.0;8.0;8.0;85.5;8.0;6.5
+16:00;Cardiff City vs Northampton Town;England 3;1.18 (1);82.5;7.1;10.3;1;✅ OBA ZGODNE (1);88.0;4.0;8.0;78.9;14.6;6.6
+16:00;Forfar Athletic vs Edinburgh City;Scotland 4;1.16 (1);81.2;5.7;13.1;1;✅ OBA ZGODNE (1);88.0;8.0;4.0;76.7;16.5;6.8
+17:00;Al-Wehdat vs Al-Jazeera;Jordan 1;1.22 (1);77.7;5.2;17.1;1;✅ OBA ZGODNE (1);80.0;20.0;0.0;76.1;15.2;8.7
+18:30;Djoliba vs Bougouni;Mali 1;1.22 (1);77.2;3.9;18.9;1;✅ OBA ZGODNE (1);84.0;16.0;0.0;72.7;20.8;6.5
+16:30;Etoile du Sahel vs Marsa;Tunisia 1;1.4 (1);76.3;13.0;10.7;1;✅ OBA ZGODNE (1);88.0;0.0;12.0;68.6;17.8;13.7
+19:00;Benfica Lizbona vs Moreirense;Portugal 1;1.11 (1);75.8;5.7;18.5;1;✅ OBA ZGODNE (1);68.0;28.0;4.0;81.0;12.2;6.8
+22:30;Guaynabo Gol vs PR Surf;Puerto Rico 1;1.1 (2);10.5;75.6;14.0;2;✅ OBA ZGODNE (2);4.0;12.0;84.0;14.8;15.3;69.9
+16:00;Marek vs Belasitsa Petrich;Bulgaria 2;1.22 (1);75.3;8.0;16.7;1;✅ OBA ZGODNE (1);80.0;16.0;4.0;72.2;17.2;10.6
+16:00;Needham Market vs Banbury United;England 7;1.42 (1);73.3;8.1;18.6;1;✅ OBA ZGODNE (1);80.0;16.0;4.0;68.9;20.3;10.8
+16:00;Atherstone Town vs Farnham Town;England 7;1.27 (2);13.5;69.5;17.0;2;✅ OBA ZGODNE (2);12.0;12.0;76.0;14.5;20.4;65.1
+17:15;Venezia vs Empoli;Italy 2;1.4 (1);69.0;12.8;18.2;1;✅ OBA ZGODNE (1);72.0;16.0;12.0;67.0;19.6;13.3
+16:00;Stranraer vs Stirling Albion;Scotland 4;1.3 (1);67.6;6.0;26.4;1;✅ OBA ZGODNE (1);60.0;36.0;4.0;72.6;20.0;7.3
+23:00;Deportivo Pereira vs Atletico Nacional;Colombia 1;1.42 (2);13.4;65.8;20.7;2;✅ OBA ZGODNE (2);8.0;16.0;76.0;17.1;23.9;59.0
+20:30;Dolomiti Bellunesi vs Trento;Italy 3;1.65 (2);13.9;60.2;25.9;2;✅ OBA ZGODNE (2);8.0;24.0;68.0;17.9;27.2;54.9
+16:30;Paradiso vs Lausanne II;Switzerland 3;1.8 (1);58.3;20.3;21.4;1;✅ OBA ZGODNE (1);60.0;16.0;24.0;57.1;25.0;17.8
+23:30;Trujillanos FC vs Deportivo La Guaira;Venezuela 1;1.7 (2);18.8;56.7;24.6;2;✅ OBA ZGODNE (2);12.0;20.0;68.0;23.3;27.6;49.2
+16:15;Villarreal B vs UD Ibiza;Spain 3;2.15 (1);53.6;21.7;24.7;1;✅ OBA ZGODNE (1);60.0;20.0;20.0;49.3;27.9;22.8
+16:00;Wigan Athletic vs AFC Wimbledon;England 3;2.15 (1);51.2;20.4;28.4;1;✅ OBA ZGODNE (1);52.0;32.0;16.0;50.6;26.0;23.4
+16:00;Banik Ostrawa vs Viktoria Pilzno;Czech Republic 1;1.9 (2);29.1;49.6;21.3;2;✅ OBA ZGODNE (2);32.0;12.0;56.0;27.2;27.6;45.3
+16:00;Lincoln vs Wycombe Wanderers;England 3;1.8 (1);47.2;24.8;28.0;1;✅ OBA ZGODNE (1);44.0;28.0;28.0;49.3;28.0;22.7
+21:05;Toulouse vs AS Monaco;France 1;1.75 (2);22.5;44.7;32.8;2;⚠️ RÓŻNICA (KNN:X XGB:2);20.0;40.0;40.0;24.1;28.0;47.8
+16:30;Jeunesse Sportive Omrane vs Slimene Sports;Tunisia 1;1.85 (1);44.4;23.9;31.7;1;✅ OBA ZGODNE (1);36.0;36.0;28.0;50.0;28.8;21.2
+16:00;Taunton Town vs Evesham United;England 7;2.2 (1);44.2;29.9;26.0;1;✅ OBA ZGODNE (1);44.0;24.0;32.0;44.3;27.3;28.5
+20:30;Longford Town vs Kerry;Ireland 2;2.2 (1);44.2;30.0;25.8;1;✅ OBA ZGODNE (1);48.0;20.0;32.0;41.7;29.6;28.7
+16:00;St. Ives Town FC vs Stratford Town;England 7;2.25 (2);29.8;44.1;26.1;2;✅ OBA ZGODNE (2);20.0;32.0;48.0;36.3;22.1;41.6
+16:00;Hyde United vs Gainsborough;England 7;2.6 (1);25.4;30.6;44.0;X;⚠️ RÓŻNICA (KNN:X XGB:2);20.0;60.0;20.0;29.0;33.3;37.6
+16:00;Amora FC vs Lusitano Évora 1911;Portugal 3;2.4 (2);43.4;29.6;27.0;1;✅ OBA ZGODNE (1);48.0;24.0;28.0;40.4;29.0;30.6
+16:00;Makedonija GjP vs Rabotnicki Skopje;F.Y.R.O.M. 1;2.3 (2);29.6;41.5;28.8;2;✅ OBA ZGODNE (2);28.0;32.0;40.0;30.7;26.7;42.6
+16:00;Kayserispor vs Rizespor;Turkey 1;3.0 (2);40.8;27.7;31.5;1;✅ OBA ZGODNE (1);40.0;36.0;24.0;41.4;28.5;30.2
+18:30;Antequera vs Eldense;Spain 3;2.2 (2);40.7;40.0;19.3;1;⚠️ RÓŻNICA (KNN:2 XGB:1);32.0;12.0;56.0;46.5;24.2;29.3
+16:00;Worcester vs Spalding United;England 7;2.55 (2);40.0;31.5;28.5;1;⚠️ RÓŻNICA (KNN:1 XGB:2);48.0;28.0;24.0;34.7;28.9;36.5
+18:00;Stade Poitevin vs La Roche;France 4;2.62 (2);40.0;36.7;23.3;1;⚠️ RÓŻNICA (KNN:1 XGB:2);48.0;16.0;36.0;34.6;28.2;37.2
+22:45;Luqueno vs Sportivo Trinidense;Paraguay 1;2.3 (2);38.6;32.2;29.2;1;✅ OBA ZGODNE (1);44.0;28.0;28.0;35.1;30.0;34.9
+20:30;Ospitaletto vs Novara;Italy 3;2.62 (1);34.7;36.4;28.8;2;⚠️ RÓŻNICA (KNN:1 XGB:2);36.0;32.0;32.0;33.9;26.7;39.4

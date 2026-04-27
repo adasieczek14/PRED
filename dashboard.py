@@ -265,7 +265,8 @@ menu = st.sidebar.radio("Nawigacja", [
     "📊 Skuteczność XGBoost (Historia)",
     "📊 Skuteczność Ensemble (Historia)",
     "📊 Skuteczność Over/Under (Historia)",
-    "🏆 Ślepy Test XGBoost (Eksperymentalne)"
+    "🏆 Ślepy Test XGBoost (Eksperymentalne)",
+    "💎 Super Pewniaki (O/U + KNN)"
 ])
 st.sidebar.markdown("---")
 st.sidebar.info("Panel Inżynierski — Predykcje AI: KNN, XGBoost (skalibrowany) i Ensemble KNN+XGB.")
@@ -1539,9 +1540,10 @@ elif menu == "📊 Skuteczność Over/Under (Historia)":
 
                 st.markdown("---")
                 st.subheader(f"🎯 Symulacja wyższego progu wejścia ({rynek_ou})")
-                prog_min_ou = st.slider(f"Zagraj mecz TYLKO jeśli pewność predykcji {rynek_ou} wynosi minimum (%):", 50, 100, 60, step=1, key="prog_hist_ou")
+                zakres_ou = st.slider(f"Zagraj mecz TYLKO jeśli pewność predykcji {rynek_ou} mieści się w zakresie (%):", 50, 100, value=(60, 100), step=1, key="prog_hist_ou")
+                prog_min_ou, prog_max_ou = zakres_ou
                 
-                df_pew_ou = df_rynek[df_rynek[col_prob] >= prog_min_ou].copy()
+                df_pew_ou = df_rynek[(df_rynek[col_prob] >= prog_min_ou) & (df_rynek[col_prob] <= prog_max_ou)].copy()
 
                 if not df_pew_ou.empty:
                     p_tot = len(df_pew_ou)
@@ -1550,7 +1552,7 @@ elif menu == "📊 Skuteczność Over/Under (Historia)":
                     p_prof= df_pew_ou[col_profit].sum()
 
                     pc1, pc2, pc3 = st.columns(3)
-                    pc1.metric(f"Mecze po filtrze ({prog_min_ou}%+)", p_tot)
+                    pc1.metric(f"Mecze po filtrze ({prog_min_ou}%-{prog_max_ou}%)", p_tot)
                     pc2.metric("Zoptymalizowany Win Rate", f"{p_wr:.1f}%", delta=f"{p_wr - wr_ou:+.1f}% vs bazowy (50%)")
                     pc3.metric("Zoptymalizowany Profit", f"{p_prof:+.1f} j")
 
@@ -1561,7 +1563,7 @@ elif menu == "📊 Skuteczność Over/Under (Historia)":
                     fig_ou = px.line(
                         df_pew_ou, x=df_pew_ou.index, y='Krzywa',
                         hover_data=['Data_Rozegrania', 'Mecz', col_profit, col_prob, 'Wynik_Gole'],
-                        labels={"index": f"Zagrany typ ({prog_min_ou}%+) #", "Krzywa": "Kapitał (j)"},
+                        labels={"index": f"Zagrany typ ({prog_min_ou}%-{prog_max_ou}%) #", "Krzywa": "Kapitał (j)"},
                         template="plotly_dark" if st.get_option("theme.base") == "dark" else "plotly_white"
                     )
                     
@@ -1582,7 +1584,7 @@ elif menu == "📊 Skuteczność Over/Under (Historia)":
                             
                         st.dataframe(df_pew_ou[cols_to_disp].style.apply(hl_rynek, axis=1), use_container_width=True)
                 else:
-                    st.info(f"Brak meczów z {rynek_ou} o pewności >= {prog_min_ou}%.")
+                    st.info(f"Brak meczów z {rynek_ou} o pewności w zakresie {prog_min_ou}% - {prog_max_ou}%.")
 
         # --- DODANA SEKCJA: ZESTAWIENIE LIG Z BAZY HISTORYCZNEJ ---
         st.markdown("---")
@@ -1682,3 +1684,140 @@ elif menu == "🏆 Ślepy Test XGBoost (Eksperymentalne)":
             return [''] * len(row)
                 
         st.dataframe(df_xgb[display_cols].style.apply(highlight_bg, axis=1), use_container_width=True, height=600)
+
+elif menu == "💎 Super Pewniaki (O/U + KNN)":
+    st.title("💎 Super Pewniaki: Oddzielne Warunki")
+    st.markdown("Niezależne zestawienie meczów spełniających jeden z dwóch restrykcyjnych warunków.")
+    
+    wybrana_data_sp = st.date_input("Wybierz dzień z predykcjami:", datetime.now(), key="sp_date")
+    date_str_sp = wybrana_data_sp.strftime("%Y-%m-%d")
+    
+    df_knn = load_today_predictions(date_str_sp)
+    df_ou = load_today_predictions_ou(date_str_sp)
+    
+    # Przygotowanie danych O/U
+    df_ou_filtered = pd.DataFrame()
+    if not df_ou.empty:
+        df_ou_filtered = df_ou[(df_ou['% Over 1.5'] >= 79)].copy()
+        
+    # Przygotowanie danych KNN
+    df_knn_filtered = pd.DataFrame()
+    if not df_knn.empty:
+        if 'MAX_Szansa' not in df_knn.columns:
+            df_knn['MAX_Szansa'] = df_knn[['% Wygranej Gospodarza [1]', '% Wygranej Goscia [2]', '% Remisu [X]']].max(axis=1)
+        if 'Typ_Modelu' not in df_knn.columns:
+            def przypisz_typ(row):
+                if row['MAX_Szansa'] == row['% Wygranej Gospodarza [1]']: return '1'
+                if row['MAX_Szansa'] == row['% Wygranej Goscia [2]']: return '2'
+                return 'X'
+            df_knn['Typ_Modelu'] = df_knn.apply(przypisz_typ, axis=1)
+        df_knn_filtered = df_knn[df_knn['MAX_Szansa'] == 85].copy()
+
+    # --- SEKCJA 1: OVER/UNDER 1.5 ---
+    st.markdown("---")
+    st.header("1. Warunek Goli: Over 1.5 w przedziale 79% - 100%")
+    
+    c_ou_table, c_ou_stat = st.columns([3, 1])
+    
+    with c_ou_table:
+        if df_ou_filtered.empty:
+            st.info(f"Brak meczów spełniających warunek O/U dla {date_str_sp}.")
+        else:
+            display_cols_ou = ['Godzina', 'Mecz', 'Liga', '% Over 1.5', '% Over 2.5', '% BTTS']
+            d_cols_ou = [c for c in display_cols_ou if c in df_ou_filtered.columns]
+            df_ou_display = df_ou_filtered[d_cols_ou].copy()
+            for c in ['% Over 1.5', '% Over 2.5', '% BTTS']:
+                if c in df_ou_display.columns:
+                    df_ou_display[c] = df_ou_display[c].round(1).astype(str) + "%"
+                    
+            def style_ou(row):
+                return ['background-color: rgba(46, 204, 113, 0.2); font-weight:bold;'] * len(row)
+            st.dataframe(df_ou_display.style.apply(style_ou, axis=1), use_container_width=True)
+
+    with c_ou_stat:
+        st.markdown("📈 **Historyczna Skuteczność**")
+        st.caption("Czy było od 1 do 5 goli?")
+        df_hist_ou = load_ou_validation_history()
+        if not df_hist_ou.empty:
+            df_hou_f = df_hist_ou[df_hist_ou['% Over 1.5'] >= 79].copy()
+            def check_g(x):
+                try:
+                    if pd.isna(x) or str(x) == '-': return False
+                    h, a = map(int, str(x).split(':'))
+                    return 1 <= (h+a) <= 5
+                except:
+                    return False
+            if len(df_hou_f) > 0:
+                df_hou_f['Succ_1_5'] = df_hou_f['Wynik_Gole'].apply(check_g)
+                valid_hou = df_hou_f[df_hou_f['Wynik_Gole'] != '-'].copy()
+                if len(valid_hou) > 0:
+                    succ_rate = valid_hou['Succ_1_5'].mean() * 100
+                    st.metric("Skuteczność (1-5 goli)", f"{succ_rate:.1f}%", f"{len(valid_hou)} meczów")
+                    with st.expander("Pokaż rozstrzygnięte mecze"):
+                        disp_cols_h = ['Data_Rozegrania', 'Mecz', '% Over 1.5', 'Wynik_Gole', 'Succ_1_5']
+                        valid_hou_disp = valid_hou[[c for c in disp_cols_h if c in valid_hou.columns]].copy()
+                        valid_hou_disp = valid_hou_disp.sort_values('Data_Rozegrania', ascending=False)
+                        st.dataframe(valid_hou_disp, use_container_width=True)
+                else:
+                    st.info("Brak zwalidowanych.")
+            else:
+                st.info("Brak meczów >= 79%.")
+        else:
+            st.info("Brak historii O/U.")
+
+    # --- SEKCJA 2: KNN == 85% ---
+    st.markdown("---")
+    st.header("2. Warunek KNN: Dokładnie 85%")
+    
+    c_knn_table, c_knn_stat = st.columns([3, 1])
+    
+    with c_knn_table:
+        if df_knn_filtered.empty:
+            st.info(f"Brak meczów spełniających warunek KNN dla {date_str_sp}.")
+        else:
+            display_cols_knn = ['Godzina', 'Mecz', 'Liga', 'Typ_Modelu', 'MAX_Szansa', 'Kurs [Faworyt]']
+            d_cols_knn = [c for c in display_cols_knn if c in df_knn_filtered.columns]
+            df_knn_display = df_knn_filtered[d_cols_knn].copy()
+            if 'MAX_Szansa' in df_knn_display.columns:
+                df_knn_display['MAX_Szansa'] = df_knn_display['MAX_Szansa'].round(1).astype(str) + "%"
+                
+            def style_knn(row):
+                return ['background-color: rgba(52, 152, 219, 0.2); font-weight:bold;'] * len(row)
+            st.dataframe(df_knn_display.style.apply(style_knn, axis=1), use_container_width=True)
+
+    with c_knn_stat:
+        st.markdown("📈 **Historyczna Skuteczność**")
+        st.caption("Czy faworyt wygrał mecz?")
+        df_hist_knn = load_validation_history()
+        if not df_hist_knn.empty:
+            if 'MAX_Szansa' not in df_hist_knn.columns:
+                df_hist_knn['MAX_Szansa'] = df_hist_knn[['% Wygranej Gospodarza [1]', '% Wygranej Goscia [2]', '% Remisu [X]']].max(axis=1)
+            
+            df_hknn_f = df_hist_knn[df_hist_knn['MAX_Szansa'] == 85].copy()
+            df_hknn_valid = df_hknn_f[df_hknn_f['Status'].isin(['WYGRANA', 'PRZEGRANA'])].copy()
+            
+            if len(df_hknn_valid) > 0:
+                knn_rate = (df_hknn_valid['Status'] == 'WYGRANA').mean() * 100
+                
+                wins = (df_hknn_valid['Status'] == 'WYGRANA').sum()
+                draws = (df_hknn_valid['Wynik_Rzeczywisty'].astype(str).str.upper() == 'X').sum()
+                losses = len(df_hknn_valid) - wins - draws
+                win_draw_rate = ((wins + draws) / len(df_hknn_valid)) * 100
+                
+                c_m1, c_m2 = st.columns(2)
+                with c_m1:
+                    st.metric("Skuteczność (Wygrana)", f"{knn_rate:.1f}%", f"{len(df_hknn_valid)} meczów")
+                with c_m2:
+                    st.metric("Skuteczność (1X / X2)", f"{win_draw_rate:.1f}%", "Wygrana + Remis")
+                
+                st.caption(f"✅ Wygrane: **{wins}** | ➖ Remisy: **{draws}** | ❌ Przegrane: **{losses}**")
+                
+                with st.expander("Pokaż rozstrzygnięte mecze"):
+                    disp_cols_k = ['Data_Rozegrania', 'Mecz', 'Liga', 'Typ_Modelu', 'Kurs [Faworyt]', 'Wynik_Rzeczywisty', 'Status']
+                    valid_knn_disp = df_hknn_valid[[c for c in disp_cols_k if c in df_hknn_valid.columns]].copy()
+                    valid_knn_disp = valid_knn_disp.sort_values('Data_Rozegrania', ascending=False)
+                    st.dataframe(valid_knn_disp, use_container_width=True)
+            else:
+                st.info("Brak zwalidowanych.")
+        else:
+            st.info("Brak historii KNN.")

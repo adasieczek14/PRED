@@ -99,7 +99,7 @@ STAWKA = 100.0  # płaska stawka do ROI
 
 # Typowe kursy rynkowe na O/U (uproszczone — fctables nie podaje kursów O/U)
 KURS_OVER_15 = 1.25
-KURS_OVER_25 = 1.80
+KURS_OVER_25 = 1.60
 KURS_BTTS    = 1.75
 
 

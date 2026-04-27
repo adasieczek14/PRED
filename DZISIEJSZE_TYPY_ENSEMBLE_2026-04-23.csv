@@ -1,0 +1,35 @@
+﻿Godzina;Mecz;Liga;Kurs [Faworyt];% Wygranej Gospodarza [1];% Wygranej Goscia [2];% Remisu [X];Typ_Modelu;Consensus;KNN_%1;KNN_%X;KNN_%2;XGB_%1;XGB_%X;XGB_%2
+16:00;Esperance vs Zarzis;Tunisia 1;1.22 (1);72.0;6.9;21.1;1;✅ OBA ZGODNE (1);72.0;28.0;0.0;72.0;16.5;11.5
+16:00;Duhok vs Al Gharraf;Iraq 1;3.9 (2);67.1;18.5;14.3;1;✅ OBA ZGODNE (1);84.0;4.0;12.0;55.9;21.2;22.9
+18:45;Al Bataeh vs Al-Ain;U.A.E. 1;1.3 (2);13.2;66.5;20.3;2;✅ OBA ZGODNE (2);8.0;20.0;72.0;16.6;20.5;62.9
+22:30;Spanish Town Police FC vs Portmore United;Jamaica 1;1.16 (2);15.3;65.0;19.7;2;✅ OBA ZGODNE (2);24.0;24.0;52.0;9.5;16.9;73.6
+14:30;Zoria Ługańsk vs Szachtar Donieck;Ukraine 1;1.3 (2);15.3;64.9;19.8;2;✅ OBA ZGODNE (2);16.0;16.0;68.0;14.9;22.3;62.8
+16:00;Kerala Blasters FC vs Delhi Dynamos FC;India ISL 1;1.66 (1);62.5;17.3;20.2;1;✅ OBA ZGODNE (1);72.0;16.0;12.0;56.2;23.0;20.8
+20:00;Wieczysta Krakow vs Polonia Bytom;Poland 2;1.8 (1);62.4;14.8;22.8;1;✅ OBA ZGODNE (1);72.0;20.0;8.0;56.0;24.7;19.4
+18:10;Al Najma vs Al-Taawon;Saudi Arabia 1;1.48 (2);18.4;62.3;19.4;2;✅ OBA ZGODNE (2);20.0;12.0;68.0;17.3;24.3;58.5
+18:30;Zakho vs Al Kahrabaa;Iraq 1;1.65 (1);59.4;18.2;22.4;1;✅ OBA ZGODNE (1);72.0;16.0;12.0;51.0;26.7;22.3
+21:00;PSV Eindhoven vs PEC Zwolle;Eredivisie;1.25 (1);58.4;19.0;22.6;1;✅ OBA ZGODNE (1);60.0;24.0;16.0;57.3;21.6;21.1
+20:00;Casa Pia vs Braga;Portugal 1;5.25 (1);23.0;57.2;19.7;2;✅ OBA ZGODNE (2);16.0;20.0;64.0;27.7;19.6;52.7
+15:00;Zesco United vs NAPSA Stars FC;Zambia 1;1.6 (1);56.6;17.4;26.0;1;✅ OBA ZGODNE (1);52.0;28.0;20.0;59.6;24.7;15.6
+21:00;Salford City vs Bromley;England 4;1.8 (1);54.9;20.4;24.7;1;✅ OBA ZGODNE (1);60.0;24.0;16.0;51.5;25.2;23.3
+16:30;Victoria United vs Dynamo de Douala;Cameroon 1;1.85 (1);54.6;21.2;24.2;1;✅ OBA ZGODNE (1);56.0;24.0;20.0;53.7;24.4;21.9
+20:00;Damac FC vs Al Akhdoud;Saudi Arabia 1;1.66 (1);49.3;21.7;29.0;1;✅ OBA ZGODNE (1);44.0;32.0;24.0;52.8;26.9;20.2
+20:00;Rayo Vallecano vs Espanyol;Spain 1;2.1 (1);47.5;28.0;24.5;1;✅ OBA ZGODNE (1);52.0;20.0;28.0;44.6;27.5;28.0
+18:30;Al Quwa Al Jawiya vs Erbil;Iraq 1;2.15 (1);47.1;32.8;20.1;1;✅ OBA ZGODNE (1);48.0;16.0;36.0;46.5;22.8;30.7
+jutro 01:15;Lobos UPNFM vs Policia NFC;Honduras 1;1.8 (1);47.1;23.8;29.0;1;✅ OBA ZGODNE (1);40.0;32.0;28.0;51.9;27.1;21.0
+16:00;Al-Sharjah vs Al-Wahda;U.A.E. 1;2.05 (2);28.5;45.9;25.7;2;✅ OBA ZGODNE (2);28.0;24.0;48.0;28.8;26.8;44.4
+21:30;Real Oviedo vs Villarreal;Spain 1;3.6 (1);19.8;44.2;36.0;2;⚠️ RÓŻNICA (KNN:X XGB:2);12.0;44.0;44.0;25.0;30.7;44.3
+14:15;Melaka vs Sabah FA;Malaysia 1;2.15 (2);34.9;42.7;22.3;2;⚠️ RÓŻNICA (KNN:2 XGB:1);32.0;16.0;52.0;36.9;26.5;36.6
+19:00;Levante vs Sevilla FC;Spain 1;2.4 (1);42.6;28.0;29.4;1;✅ OBA ZGODNE (1);44.0;32.0;24.0;41.7;27.6;30.7
+18:45;Go Ahead Eagles vs AZ Alkmaar;Eredivisie;3.0 (1);27.4;41.9;30.7;2;✅ OBA ZGODNE (2);20.0;32.0;48.0;32.4;29.8;37.8
+17:15;Dinamo Samarqand vs OTMK Olmaliq;Uzbekistan 1;3.0 (2);41.3;30.8;27.9;1;✅ OBA ZGODNE (1);48.0;24.0;28.0;36.8;30.5;32.6
+16:00;Nasaf Qarshi vs Lokomotiv Tashkent;Uzbekistan 1;2.1 (1);39.6;31.5;29.0;1;⚠️ RÓŻNICA (KNN:2 XGB:1);28.0;32.0;40.0;47.3;27.0;25.8
+jutro 01:00;Deportivo Pasto vs Santa Fe;Colombia 1;3.4 (2);34.7;39.3;26.0;2;✅ OBA ZGODNE (2);32.0;28.0;40.0;36.5;24.7;38.9
+23:30;Dunbeholden vs Harbour View;Jamaica 1;2.3 (1);39.1;26.4;34.5;1;⚠️ RÓŻNICA (KNN:X XGB:1);32.0;44.0;24.0;43.8;28.2;28.0
+16:00;Pjunik vs FC Banants;Armenia 1;3.8 (2);38.6;30.5;30.9;1;✅ OBA ZGODNE (1);40.0;28.0;32.0;37.6;32.8;29.5
+14:00;Malut United vs Persebaya Surabaya;Indonesia 1;3.7 (2);37.4;24.6;38.0;X;⚠️ RÓŻNICA (KNN:X XGB:1);36.0;48.0;16.0;38.3;31.3;30.4
+16:30;Stade Renard vs PWD Bamenda;Cameroon 1;2.5 (1);37.6;36.2;26.2;1;✅ OBA ZGODNE (1);36.0;28.0;36.0;38.6;25.0;36.4
+18:30;Old Edwardians vs Bo Rangers;Sierra Leone 1;2.6 (2);37.4;36.5;26.1;1;⚠️ RÓŻNICA (KNN:2 XGB:1);36.0;24.0;40.0;38.3;27.6;34.1
+jutro 01:00;Defensa y Justicia vs Boca Juniors;Argentina 1;2.45 (2);30.6;37.0;32.5;2;⚠️ RÓŻNICA (KNN:X XGB:2);32.0;40.0;28.0;29.6;27.4;42.9
+16:00;Al Ittihad Kalba vs Bani Yas;U.A.E. 1;2.2 (2);31.2;36.9;31.8;2;⚠️ RÓŻNICA (KNN:X XGB:2);32.0;36.0;32.0;30.7;29.1;40.2
+22:00;Santa Rosa de Andahuaylas vs Cienciano;Peru 1;2.37 (1);36.4;32.8;30.9;1;⚠️ RÓŻNICA (KNN:X XGB:1);32.0;36.0;32.0;39.3;27.4;33.3

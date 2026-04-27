@@ -218,6 +218,7 @@ def main():
         pliki_do_sprawdzenia = [f for f in files if os.path.exists(f)]
     else:
         pliki_do_sprawdzenia = sorted(glob.glob(os.path.join(base_dir, "DZISIEJSZE_TYPY_*.csv")))
+        pliki_do_sprawdzenia = [f for f in pliki_do_sprawdzenia if "OU" not in os.path.basename(f) and "BTTS" not in os.path.basename(f)]
         
     if not pliki_do_sprawdzenia:
         print("Nie znaleziono starych plików CSV z predykcjami do zwalidowania.")
